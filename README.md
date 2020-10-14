@@ -38,10 +38,19 @@ Articles and videos in China are often not so persistent, it is recommended that
  
 ### Linux & Unix
 
+### Frontend
+
+#### CSS
+
+##### Flex
+
+- [x] Article: [*A complete guide to flexbox*](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
 
 
 ## Wisdom canon
 
-- [ ] Book: [**]
+- [ ] Book: [*Gödel, Escher, Bach: An Eternal Golden Braid*]
 
 
