@@ -11,10 +11,18 @@ Forms of information:
 
 Articles and videos in China are often not so persistent, it is recommended that you download information useful before they are wiped out.
 
+
 ## Business
+
+### Startup
 
 - [ ] Book: *The lean startup*
  
+### Speaking
+
+
+
+
 
 
 ## Programming
