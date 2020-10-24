@@ -89,7 +89,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Wisdom canon
 
-- [ ] Book: [*Gödel, Escher, Bach: An Eternal Golden Braid*]
+- [ ] Book: [*Gödel, Escher, Bach: An Eternal Golden Braid*](https://book.douban.com/subject/1372834/)
 
 
 
