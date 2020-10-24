@@ -67,6 +67,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 ## Writing and reading
 
 - [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
+- [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
+- [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
+
 
 ## Economics
 
