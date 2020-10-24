@@ -64,6 +64,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 
 
+## Writing and reading
+
+- [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
+
 ## Economics
 
 ### Microeconomics
