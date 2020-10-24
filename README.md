@@ -73,9 +73,16 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Book: [*Macroeconomics*] by Mankiew
 
 
+## Languages
+
+### 日本語
+
+- [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
+
 
 ## Wisdom canon
 
 - [ ] Book: [*Gödel, Escher, Bach: An Eternal Golden Braid*]
+
 
 
