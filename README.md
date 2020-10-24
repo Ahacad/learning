@@ -21,13 +21,17 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Speaking
 
 
+### Management
 
 
-
+## Researches
 
 ## Programming
 
 
+### Design patterns
+
+- [ ] Repo [Python-patterns](https://github.com/faif/python-patterns)
 
 
 
@@ -35,10 +39,15 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Book: [*The Art of Unix Programming* by Eric S. Raymond](https://book.douban.com/subject/1229959/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
+- [ ] Repo [Choose a license](https://github.com/github/choosealicense.com)
  
 ### Linux & Unix
 
 ### Frontend
+
+- [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 #### CSS
 
@@ -46,6 +55,22 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [x] Article: [*A complete guide to flexbox*](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+### Golang
+
+- [ ] Website: [Go by example](https://gobyexample.com/)
+
+
+## Psychology
+
+
+
+## Economics
+
+### Microeconomics
+
+### Macroeconomics
+
+- [ ] Book: [*Macroeconomics*] by Mankiew
 
 
 
