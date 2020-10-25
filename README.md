@@ -70,6 +70,8 @@ Table of Contents
  
 ### Linux & Unix
 
+- [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 ### Frontend
 
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
