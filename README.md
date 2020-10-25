@@ -65,6 +65,7 @@ Table of Contents
 ### Be a real programmer
 
 - [ ] Book: [*The Art of Unix Programming* by Eric S. Raymond](https://book.douban.com/subject/1229959/)
+- [ ] Book: [*Clean Code*](https://book.douban.com/subject/3032825/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
 - [ ] Repo [Choose a license](https://github.com/github/choosealicense.com)
  
