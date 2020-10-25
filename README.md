@@ -77,6 +77,7 @@ Table of Contents
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [ ] Website: [Javascript info](https://javascript.info/polyfills)
 
 #### Frameworks
 
