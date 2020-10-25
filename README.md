@@ -80,7 +80,8 @@ Table of Contents
 
 #### Frameworks
 
-- [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue#google-analytics)
+- [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
+- [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 
 #### CSS
 
