@@ -78,6 +78,8 @@ Table of Contents
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
+- [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+
 
 #### Frameworks
 
