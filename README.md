@@ -78,6 +78,10 @@ Table of Contents
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
+#### Frameworks
+
+- [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue#google-analytics)
+
 #### CSS
 
 ##### Flex
