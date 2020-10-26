@@ -68,7 +68,8 @@ Table of Contents
 - [ ] Book: [*Clean Code* by Robert C. Martin](https://book.douban.com/subject/3032825/)
 - [ ] Book: [*The Clean Coder* by Robert C. Martin](https://book.douban.com/subject/6114900/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
-- [ ] Repo [Choose a license](https://github.com/github/choosealicense.com)
+- [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
+- [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
  
 ### Linux & Unix
 
