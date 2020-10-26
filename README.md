@@ -70,8 +70,10 @@ Table of Contents
 - [ ] Book: [*The Mythical Man-month* by Friedricks P. Brooks Jr](https://book.douban.com/subject/1494471/)
 - [ ] Book: [*Peopleware* by DeMarco and Lister](https://book.douban.com/subject/1451438/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
+
 - [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [ ] Website: [Semantic versioning](https://semver.org/)
  
 ### Linux & Unix
 
