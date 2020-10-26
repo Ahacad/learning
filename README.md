@@ -125,6 +125,10 @@ Table of Contents
 
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 
+## Philosophy and essays
+
+- [ ] Book: [*The Idea of a University* by John Henry Newman](http://www.newmanreader.org/works/idea/)
+
 
 ## Wisdom canon
 
