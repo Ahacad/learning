@@ -135,6 +135,7 @@ Table of Contents
 ## Philosophy and essays
 
 - [ ] Book: [*The Idea of a University* by John Henry Newman](http://www.newmanreader.org/works/idea/)
+- [ ] Essay: [*Politics and the English Language*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 
 
 ## Wisdom canon
