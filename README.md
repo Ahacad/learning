@@ -113,6 +113,9 @@ Table of Contents
 
 ## Psychology
 
+### Metalearning
+
+- [ ] Repo: [*The craft of selfteaching*](https://github.com/selfteaching/the-craft-of-selfteaching)
 
 
 ## Writing and reading
