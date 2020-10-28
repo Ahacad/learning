@@ -58,6 +58,9 @@ Table of Contents
 
 ### Algorithm and data structure
 
+- [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
+- [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
+
 ### Design patterns
 
 - [ ] Repo [Python-patterns](https://github.com/faif/python-patterns)
@@ -77,6 +80,7 @@ Table of Contents
 - [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] Website: [Semantic versioning](https://semver.org/)
+
  
 ### Linux & Unix
 
