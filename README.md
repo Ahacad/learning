@@ -66,7 +66,6 @@ Table of Contents
 - [ ] Repo [Python-patterns](https://github.com/faif/python-patterns)
 
 
-
 ### Be a real programmer
 
 - [ ] Book: [*The Art of Unix Programming* by Eric S. Raymond](https://book.douban.com/subject/1229959/)
@@ -80,6 +79,7 @@ Table of Contents
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
 - [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
 - [ ] Website: [Semantic versioning](https://semver.org/)
 
  
@@ -110,6 +110,11 @@ Table of Contents
 ### Golang
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
+
+
+## Design
+
+### Illustrations
 
 
 ## Psychology
