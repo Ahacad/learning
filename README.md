@@ -116,6 +116,27 @@ Table of Contents
 
 ### Illustrations
 
+- [ ] Website: [*Iconsout*](https://iconscout.com/)
+- [ ] Website: [*Drawkit*](https://www.drawkit.io/)
+- [ ] Website: [*manypixels*](https://www.manypixels.co/gallery/)
+- [ ] Website: [*Blush*](https://blush.design/)
+- [ ] Website: [IRA Design](https://iradesign.io/)
+- [ ] Website: [*Vector Creator*](https://icons8.com/vector-creator)
+- [ ] Website: [*unDraw*](https://undraw.co/illustrations)
+- [ ] Website: [*Free illustrations*](https://lukaszadam.com/illustrations)
+- [ ] Website: [*Open doodles*](https://www.opendoodles.com/)
+- [ ] Website: [*isoflat*](https://isoflat.com/)
+- [ ] Website: [*Open Peeps*](https://www.openpeeps.com/)
+- [ ] Websiet: [Fresh Folk](https://fresh-folk.com/)
+
+### Videos
+
+- [ ] Website: [*mixkit*](https://mixkit.co/)
+
+### Emojis
+
+- [ ] Website: [*Openemoji*](https://openmoji.org/)
+
 
 ## Psychology
 
