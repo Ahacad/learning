@@ -89,40 +89,51 @@ Table of Contents
 
 ### Frontend
 
+- [ ] Website: [MDN](https://developer.mozilla.org/en-US/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [ ] Website: [css style guides (collection by css tricks)](https://css-tricks.com/css-style-guides/)
+- [x] Website: [css guide lines](https://cssguidelin.es/)
+- [ ] Website: [sass guidelines](https://sass-guidelin.es/)
+- [ ] Website: [Google css style guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [ ] Website: [5 things to consider when creating your CSS style guide](https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d/)
+- [ ] Website: [All about float](https://css-tricks.com/all-about-floats/)
+- [x] Website: [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] Website: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] Website: [Online drawing cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+- [ ] Website: [CSS triggers](https://csstriggers.com/): see what gets triggered when a element changes
+
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
-
+- [ ] 
+- [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
 
 #### Frameworks
 
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 
-#### CSS
-
-##### Flex
-
-- [x] Article: [*A complete guide to flexbox*](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 ### Golang
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
+
+### Python
+
+- [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 
 ## Design
 
 ### Illustrations
 
+- [ ] Website: [*unDraw*](https://undraw.co/illustrations)
 - [ ] Website: [*Iconsout*](https://iconscout.com/)
 - [ ] Website: [*Drawkit*](https://www.drawkit.io/)
 - [ ] Website: [*manypixels*](https://www.manypixels.co/gallery/)
 - [ ] Website: [*Blush*](https://blush.design/)
 - [ ] Website: [IRA Design](https://iradesign.io/)
 - [ ] Website: [*Vector Creator*](https://icons8.com/vector-creator)
-- [ ] Website: [*unDraw*](https://undraw.co/illustrations)
 - [ ] Website: [*Free illustrations*](https://lukaszadam.com/illustrations)
 - [ ] Website: [*Open doodles*](https://www.opendoodles.com/)
 - [ ] Website: [*isoflat*](https://isoflat.com/)
@@ -133,8 +144,9 @@ Table of Contents
 
 - [ ] Website: [*mixkit*](https://mixkit.co/)
 
-### Emojis
+### Emojis and Icons
 
+- [ ] Website: [*Icons8*](https://icons8.com/)
 - [ ] Website: [*Openemoji*](https://openmoji.org/)
 
 
@@ -171,6 +183,11 @@ Table of Contents
 
 - [ ] Book: [*The Idea of a University* by John Henry Newman](http://www.newmanreader.org/works/idea/)
 - [ ] Essay: [*Politics and the English Language*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
+
+## Documentaries
+
+- [ ] [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
+- [ ] [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
 
 
 ## Wisdom canon
