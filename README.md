@@ -11,32 +11,42 @@ Forms of information:
 
 Articles and videos in China are often not so persistent, it is recommended that you download information useful before they are wiped out.
 
-Table of Contents
-=================
+## Table of Contents
 
-* [Readme first](#readme-first)
+<!-- vim-markdown-toc GFM -->
+
 * [Business](#business)
-   * [Startup](#startup)
-   * [Speaking](#speaking)
-   * [Management](#management)
+  * [Startup](#startup)
+  * [Speaking](#speaking)
+  * [Management](#management)
 * [Researches](#researches)
 * [Programming](#programming)
-   * [Design patterns](#design-patterns)
-   * [Be a real programmer](#be-a-real-programmer)
-   * [Linux &amp; Unix](#linux--unix)
-   * [Frontend](#frontend)
-      * [CSS](#css)
-         * [Flex](#flex)
-   * [Golang](#golang)
+  * [Algorithm and data structure](#algorithm-and-data-structure)
+  * [Design patterns](#design-patterns)
+  * [Be a real programmer](#be-a-real-programmer)
+  * [Terminal tools](#terminal-tools)
+  * [Linux & Unix](#linux--unix)
+  * [Frontend](#frontend)
+    * [Frameworks](#frameworks)
+  * [Golang](#golang)
+  * [Python](#python)
+* [Design](#design)
+  * [Illustrations](#illustrations)
+  * [Videos](#videos)
+  * [Emojis and Icons](#emojis-and-icons)
 * [Psychology](#psychology)
+  * [Metalearning](#metalearning)
 * [Writing and reading](#writing-and-reading)
 * [Economics](#economics)
-   * [Microeconomics](#microeconomics)
-   * [Macroeconomics](#macroeconomics)
+  * [Microeconomics](#microeconomics)
+  * [Macroeconomics](#macroeconomics)
 * [Languages](#languages)
-   * [日本語](#日本語)
+  * [日本語](#日本語)
+* [Philosophy and essays](#philosophy-and-essays)
+* [Documentaries](#documentaries)
 * [Wisdom canon](#wisdom-canon)
 
+<!-- vim-markdown-toc -->
 
 
 ## Business
@@ -80,8 +90,14 @@ Table of Contents
 - [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
+- [ ] Website: [Github Flavored Markdown Spec](https://github.github.com/gfm/)
 - [ ] Website: [Semantic versioning](https://semver.org/)
+- [ ] Website: [菜鸟教程](https://www.runoob.com/)
 
+### Terminal tools
+
+- [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
+- [ ] Website: [Crontab.guru](https://crontab.guru/)
  
 ### Linux & Unix
 
@@ -93,6 +109,8 @@ Table of Contents
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+
+- [ ] Website: [BEM](http://getbem.com/)
 - [ ] Website: [css style guides (collection by css tricks)](https://css-tricks.com/css-style-guides/)
 - [x] Website: [css guide lines](https://cssguidelin.es/)
 - [ ] Website: [sass guidelines](https://sass-guidelin.es/)
@@ -103,9 +121,12 @@ Table of Contents
 - [ ] Website: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [ ] Website: [Online drawing cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [ ] Website: [CSS triggers](https://csstriggers.com/): see what gets triggered when a element changes
+- [ ] Website: [Free frontend](https://freefrontend.com/)
 
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
+- [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+- [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [ ] 
 - [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
 
