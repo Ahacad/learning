@@ -25,6 +25,7 @@ Articles and videos in China are often not so persistent, it is recommended that
   * [Design patterns](#design-patterns)
   * [Be a real programmer](#be-a-real-programmer)
   * [Terminal tools](#terminal-tools)
+    * [Vim](#vim)
   * [Linux & Unix](#linux--unix)
   * [Frontend](#frontend)
     * [Frameworks](#frameworks)
@@ -98,6 +99,11 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
 - [ ] Website: [Crontab.guru](https://crontab.guru/)
+
+#### Vim 
+
+- [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+- [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
  
 ### Linux & Unix
 
@@ -134,6 +140,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
+- [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 
 ### Golang
 
