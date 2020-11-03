@@ -51,6 +51,8 @@ Articles and videos in China are often not so persistent, it is recommended that
   * [日本語](#日本語)
 * [Philosophy and essays](#philosophy-and-essays)
 * [Documentaries](#documentaries)
+* [Tolkien](#tolkien)
+* [Philosophy](#philosophy)
 * [Wisdom canon](#wisdom-canon)
 
 <!-- vim-markdown-toc -->
@@ -108,6 +110,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
 - [ ] Website: [Crontab.guru](https://crontab.guru/)
+
+- [ ] Question: [Why is 'U+' used to designate a Unicode code point?](https://stackoverflow.com/questions/1273693/why-is-u-used-to-designate-a-unicode-code-point#:~:text=The%20characters%20%E2%80%9CU%2B%E2%80%9D%20are%20an,in%20the%20Unicode%20mailing%20list.)
 
 #### Vim 
 
@@ -176,7 +180,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### LaTeX
 
-- [ ] Question: [Rightarrow with text above it(https://tex.stackexchange.com/questions/85113/xrightarrow-text)
+- [ ] Question: [Rightarrow with text above it](https://tex.stackexchange.com/questions/85113/xrightarrow-text)
+- [ ] Question: [What package allows Elvish in TeX?](https://tex.stackexchange.com/questions/13015/what-package-allows-elvish-in-tex)
 
 ### Machine Learning
 
@@ -253,9 +258,19 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Documentaries
 
-- [ ] [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
-- [ ] [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
+- [ ] Video: [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
+- [ ] Video: [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
 
+## Tolkien
+
+- [ ] Website: [The Tolkien Society](https://www.tolkiensociety.org/)
+- [ ] Website: [Tolkien Phandom](https://lotr.fandom.com/wiki/Tolkien_Fandom)
+- [ ] Website: [Tolkien Gatsway](http://tolkiengateway.net/wiki/Main_Page)
+- [ ] Website: [Tolkien Forum](https://www.thetolkienforum.com/)
+
+## Philosophy
+
+- [ ] [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 
 ## Wisdom canon
 
