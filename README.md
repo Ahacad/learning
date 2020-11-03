@@ -8,6 +8,8 @@ Forms of information:
   - GitHub repo: this enables real time interaction with the author, relatively persistent
   - personal blogs: held by individuals, persistency typically not guaranteed 
   - Youtube: great video learning resources, relatively persistent but not guaranteed
+  - great article: very insightful articles
+  - article: workds written on websites, often focused on solving some particular problem
 
 Articles and videos in China are often not so persistent, it is recommended that you download information useful before they are wiped out.
 
@@ -29,10 +31,14 @@ Articles and videos in China are often not so persistent, it is recommended that
   * [Linux & Unix](#linux--unix)
   * [Frontend](#frontend)
     * [Frameworks](#frameworks)
+  * [C++](#c)
   * [Golang](#golang)
   * [Python](#python)
+  * [LaTeX](#latex)
+  * [Machine Learning](#machine-learning)
 * [Design](#design)
   * [Illustrations](#illustrations)
+  * [Color](#color)
   * [Videos](#videos)
   * [Emojis and Icons](#emojis-and-icons)
 * [Psychology](#psychology)
@@ -48,7 +54,6 @@ Articles and videos in China are often not so persistent, it is recommended that
 * [Wisdom canon](#wisdom-canon)
 
 <!-- vim-markdown-toc -->
-
 
 ## Business
 
@@ -71,6 +76,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
 - [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
+- [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
 
 ### Design patterns
 
@@ -86,8 +92,11 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Book: [*The Design of Design* by Friedricks P. Brooks Jr](https://book.douban.com/subject/4046371/)
 - [ ] Book: [*Peopleware* by DeMarco and Lister](https://book.douban.com/subject/1451438/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
+
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
+- [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
+
 - [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
@@ -116,6 +125,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
+- [ ] Repo: [css modules](https://github.com/css-modules/css-modules)
 - [ ] Website: [BEM](http://getbem.com/)
 - [ ] Website: [css style guides (collection by css tricks)](https://css-tricks.com/css-style-guides/)
 - [x] Website: [css guide lines](https://cssguidelin.es/)
@@ -128,6 +138,11 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Online drawing cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [ ] Website: [CSS triggers](https://csstriggers.com/): see what gets triggered when a element changes
 - [ ] Website: [Free frontend](https://freefrontend.com/)
+- [ ] Website: [Sass in the Real World: book 1 of 4](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/rules-to-live-by/oocss.html)
+- [ ] Website: [Object-orinted CSS](http://oocss.org/)
+- [ ] Repo: [oocss](https://github.com/stubbornella/oocss)
+- [ ] Article: [OOCSS - modular theming](https://www.benmarshall.me/oocss-object-oriented-css/)
+- [ ] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
 
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
@@ -142,6 +157,15 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 
+- [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
+- [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
+
+### C++ 
+
+- [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
+- [ ] Website: [cplusplus.com](http://cplusplus.com/)
+- [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
+
 ### Golang
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
@@ -149,6 +173,16 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Python
 
 - [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
+### LaTeX
+
+- [ ] Question: [Rightarrow with text above it(https://tex.stackexchange.com/questions/85113/xrightarrow-text)
+
+### Machine Learning
+
+- [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
+
 
 
 ## Design
@@ -167,6 +201,11 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [*isoflat*](https://isoflat.com/)
 - [ ] Website: [*Open Peeps*](https://www.openpeeps.com/)
 - [ ] Websiet: [Fresh Folk](https://fresh-folk.com/)
+
+### Color
+
+- [ ] Website: [nippon colors](https://nipponcolors.com/)
+
 
 ### Videos
 
