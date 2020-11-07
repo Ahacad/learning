@@ -1,6 +1,8 @@
 
 ## Readme first
 
+Gimp
+
 My languages: Chinese, English, Japanese. All the books have links to *douban*, an awesome website of book reviewing, albeit held back for political reasons.
 
 Forms of information:
@@ -18,37 +20,48 @@ Articles and videos in China are often not so persistent, it is recommended that
 <!-- vim-markdown-toc GFM -->
 
 * [Business](#business)
-  * [Startup](#startup)
-  * [Speaking](#speaking)
-  * [Management](#management)
+    * [Startup](#startup)
+    * [Speaking](#speaking)
+    * [Management](#management)
 * [Researches](#researches)
+* [Blogs](#blogs)
+    * [Awesome programmers](#awesome-programmers)
 * [Programming](#programming)
-  * [Algorithm and data structure](#algorithm-and-data-structure)
-  * [Design patterns](#design-patterns)
-  * [Be a real programmer](#be-a-real-programmer)
-  * [Terminal tools](#terminal-tools)
-    * [Vim](#vim)
-  * [Linux & Unix](#linux--unix)
-  * [Frontend](#frontend)
-    * [Frameworks](#frameworks)
-  * [C++](#c)
-  * [Golang](#golang)
-  * [Python](#python)
-  * [LaTeX](#latex)
-  * [Machine Learning](#machine-learning)
+    * [Network](#network)
+    * [Compiler](#compiler)
+    * [Algorithm and data structure](#algorithm-and-data-structure)
+    * [Design patterns](#design-patterns)
+    * [Be a real programmer](#be-a-real-programmer)
+    * [Terminal tools](#terminal-tools)
+        * [Vim](#vim)
+    * [Linux & Unix](#linux--unix)
+        * [Arch Linux](#arch-linux)
+    * [Frontend](#frontend)
+        * [Frameworks](#frameworks)
+    * [C++](#c)
+    * [Golang](#golang)
+    * [Python](#python)
+    * [LaTeX](#latex)
+    * [Haskell](#haskell)
+    * [Machine Learning](#machine-learning)
 * [Design](#design)
-  * [Illustrations](#illustrations)
-  * [Color](#color)
-  * [Videos](#videos)
-  * [Emojis and Icons](#emojis-and-icons)
+    * [Learn design](#learn-design)
+    * [Mesh](#mesh)
+    * [Illustrations](#illustrations)
+    * [Color](#color)
+    * [Videos](#videos)
+    * [Emojis and Icons](#emojis-and-icons)
+    * [Tools](#tools)
+        * [Gimp](#gimp)
+    * [Wallpaper](#wallpaper)
 * [Psychology](#psychology)
-  * [Metalearning](#metalearning)
+    * [Metalearning](#metalearning)
 * [Writing and reading](#writing-and-reading)
 * [Economics](#economics)
-  * [Microeconomics](#microeconomics)
-  * [Macroeconomics](#macroeconomics)
+    * [Microeconomics](#microeconomics)
+    * [Macroeconomics](#macroeconomics)
 * [Languages](#languages)
-  * [日本語](#日本語)
+    * [日本語](#日本語)
 * [Philosophy and essays](#philosophy-and-essays)
 * [Documentaries](#documentaries)
 * [Tolkien](#tolkien)
@@ -71,14 +84,34 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Researches
 
+## Blogs
+
+- [ ] Blog: [Martin Fowler](https://martinfowler.com/)
+
+### Awesome programmers
+
+- [ ] [Anthony Fu](https://github.com/antfu)       : vue
+- [ ] [Wojciech Maj](https://github.com/wojtekmaj) : react
+
+
+
 ## Programming
 
+### Network
+
+- [ ] Book: [*Computer Networks: An Open Source Approach* by Lin and Hwang](https://book.douban.com/subject/6884995/)
+
+### Compiler
+
+- [ ] Book online: [Lexical Analysis with Flex](http://westes.github.io/flex/manual/)
+- [ ] Book online: [Bison 3.7.1](https://www.gnu.org/software/bison/manual/html_node/index.html)
 
 ### Algorithm and data structure
 
 - [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
 - [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
 - [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
+- [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 ### Design patterns
 
@@ -94,6 +127,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Book: [*The Design of Design* by Friedricks P. Brooks Jr](https://book.douban.com/subject/4046371/)
 - [ ] Book: [*Peopleware* by DeMarco and Lister](https://book.douban.com/subject/1451438/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
+- [ ] Website: [Programmer competency matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
@@ -105,6 +139,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Github Flavored Markdown Spec](https://github.github.com/gfm/)
 - [ ] Website: [Semantic versioning](https://semver.org/)
 - [ ] Website: [菜鸟教程](https://www.runoob.com/)
+
+- [ ] Article: [Circuit breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [ ] Article: [冷饭新炒：理解断路器CircuitBreaker的原理与实现](https://www.cnblogs.com/throwable/p/13906733.html)
 
 ### Terminal tools
 
@@ -120,7 +157,14 @@ Articles and videos in China are often not so persistent, it is recommended that
  
 ### Linux & Unix
 
+- [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+- [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
+
+#### Arch Linux
+
+- [ ] Wiki: [Touchpad Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics)
 
 ### Frontend
 
@@ -128,6 +172,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [ ] 
 
 - [ ] Repo: [css modules](https://github.com/css-modules/css-modules)
 - [ ] Website: [BEM](http://getbem.com/)
@@ -147,13 +192,19 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [oocss](https://github.com/stubbornella/oocss)
 - [ ] Article: [OOCSS - modular theming](https://www.benmarshall.me/oocss-object-oriented-css/)
 - [ ] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
+- [ ] Question: [Make div stick to the bottom of page](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page)
+- [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [ ] 
 
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
+- [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
 - [ ] 
+
 - [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
+- [ ] Website: [Cofolio](https://cofolios.com/)
 
 #### Frameworks
 
@@ -180,8 +231,14 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### LaTeX
 
+- [ ] Book online: [LaTeX wikibook](https://en.wikibooks.org/wiki/LaTeX)
+
 - [ ] Question: [Rightarrow with text above it](https://tex.stackexchange.com/questions/85113/xrightarrow-text)
 - [ ] Question: [What package allows Elvish in TeX?](https://tex.stackexchange.com/questions/13015/what-package-allows-elvish-in-tex)
+
+### Haskell
+
+- [ ] Book online: [Haskell wikibook](https://en.wikibooks.org/wiki/Haskell)
 
 ### Machine Learning
 
@@ -191,6 +248,23 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 
 ## Design
+
+
+### Learn design
+
+- [ ] Website: [growth design](https://growth.design/case-studies/)
+- [ ] Website: [Design better](https://www.designbetter.co/)
+- [ ] Website: [Really good UX](https://www.reallygoodux.io/)
+- [ ] Website: [Law of UX](https://lawsofux.com/)
+
+### Mesh
+
+- [ ] Website: [Uplabs](https://www.uplabs.com/)
+- [ ] Website: [Land-book](https://land-book.com/)
+- [ ] Website: [Landingfolio](https://www.landingfolio.com/?offset=2)
+- [ ] Website: [Menu](https://onepagelove.com/)
+- [ ] Website: [We are on PH!](https://mobbin.design/)
+
 
 ### Illustrations
 
@@ -206,10 +280,26 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [*isoflat*](https://isoflat.com/)
 - [ ] Website: [*Open Peeps*](https://www.openpeeps.com/)
 - [ ] Websiet: [Fresh Folk](https://fresh-folk.com/)
+- [ ] Websiet: [avataaars](https://avataaars.com/)
+- [ ] Websiet: [pixeltrue](https://www.pixeltrue.com/free-illustrations)
 
 ### Color
 
 - [ ] Website: [nippon colors](https://nipponcolors.com/)
+- [ ] Website: [Color hunt](https://colorhunt.co/)
+- [ ] Website: [Coolors](https://coolors.co/)
+- [ ] Website: [colorsinspo](https://colorsinspo.com/)
+- [ ] Website: [Khroma](http://khroma.co/)
+- [ ] Website: [Color :)](https://designkiki.com/colordoo/)
+- [ ] Website: [Pigment](https://pigment.shapefactory.co/)
+- [ ] Website: [Google Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
+- [ ] Website: [Color Leap](https://colorleap.app/dates)
+- [ ] Website: [Eggradients](https://www.eggradients.com/color-palette-inspiration)
+- [ ] Website: [colorable](https://colorable.jxnblk.com/)
+- [ ] Website: [Grabient](https://www.grabient.com/)
+- [ ] Website: [Gradient collection](https://products.ls.graphics/mesh-gradients/)
+- [ ] Website: [uiGradients](https://uigradients.com/#DarkOcean)
+- [ ] Website: [CSS Gradients](https://cssgradient.io/)
 
 
 ### Videos
@@ -221,8 +311,25 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [*Icons8*](https://icons8.com/)
 - [ ] Website: [*Openemoji*](https://openmoji.org/)
 
+### Tools 
+
+#### Gimp 
+
+- [ ] Book online: [Gimp user manual](https://docs.gimp.org/en/)
+- [ ] 
+
+- [x] Question: [Save selected portion of image in GIMP as PNG](https://graphicdesign.stackexchange.com/questions/132879/save-selected-portion-of-image-in-gimp-as-png)
+- [x] Question: [Gimp select rectangle selection as new image](https://www.warriorforum.com/website-design/86067-gimp-select-rectangle-selection-new-image.html)
+
+### Wallpaper
+
+- [ ] Website: [wallhaven](https://wallhaven.cc/)
+- [ ] Website: [wallhere](https://wallhere.com/)
+
 
 ## Psychology
+
+- [ ] Website: [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 
 ### Metalearning
 
@@ -250,6 +357,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### 日本語
 
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
+- [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
 
 ## Philosophy and essays
 
