@@ -38,18 +38,23 @@ Articles and videos in China are often not so persistent, it is recommended that
         * [Arch Linux](#arch-linux)
     * [Frontend](#frontend)
         * [Frameworks](#frameworks)
+    * [Backend](#backend)
     * [C++](#c)
     * [Golang](#golang)
     * [Python](#python)
     * [LaTeX](#latex)
     * [Haskell](#haskell)
     * [Machine Learning](#machine-learning)
+    * [Network security](#network-security)
 * [Design](#design)
     * [Learn design](#learn-design)
     * [Mesh](#mesh)
+    * [Pictures](#pictures)
     * [Illustrations](#illustrations)
     * [Color](#color)
+    * [Background](#background)
     * [Videos](#videos)
+    * [Sound](#sound)
     * [Emojis and Icons](#emojis-and-icons)
     * [Tools](#tools)
         * [Gimp](#gimp)
@@ -103,6 +108,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### Compiler
 
+- [ ] Book online: [Answers to exercises of Compilers PTT](http://dragon-book.jcf94.com/book/)
 - [ ] Book online: [Lexical Analysis with Flex](http://westes.github.io/flex/manual/)
 - [ ] Book online: [Bison 3.7.1](https://www.gnu.org/software/bison/manual/html_node/index.html)
 
@@ -147,8 +153,12 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
 - [ ] Website: [Crontab.guru](https://crontab.guru/)
+- [ ] 
 
 - [ ] Question: [Why is 'U+' used to designate a Unicode code point?](https://stackoverflow.com/questions/1273693/why-is-u-used-to-designate-a-unicode-code-point#:~:text=The%20characters%20%E2%80%9CU%2B%E2%80%9D%20are%20an,in%20the%20Unicode%20mailing%20list.)
+- [ ] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
+- [x] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
+- [x] Question: [Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf)
 
 #### Vim 
 
@@ -196,6 +206,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] 
 
+- [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
@@ -215,11 +226,16 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
 
+### Backend
+
+- [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
 ### C++ 
 
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
+- [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 
 ### Golang
 
@@ -235,6 +251,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Question: [Rightarrow with text above it](https://tex.stackexchange.com/questions/85113/xrightarrow-text)
 - [ ] Question: [What package allows Elvish in TeX?](https://tex.stackexchange.com/questions/13015/what-package-allows-elvish-in-tex)
+- [ ] Question: [Tips for choosing hardware for best LaTeX compile performance](https://tex.stackexchange.com/questions/103565/tips-for-choosing-hardware-for-best-latex-compile-performance)
 
 ### Haskell
 
@@ -245,6 +262,13 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
 
+### Network security
+
+- [ ] Repo: [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [ ] Repo: [Awesome web hacking](https://github.com/infoslack/awesome-web-hacking)
+- [ ] Repo: [Awesome hacking](https://github.com/carpedm20/awesome-hacking)
+- [ ] Repo: [Metasploit framework](https://github.com/rapid7/metasploit-framework)
+- [ ] 
 
 
 ## Design
@@ -256,6 +280,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Design better](https://www.designbetter.co/)
 - [ ] Website: [Really good UX](https://www.reallygoodux.io/)
 - [ ] Website: [Law of UX](https://lawsofux.com/)
+- [ ]
+- [ ] Website: [learn bezier drawing](https://bezier.method.ac/)
+- [ ] Website: [method.ac](https://method.ac/)
 
 ### Mesh
 
@@ -265,6 +292,12 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Menu](https://onepagelove.com/)
 - [ ] Website: [We are on PH!](https://mobbin.design/)
 
+### Pictures 
+
+- [ ] Website: [pixabay](https://pixabay.com/)
+- [ ] Website: [Unsplash](https://unsplash.com/)
+- [ ] Website: [pexels](https://www.pexels.com/)
+- [ ] Website: [Foodiesfeed](https://www.foodiesfeed.com/)
 
 ### Illustrations
 
@@ -301,10 +334,24 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [uiGradients](https://uigradients.com/#DarkOcean)
 - [ ] Website: [CSS Gradients](https://cssgradient.io/)
 
+### Background 
+
+- [ ] Website: [Bg-Painter](http://www.bg-painter.com/)
+- [ ] Website: [Cool Backgrounds](https://coolbackgrounds.io/)
+- [ ] Website: [Background generator](https://bggenerator.com/index.php)
+- [ ] Website: [Patternizer](https://patternizer.com/johnson/ykvu)
 
 ### Videos
 
 - [ ] Website: [*mixkit*](https://mixkit.co/)
+- [ ] Website: [videvo](https://www.videvo.net/)
+- [ ] Website: [videezy](https://www.videezy.com/)
+
+### Sound 
+
+- [ ] Website: [audionautix](https://audionautix.com/?__cf_chl_jschl_tk__=81078397f18de84a92719affcf4643f2a9cec495-1604809653-0-AZocqyAm_2ALPP3JpkhG8jpLFLyVxnLb4i5Xv4QydAtZGXftgdDyI6gVKmLJ3Q_4ibktJNBw793GRL3ZvciZBcGzAXYYgCNkrkB2j0Py-7tVYDSSCNYLpwS8GM9D8LNk7EYxXncgh09NUmOXUwFdQ_J1ghpe6qo1OYD2slCmrTx8cgi0TQj4Im_FmzQOw5w-fD0_ouC2KPczfJZQLelZ9PlI6lZkDPmPFIaWHQh9C-nTMWtQb0lno3Sqn5mttJ1fMHUo2xNEfqaKDomKbzx8Af6_HxSOfM00R1Sug9tdlvHVDs6flNUKJjNuLxkgl9a8s8zrmPw-zaSsxiss4pXubc0)
+- [ ] Website: [Freepd](https://freepd.com/)
+- [ ] Website: [freesound](https://freesound.org/)
 
 ### Emojis and Icons
 
