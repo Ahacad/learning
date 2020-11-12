@@ -97,7 +97,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] [Anthony Fu](https://github.com/antfu)       : vue
 - [ ] [Wojciech Maj](https://github.com/wojtekmaj) : react
-
+- [ ] [Lennart](https://github.com/LekoArts)       : gatsby
+- [ ]
+- [ ] [Alex Chi](https://github.com/skyzh)
 
 
 ## Programming
@@ -164,11 +166,15 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 - [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
+- [ ] Question: [vim put quotes and comma around words](https://stackoverflow.com/questions/24210133/vim-put-quotes-and-comma-around-words)
+- [ ] 
+- [ ] Article: [You don't need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
  
 ### Linux & Unix
 
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
 
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
 
@@ -214,6 +220,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
 - [ ] 
+- [ ] Book online: [How to graphql](https://www.howtographql.com/)
+- [ ] 
+
 
 - [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
 - [ ] Website: [Cofolio](https://cofolios.com/)
@@ -226,6 +235,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
+- [ ] Article: [Creating category pages for gatsby markdown blogs](https://www.samdawson.dev/article/gatsby-categories)
 
 ### Backend
 
