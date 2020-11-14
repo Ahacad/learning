@@ -3,7 +3,7 @@
 
 Gimp
 
-My languages: Chinese, English, Japanese. All the books have links to *douban*, an awesome website of book reviewing, albeit held back for political reasons.
+My languages: Chinese, English, Japanese. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
 
 Forms of information:
   - book: the most persistent way of conveying knowledge
@@ -39,6 +39,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Frontend](#frontend)
         * [Frameworks](#frameworks)
     * [Backend](#backend)
+    * [Nodejs](#nodejs)
     * [C++](#c)
     * [Golang](#golang)
     * [Python](#python)
@@ -113,6 +114,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Book online: [Answers to exercises of Compilers PTT](http://dragon-book.jcf94.com/book/)
 - [ ] Book online: [Lexical Analysis with Flex](http://westes.github.io/flex/manual/)
 - [ ] Book online: [Bison 3.7.1](https://www.gnu.org/software/bison/manual/html_node/index.html)
+- [ ] 
+- [ ] Wiki: [Execution (computing)](https://en.wikipedia.org/wiki/Execution_(computing))
 
 ### Algorithm and data structure
 
@@ -120,6 +123,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
 - [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
 - [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+- [ ] Wiki: [Catalan number](https://en.wikipedia.org/wiki/Catalan_number)
+
 
 ### Design patterns
 
@@ -153,6 +159,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### Terminal tools
 
+- [ ] Website: [terminal.sexy](https://terminal.sexy/): generate terminal color schemes
 - [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
 - [ ] Website: [Crontab.guru](https://crontab.guru/)
 - [ ] 
@@ -219,6 +226,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
+- [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
+- [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
+- [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
 - [ ] 
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
@@ -241,10 +251,17 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
+### Nodejs
+
+- [ ] Website: [official guide](https://nodejs.dev/learn)
+
 ### C++ 
+
+- [ ] Book online: [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
+- [ ] Website: [cppreference.com](https://en.cppreference.com/w/)
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 
