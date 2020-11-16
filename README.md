@@ -70,9 +70,11 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [日本語](#日本語)
 * [Philosophy and essays](#philosophy-and-essays)
 * [Documentaries](#documentaries)
+* [Films](#films)
 * [Tolkien](#tolkien)
 * [Philosophy](#philosophy)
 * [Wisdom canon](#wisdom-canon)
+* [Readme last](#readme-last)
 
 <!-- vim-markdown-toc -->
 
@@ -121,6 +123,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
 - [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
+- [ ] Repo: [over algorithm](https://github.com/overnote/over-algorithm)
 - [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
 - [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
@@ -174,6 +177,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 - [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
 - [ ] Question: [vim put quotes and comma around words](https://stackoverflow.com/questions/24210133/vim-put-quotes-and-comma-around-words)
+- [x] Question: [How to do case insensitive search in Vim](https://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim)
 - [ ] 
 - [ ] Article: [You don't need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
  
@@ -187,6 +191,9 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 #### Arch Linux
 
+- [ ] Wiki: [EFI system partition](https://wiki.archlinux.org/index.php/EFI_system_partition)
+- [ ] Wiki: [Partitioning](https://wiki.archlinux.org/index.php/Partitioning#Master_Boot_Record)
+- [ ] Wiki: [GRUB](https://wiki.archlinux.org/index.php/GRUB)
 - [ ] Wiki: [Touchpad Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics)
 
 ### Frontend
@@ -225,10 +232,12 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
+- [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
 - [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
 - [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
 - [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
+- [ ] Question: [Can I use loops to minimize ES6 import statements?](https://stackoverflow.com/questions/47117756/can-i-use-loops-to-minimize-es6-import-statements/47117907)
 - [ ] 
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
@@ -242,6 +251,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
+- [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
 
 - [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
@@ -268,12 +278,16 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Golang
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
+- [ ] Website: [go official website](https://golang.org/)
+- [ ] Repo: [over golang](https://github.com/overnote/over-golang)
 
 ### Python
 
 - [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ### LaTeX
+
+- [ ] doc: qtree
 
 - [ ] Book online: [LaTeX wikibook](https://en.wikibooks.org/wiki/LaTeX)
 
@@ -444,6 +458,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Video: [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
 - [ ] Video: [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
 
+## Films
+
+- [x] Film: [The big short](https://movie.douban.com/subject/26303622/)
+
 ## Tolkien
 
 - [ ] Website: [The Tolkien Society](https://www.tolkiensociety.org/)
@@ -459,5 +477,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Book: [*Gödel, Escher, Bach: An Eternal Golden Braid*](https://book.douban.com/subject/1372834/)
 
+## Readme last
 
+- *What is this repo for?*: Here records great learning resources for each topic and subtopic. WHen I want to get deep into a topic, I should be able to *quickly* get awesome learning resources here.
+- *How are they arranged?*: By the intention mentioned above, the resources should be arranged *topic closely related*.
 
