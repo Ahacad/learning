@@ -30,6 +30,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Network](#network)
     * [Compiler](#compiler)
     * [Algorithm and data structure](#algorithm-and-data-structure)
+        * [String](#string)
     * [Design patterns](#design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
     * [Terminal tools](#terminal-tools)
@@ -42,7 +43,10 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Nodejs](#nodejs)
     * [C++](#c)
     * [Golang](#golang)
+            * [Packages](#packages)
     * [Python](#python)
+    * [Rust](#rust)
+    * [Build your home!](#build-your-home)
     * [LaTeX](#latex)
     * [Haskell](#haskell)
     * [Machine Learning](#machine-learning)
@@ -92,6 +96,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Researches
 
+- [x] Article: [守住发际线：南大蒋炎岩谈读博那些事儿](https://www.jiqizhixin.com/articles/2019-09-16-17)
+
 ## Blogs
 
 - [ ] Blog: [Martin Fowler](https://martinfowler.com/)
@@ -122,13 +128,34 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Algorithm and data structure
 
 - [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
+- [ ] Group: [The Algorithms](https://github.com/TheAlgorithms)
+- [ ] Repo: [C-Plus-Plus](https://github.com/Ahacad/data-structures)
+- [ ] Repo: [Python](https://github.com/TheAlgorithms/Python)
+- [ ] Repo: [Java](https://github.com/TheAlgorithms/Java)
+- [ ] Repo: [Go](https://github.com/TheAlgorithms/Go)
+- [ ] Repo: [Javascript](https://github.com/TheAlgorithms/Javascript)
+- [ ] Repo: [C](https://github.com/TheAlgorithms/C)
+- [ ] Repo: [Rust](https://github.com/TheAlgorithms/Rust)
+- [ ] Repo: [Haskell](https://github.com/TheAlgorithms/Haskell)
+- [ ] Repo: [Dart](https://github.com/TheAlgorithms/Dart)
+- [ ] Repo: [javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [ ] 
+- [ ] Repo: [LeetCode Go](https://github.com/halfrost/LeetCode-Go)
+- [ ] Repo: [Javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [ ] Repo: [*Fucking algorithm*](https://github.com/labuladong/fucking-algorithm)
 - [ ] Repo: [over algorithm](https://github.com/overnote/over-algorithm)
 - [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
 - [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
+- [ ] Book online: [Algorithmen](https://www.inf.hs-flensburg.de/lang/algorithmen/algo.htm)
+
 - [ ] Wiki: [Catalan number](https://en.wikipedia.org/wiki/Catalan_number)
 
+#### String
+
+- [x] Article: [Knuth-Morris-Pratt string matching](https://www.ics.uci.edu/~eppstein/161/960227.html)
+- [x] Article: [Knuth-Morris-Pratt algorithm](https://www.inf.hs-flensburg.de/lang/algorithmen/pattern/kmpen.htm)
+- [ ] Book online: [Exact string matching algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/)
 
 ### Design patterns
 
@@ -148,10 +175,13 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
+- [ ] Repo: [awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 
-- [ ] Repo: [Choose a license](https://github.com/github/choosealicense.com)
+- [ ] Repo: [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+- [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 - [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
 - [ ] Website: [Github Flavored Markdown Spec](https://github.github.com/gfm/)
 - [ ] Website: [Semantic versioning](https://semver.org/)
@@ -200,8 +230,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [MDN](https://developer.mozilla.org/en-US/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [x] Repo: [frontend interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [ ] Website: [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [ ] 
 - [ ] Website: [iconify](https://iconify.design/)
 
@@ -228,6 +260,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] 
 
 - [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
+- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
@@ -250,6 +283,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
+- [ ] Repo: [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
 
@@ -274,6 +308,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [cppreference.com](https://en.cppreference.com/w/)
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
+- [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
 
 ### Golang
 
@@ -281,9 +316,24 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [go official website](https://golang.org/)
 - [ ] Repo: [over golang](https://github.com/overnote/over-golang)
 
+##### Packages
+
+- [ ] Question: [What should be the values of GOPATH and GOROOT](https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot)
+- [x] Issue: [cmd/go: 'cannot find module for path' when importing from subdirectories](https://github.com/golang/go/issues/26645)
+- [ ] Article: [How to write go code](https://golang.org/doc/code.html)
+
 ### Python
 
 - [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+- [ ] Repo: [30 days of python](https://github.com/Asabeneh/30-Days-Of-Python)
+
+### Rust
+
+- [ ] Repo: [rustlings](https://github.com/rust-lang/rustlings)
+
+### Build your home!
+
+- [ ] Repo: [core](https://github.com/home-assistant/cor)
 
 ### LaTeX
 
@@ -303,6 +353,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
+- [ ] 
+- [ ] Repo: [Bringing old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 ### Network security
 
@@ -479,6 +531,5 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Readme last
 
-- *What is this repo for?*: Here records great learning resources for each topic and subtopic. WHen I want to get deep into a topic, I should be able to *quickly* get awesome learning resources here.
-- *How are they arranged?*: By the intention mentioned above, the resources should be arranged *topic closely related*.
-
+- *What is this repo for?*: Here records great learning resources for each topic and subtopic. 
+- *How are they arranged?*: When I want to get deep into a topic, I should be able to *quickly* get awesome learning resources here. 
