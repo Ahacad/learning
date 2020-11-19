@@ -35,6 +35,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Be a real programmer](#be-a-real-programmer)
     * [Terminal tools](#terminal-tools)
         * [Vim](#vim)
+        * [Git](#git)
     * [Linux & Unix](#linux--unix)
         * [Arch Linux](#arch-linux)
     * [Frontend](#frontend)
@@ -105,6 +106,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Awesome programmers
 
 - [ ] [Anthony Fu](https://github.com/antfu)       : vue
+- [ ] [Pine](https://github.com/octref)       : vue, ts
 - [ ] [Wojciech Maj](https://github.com/wojtekmaj) : react
 - [ ] [Lennart](https://github.com/LekoArts)       : gatsby
 - [ ]
@@ -148,6 +150,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 - [ ] Book online: [Algorithmen](https://www.inf.hs-flensburg.de/lang/algorithmen/algo.htm)
+- [ ] Book : [Introduction to algorithms](https://book.douban.com/subject/11620581/)
 
 - [ ] Wiki: [Catalan number](https://en.wikipedia.org/wiki/Catalan_number)
 
@@ -179,6 +182,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 
 - [ ] Repo: [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [ ] Repo: [public apis](https://github.com/public-apis/public-apis)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -204,6 +208,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 #### Vim 
 
+- [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 - [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
 - [ ] Question: [vim put quotes and comma around words](https://stackoverflow.com/questions/24210133/vim-put-quotes-and-comma-around-words)
@@ -211,6 +216,12 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] 
 - [ ] Article: [You don't need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
  
+#### Git
+
+- [ ] Repo: [Git commit message styleguide](https://github.com/slashsbin/styleguide-git-commit-message)
+- [x] Article: [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
+- [x] Article: [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
+
 ### Linux & Unix
 
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
@@ -290,6 +301,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
 - [ ] Article: [Creating category pages for gatsby markdown blogs](https://www.samdawson.dev/article/gatsby-categories)
+
+ - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
 ### Backend
 
