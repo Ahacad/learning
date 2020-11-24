@@ -40,7 +40,9 @@ Articles and videos in China are often not so persistent, it is recommended that
         * [Arch Linux](#arch-linux)
     * [Frontend](#frontend)
         * [Frameworks](#frameworks)
+        * [website monitors](#website-monitors)
     * [Backend](#backend)
+    * [DevOps](#devops)
     * [Nodejs](#nodejs)
     * [C++](#c)
     * [Golang](#golang)
@@ -68,6 +70,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 * [Psychology](#psychology)
     * [Metalearning](#metalearning)
 * [Writing and reading](#writing-and-reading)
+* [Mathematics](#mathematics)
 * [Economics](#economics)
     * [Microeconomics](#microeconomics)
     * [Macroeconomics](#macroeconomics)
@@ -102,6 +105,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 ## Blogs
 
 - [ ] Blog: [Martin Fowler](https://martinfowler.com/)
+
+- [ ] Blog: [Techie Delight](https://www.techiedelight.com/): algorithms
 
 ### Awesome programmers
 
@@ -162,7 +167,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### Design patterns
 
-- [ ] Repo [Python-patterns](https://github.com/faif/python-patterns)
+- [ ] Repo: [Python-patterns](https://github.com/faif/python-patterns)
+- [ ] Website: [refactoring.guru](https://refactoring.guru/)
 
 
 ### Be a real programmer
@@ -219,6 +225,8 @@ Articles and videos in China are often not so persistent, it is recommended that
 #### Git
 
 - [ ] Repo: [Git commit message styleguide](https://github.com/slashsbin/styleguide-git-commit-message)
+- [ ] Gist: [semantic-commit-messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- [ ] Article: [如何有效地进行代码 Review？](https://zhuanlan.zhihu.com/p/268749337)
 - [x] Article: [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 - [x] Article: [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 
@@ -272,6 +280,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 - [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
@@ -295,6 +304,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [ ] Repo: [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+- [ ] Repo: [styled components](https://github.com/styled-components/styled-components)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
 
@@ -304,9 +314,17 @@ Articles and videos in China are often not so persistent, it is recommended that
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
+#### website monitors
+
+- [ ] Repo: [upptime](https://github.com/upptime/upptime)
+
 ### Backend
 
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
+### DevOps
+
+- [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
 ### Nodejs
 
@@ -328,6 +346,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [Go by example](https://gobyexample.com/)
 - [ ] Website: [go official website](https://golang.org/)
 - [ ] Repo: [over golang](https://github.com/overnote/over-golang)
+- [ ] Repo: [go best practices](https://github.com/smallnest/go-best-practices)
+- [ ] Repo: [uber go style guide](https://github.com/uber-go/guide)
+- [ ] Article: [effective go](https://golang.org/doc/effective_go.html)
+- [ ] Poem: [go proverb](https://go-proverbs.github.io/)
 
 ##### Packages
 
@@ -366,8 +388,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
+- [ ] Repo: [Deeplearning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [ ] 
 - [ ] Repo: [Bringing old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+- [ ] 
 
 ### Network security
 
@@ -495,6 +519,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
 - [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
 - [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
+
+## Mathematics
+
+- [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 
 
 ## Economics
