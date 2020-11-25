@@ -17,6 +17,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ## Table of Contents
 
+
 <!-- vim-markdown-toc GFM -->
 
 * [Business](#business)
@@ -36,6 +37,8 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Terminal tools](#terminal-tools)
         * [Vim](#vim)
         * [Git](#git)
+        * [On encoding](#on-encoding)
+        * [Regex](#regex)
     * [Linux & Unix](#linux--unix)
         * [Arch Linux](#arch-linux)
     * [Frontend](#frontend)
@@ -46,7 +49,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Nodejs](#nodejs)
     * [C++](#c)
     * [Golang](#golang)
-            * [Packages](#packages)
+        * [Packages](#packages)
     * [Python](#python)
     * [Rust](#rust)
     * [Build your home!](#build-your-home)
@@ -229,14 +232,26 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Article: [如何有效地进行代码 Review？](https://zhuanlan.zhihu.com/p/268749337)
 - [x] Article: [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 - [x] Article: [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
+- [ ] Question: [How to make Git “forget” about a file that was tracked but is now in .gitignore?](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
+
+#### On encoding 
+
+- [ ] [UTF-8：一些好像没什么用的冷知识](https://www.v2ex.com/t/657248)
+- [ ] [程序员必备：彻底弄懂常见的7种中文字符编码](https://zhuanlan.zhihu.com/p/46216008)
+
+#### Regex
+
+- [ ] Website: [regexr.com](https://regexr.com/)
 
 ### Linux & Unix
 
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
+- [ ] Question: [Is there a basic tutorial for grep, awk and sed?](https://unix.stackexchange.com/questions/2434/is-there-a-basic-tutorial-for-grep-awk-and-sed) 
 
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
+- [ ] Wiki: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) 
 
 #### Arch Linux
 
@@ -351,7 +366,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Article: [effective go](https://golang.org/doc/effective_go.html)
 - [ ] Poem: [go proverb](https://go-proverbs.github.io/)
 
-##### Packages
+#### Packages
 
 - [ ] Question: [What should be the values of GOPATH and GOROOT](https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot)
 - [x] Issue: [cmd/go: 'cannot find module for path' when importing from subdirectories](https://github.com/golang/go/issues/26645)
