@@ -42,8 +42,11 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Linux & Unix](#linux--unix)
         * [Arch Linux](#arch-linux)
     * [Frontend](#frontend)
+        * [CSS](#css)
+        * [Production ready websites to imitate](#production-ready-websites-to-imitate)
+            * [BEM, OOCSS, SMACSS](#bem-oocss-smacss)
         * [Frameworks](#frameworks)
-        * [website monitors](#website-monitors)
+        * [website monitors and speedup](#website-monitors-and-speedup)
     * [Backend](#backend)
     * [DevOps](#devops)
     * [Nodejs](#nodejs)
@@ -59,6 +62,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Network security](#network-security)
 * [Design](#design)
     * [Learn design](#learn-design)
+    * [Fonts](#fonts)
     * [Mesh](#mesh)
     * [Pictures](#pictures)
     * [Illustrations](#illustrations)
@@ -211,7 +215,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] 
 
 - [ ] Question: [Why is 'U+' used to designate a Unicode code point?](https://stackoverflow.com/questions/1273693/why-is-u-used-to-designate-a-unicode-code-point#:~:text=The%20characters%20%E2%80%9CU%2B%E2%80%9D%20are%20an,in%20the%20Unicode%20mailing%20list.)
-- [ ] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
+- [ ] Question: [What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
 - [x] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
 - [x] Question: [Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf)
 
@@ -271,8 +275,36 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] 
 - [ ] Website: [iconify](https://iconify.design/)
 
-- [ ] Repo: [css modules](https://github.com/css-modules/css-modules)
+#### CSS
+
+- [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+
+#### Production ready websites to imitate
+
+- [ ] [segment](https://segment.com/)
+
+
+##### BEM, OOCSS, SMACSS
+
 - [ ] Website: [BEM](http://getbem.com/)
+- [ ] Website: [BEM](https://en.bem.info/)
+- [ ] Website: [smacss](http://smacss.com/book/about)
+- [ ] Website: [object-orinted css](http://oocss.org/)
+- [ ] Repo: [oocss](https://github.com/stubbornella/oocss): oocss official github
+- [ ] Repo: [project-stub](https://github.com/bem/project-stub)
+- [x] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
+- [x] Article: [BEM 101](https://css-tricks.com/bem-101/)
+- [x] Article: [organizing css: OOCSS, SMACSS and BEM](https://mattstauffer.com/blog/organizing-css-oocss-smacss-and-bem/)
+- [x] Article: [BEM and SMACSS: advice from developers who've been there](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
+- [x] Article: [An introduction to SMACSS guidelines for writing css](https://vanseodesign.com/css/smacss-introduction/)
+- [x] Article: [introduction to the BEM methodology](https://www.toptal.com/css/introduction-to-bem-methodology)
+- [x] Article: [exploring smacss: scalable and modular architecture for css](https://www.toptal.com/css/introduction-to-bem-methodology)
+- [x] Article: [using object-orinted css with sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
+- [x] Article: [](https://saddamazad.com/2015/12/object-oriented-css-with-sass/#:~:text=This%20entry%20was%20published%20on,writing%20neat%20and%20manageable%20CSS.)
+- [x] Article: [SMACSS + Sass = the best way to write css](https://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
+
+- [ ] 
+- [ ] Repo: [css modules](https://github.com/css-modules/css-modules)
 - [ ] Website: [css style guides (collection by css tricks)](https://css-tricks.com/css-style-guides/)
 - [x] Website: [css guide lines](https://cssguidelin.es/)
 - [ ] Website: [sass guidelines](https://sass-guidelin.es/)
@@ -329,9 +361,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
-#### website monitors
+#### website monitors and speedup
 
 - [ ] Repo: [upptime](https://github.com/upptime/upptime)
+- [ ] Article: [Best practices for speeding up your website, Yahoo](https://developer.yahoo.com/performance/rules.html)
 
 ### Backend
 
@@ -349,6 +382,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Book online: [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 
+- [ ] Website: [c++ faq](http://www.cs.technion.ac.il/users/yechiel/c++-faq/thank-you.htm)
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
 - [ ] Website: [cppreference.com](https://en.cppreference.com/w/)
@@ -429,6 +463,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ]
 - [ ] Website: [learn bezier drawing](https://bezier.method.ac/)
 - [ ] Website: [method.ac](https://method.ac/)
+
+### Fonts
+
+- [ ] Website: [Adobe fonts](https://fonts.adobe.com/)
 
 ### Mesh
 
