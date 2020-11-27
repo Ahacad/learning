@@ -1,11 +1,12 @@
 
 ## Readme first
 
-Gimp
+**Languages of this repo**(or my language): Chinese, English, Japanese, Germany. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
 
-My languages: Chinese, English, Japanese. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
+**Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here.
 
-Forms of information:
+
+**Information on the Internet**: Some forms of information are:
   - book: the most persistent way of conveying knowledge
   - GitHub repo: this enables real time interaction with the author, relatively persistent
   - personal blogs: held by individuals, persistency typically not guaranteed 
@@ -13,7 +14,7 @@ Forms of information:
   - great article: very insightful articles
   - article: workds written on websites, often focused on solving some particular problem
 
-Articles and videos in China are often not so persistent, it is recommended that you download information useful before they are wiped out.
+Articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. Don't be a tenant on the Internet.
 
 ## Table of Contents
 
@@ -28,13 +29,18 @@ Articles and videos in China are often not so persistent, it is recommended that
 * [Blogs](#blogs)
     * [Awesome programmers](#awesome-programmers)
 * [Programming](#programming)
+    * [Get hired](#get-hired)
     * [Network](#network)
     * [Compiler](#compiler)
     * [Algorithm and data structure](#algorithm-and-data-structure)
         * [String](#string)
     * [Design patterns](#design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
+        * [Learning mesh](#learning-mesh)
+    * [Full-stack developer](#full-stack-developer)
+    * [Testing](#testing)
     * [Terminal tools](#terminal-tools)
+        * [Shell](#shell)
         * [Vim](#vim)
         * [Git](#git)
         * [On encoding](#on-encoding)
@@ -45,10 +51,13 @@ Articles and videos in China are often not so persistent, it is recommended that
         * [CSS](#css)
         * [Production ready websites to imitate](#production-ready-websites-to-imitate)
             * [BEM, OOCSS, SMACSS](#bem-oocss-smacss)
+        * [Javascript](#javascript)
         * [Frameworks](#frameworks)
         * [website monitors and speedup](#website-monitors-and-speedup)
     * [Backend](#backend)
     * [DevOps](#devops)
+    * [Security](#security)
+    * [Programming languages](#programming-languages)
     * [Nodejs](#nodejs)
     * [C++](#c)
     * [Golang](#golang)
@@ -62,6 +71,7 @@ Articles and videos in China are often not so persistent, it is recommended that
     * [Network security](#network-security)
 * [Design](#design)
     * [Learn design](#learn-design)
+    * [UI](#ui)
     * [Fonts](#fonts)
     * [Mesh](#mesh)
     * [Pictures](#pictures)
@@ -98,7 +108,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 ### Startup
 
 - [ ] Book: *The lean startup*
- 
+
 ### Speaking
 
 
@@ -126,6 +136,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 
 ## Programming
+
+### Get hired
+
+- [ ] [Bytedance](https://job.bytedance.com/referral/pc/position?keywords=&category=6704215862603155720&location=CT_125&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNTg5OTgwODkyODE1OzY3MDc5ODc2NTE2NzAwOTk0NjM7MA)
 
 ### Network
 
@@ -202,10 +216,25 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
 - [ ] Website: [Github Flavored Markdown Spec](https://github.github.com/gfm/)
 - [ ] Website: [Semantic versioning](https://semver.org/)
-- [ ] Website: [菜鸟教程](https://www.runoob.com/)
 
 - [ ] Article: [Circuit breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 - [ ] Article: [冷饭新炒：理解断路器CircuitBreaker的原理与实现](https://www.cnblogs.com/throwable/p/13906733.html)
+
+#### Learning mesh
+
+- [ ] Website: [菜鸟教程](https://www.runoob.com/)
+- [ ] Website: [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+
+
+### Full-stack developer
+
+- [ ] Repo: [professional programming](https://github.com/charlax/professional-programming)
+- [ ] Repo: [Become a fullstack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#learn-apis)
+- [ ] Website: [zKoder](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
+
+### Testing 
+
+- [ ] Repo: [k6](https://github.com/loadimpact/k6)
 
 ### Terminal tools
 
@@ -219,6 +248,10 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
 - [x] Question: [Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf)
 
+#### Shell 
+
+- [ ] [introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+
 #### Vim 
 
 - [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
@@ -228,7 +261,7 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [x] Question: [How to do case insensitive search in Vim](https://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim)
 - [ ] 
 - [ ] Article: [You don't need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
- 
+
 #### Git
 
 - [ ] Repo: [Git commit message styleguide](https://github.com/slashsbin/styleguide-git-commit-message)
@@ -325,11 +358,16 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] 
 
+#### Javascript
+
+- [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
+- [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 - [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
+- [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
@@ -343,8 +381,6 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] 
 
 
-- [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
-- [ ] Website: [Cofolio](https://cofolios.com/)
 
 #### Frameworks
 
@@ -368,11 +404,22 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 ### Backend
 
+
+- [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 ### DevOps
 
 - [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+- [ ] Mesh as repo: [DevOps Resources](https://github.com/bregman-arie/devops-resources)
+
+### Security 
+
+ - [ ] Website: [vx-underground](https://vx-underground.org/)
+
+### Programming languages
+
+- [ ] Repo: [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 
 ### Nodejs
 
@@ -394,10 +441,14 @@ Articles and videos in China are often not so persistent, it is recommended that
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
 - [ ] Website: [go official website](https://golang.org/)
+- [ ] Website: [the golang design initiative](https://golang.design/)
+- [ ] Book online: [go under the hood](https://golang.design/under-the-hood/)
 - [ ] Repo: [over golang](https://github.com/overnote/over-golang)
+- [ ] Repo: [read](https://github.com/talkgo/read)
 - [ ] Repo: [go best practices](https://github.com/smallnest/go-best-practices)
 - [ ] Repo: [uber go style guide](https://github.com/uber-go/guide)
 - [ ] Article: [effective go](https://golang.org/doc/effective_go.html)
+- [ ] Article: [A visual guide to go memory allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 - [ ] Poem: [go proverb](https://go-proverbs.github.io/)
 
 #### Packages
@@ -464,9 +515,20 @@ Articles and videos in China are often not so persistent, it is recommended that
 - [ ] Website: [learn bezier drawing](https://bezier.method.ac/)
 - [ ] Website: [method.ac](https://method.ac/)
 
+### UI
+
+- [ ] Repo: [awesome web design](https://github.com/nicolesaidy/awesome-web-design)
+- [ ] Website: [Daily UI](https://www.dailyui.co/)
+- [ ] Website: [UI design daily](https://uidesigndaily.com/?)
+- [ ] Website: [Learn UI design](https://learnui.design/)
+- [ ] Website: [collectui](https://collectui.com/)
+- [ ] Website: [Cofolio](https://cofolios.com/)
+- [ ] Article: [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
+
 ### Fonts
 
 - [ ] Website: [Adobe fonts](https://fonts.adobe.com/)
+- [ ] Website: [*Web Typography*](https://smad.jmu.edu/shen/webtype/index.html)
 
 ### Mesh
 
