@@ -1,7 +1,7 @@
 
 ## Readme first
 
-**Languages of this repo**(or my language): Chinese, English, Japanese, Germany. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
+**Languages of this repo**(or my language): Chinese, English, Japanese, German. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
 
 **Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here.
 
@@ -21,6 +21,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 <!-- vim-markdown-toc GFM -->
 
+* [Just for fun](#just-for-fun)
 * [Business](#business)
     * [Startup](#startup)
     * [Speaking](#speaking)
@@ -34,6 +35,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
     * [Compiler](#compiler)
     * [Algorithm and data structure](#algorithm-and-data-structure)
         * [String](#string)
+    * [Competitive programming](#competitive-programming)
     * [Design patterns](#design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
         * [Learning mesh](#learning-mesh)
@@ -52,6 +54,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
         * [Production ready websites to imitate](#production-ready-websites-to-imitate)
             * [BEM, OOCSS, SMACSS](#bem-oocss-smacss)
         * [Javascript](#javascript)
+        * [Animation](#animation)
         * [Frameworks](#frameworks)
         * [website monitors and speedup](#website-monitors-and-speedup)
     * [Backend](#backend)
@@ -71,7 +74,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
     * [Network security](#network-security)
 * [Design](#design)
     * [Learn design](#learn-design)
-    * [UI](#ui)
+    * [UIUX](#uiux)
     * [Fonts](#fonts)
     * [Mesh](#mesh)
     * [Pictures](#pictures)
@@ -94,14 +97,21 @@ Articles and videos in China (where I live in for now) are often not so persiste
 * [Languages](#languages)
     * [日本語](#日本語)
 * [Philosophy and essays](#philosophy-and-essays)
+* [History](#history)
+    * [US](#us)
+* [Living](#living)
+* [Education](#education)
 * [Documentaries](#documentaries)
 * [Films](#films)
 * [Tolkien](#tolkien)
-* [Philosophy](#philosophy)
 * [Wisdom canon](#wisdom-canon)
 * [Readme last](#readme-last)
 
 <!-- vim-markdown-toc -->
+
+## Just for fun
+
+- [ ] [Ted's list of interesting places](https://thunk.org/tytso/interesting-places.html)
 
 ## Business
 
@@ -113,6 +123,8 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 
 ### Management
+
+- [ ] [管理定律](https://wiki.mbalib.com/wiki/%E7%80%91%E5%B8%83%E5%BF%83%E7%90%86%E6%95%88%E5%BA%94#:~:text=%E8%BF%99%E7%A7%8D%E7%8E%B0%E8%B1%A1%E5%9C%A8%E5%BF%83%E7%90%86,%E5%8D%B4%E6%BA%85%E8%8A%B1%E8%85%BE%E9%9B%BE%E3%80%82)
 
 
 ## Researches
@@ -186,6 +198,12 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [x] Article: [Knuth-Morris-Pratt algorithm](https://www.inf.hs-flensburg.de/lang/algorithmen/pattern/kmpen.htm)
 - [ ] Book online: [Exact string matching algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/)
 
+
+### Competitive programming
+
+- [ ] 
+
+
 ### Design patterns
 
 - [ ] Repo: [Python-patterns](https://github.com/faif/python-patterns)
@@ -202,6 +220,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Book: [*Peopleware* by DeMarco and Lister](https://book.douban.com/subject/1451438/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
 - [ ] Website: [Programmer competency matrix](https://sijinjoseph.com/programmer-competency-matrix/)
+- [ ] Gist: [effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
@@ -209,6 +228,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 
 - [ ] Repo: [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [ ] Repo: [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [ ] Repo: [public apis](https://github.com/public-apis/public-apis)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -222,8 +242,13 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 #### Learning mesh
 
-- [ ] Website: [菜鸟教程](https://www.runoob.com/)
-- [ ] Website: [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+- [ ] Mesh: [菜鸟教程](https://www.runoob.com/)
+- [ ] Mesh: [devhintsw](https://devhints.io/)
+- [ ] Mesh: [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+- [ ] Mesh: [programming creek](https://www.programcreek.com/)
+- [ ] Mesh as repo: [professional programmer](https://github.com/stanzhai/be-a-professional-programmer)
+- [ ] Mesh as repo: [how to be a good programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+- [ ] Mesh as repo: [awesome computer science opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 
 ### Full-stack developer
@@ -265,6 +290,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 #### Git
 
 - [ ] Repo: [Git commit message styleguide](https://github.com/slashsbin/styleguide-git-commit-message)
+- [ ] Repo: [Git flight rools](https://github.com/k88hudson/git-flight-rules)
 - [ ] Gist: [semantic-commit-messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [ ] Article: [如何有效地进行代码 Review？](https://zhuanlan.zhihu.com/p/268749337)
 - [x] Article: [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
@@ -283,6 +309,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 ### Linux & Unix
 
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
+- [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
 - [ ] Question: [Is there a basic tutorial for grep, awk and sed?](https://unix.stackexchange.com/questions/2434/is-there-a-basic-tutorial-for-grep-awk-and-sed) 
@@ -299,7 +326,14 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 ### Frontend
 
+- [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
+- [ ] Mesh as repo: [frontend tutorial](https://github.com/windiest/Front-end-tutorial)
+- [ ] Mesh as repo: [awesome frontend learning resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+- [ ] Mesh as repo: [fetool](https://github.com/nieweidong/fetool)
+- [ ] Mesh as Website: [designmodo](https://designmodo.com/tutorials/)
+- [ ] Website: [Frontend development chewed up](https://alligator.io/)
 - [ ] Website: [MDN](https://developer.mozilla.org/en-US/)
+- [ ] Website: [UI playbook](https://uiplaybook.dev/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [x] Repo: [frontend interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
@@ -311,10 +345,12 @@ Articles and videos in China (where I live in for now) are often not so persiste
 #### CSS
 
 - [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+- [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
 
 #### Production ready websites to imitate
 
 - [ ] [segment](https://segment.com/)
+- [ ] [dvc](https://dvc.org/)
 
 
 ##### BEM, OOCSS, SMACSS
@@ -322,10 +358,12 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Website: [BEM](http://getbem.com/)
 - [ ] Website: [BEM](https://en.bem.info/)
 - [ ] Website: [smacss](http://smacss.com/book/about)
+- [ ] Website: [Object-orinted CSS](http://oocss.org/)
 - [ ] Website: [object-orinted css](http://oocss.org/)
 - [ ] Repo: [oocss](https://github.com/stubbornella/oocss): oocss official github
 - [ ] Repo: [project-stub](https://github.com/bem/project-stub)
 - [x] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
+- [ ] Article: [OOCSS - modular theming](https://www.benmarshall.me/oocss-object-oriented-css/)
 - [x] Article: [BEM 101](https://css-tricks.com/bem-101/)
 - [x] Article: [organizing css: OOCSS, SMACSS and BEM](https://mattstauffer.com/blog/organizing-css-oocss-smacss-and-bem/)
 - [x] Article: [BEM and SMACSS: advice from developers who've been there](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
@@ -343,6 +381,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Website: [sass guidelines](https://sass-guidelin.es/)
 - [ ] Website: [Google css style guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [ ] Website: [5 things to consider when creating your CSS style guide](https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d/)
+- [ ] Website: [Learn CSS layout](https://learnlayout.com/)
 - [ ] Website: [All about float](https://css-tricks.com/all-about-floats/)
 - [x] Website: [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] Website: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -350,9 +389,8 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Website: [CSS triggers](https://csstriggers.com/): see what gets triggered when a element changes
 - [ ] Website: [Free frontend](https://freefrontend.com/)
 - [ ] Website: [Sass in the Real World: book 1 of 4](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/rules-to-live-by/oocss.html)
-- [ ] Website: [Object-orinted CSS](http://oocss.org/)
+- [x] Article: [7 benefits of using sass over conventional css](https://www.mugo.ca/Blog/7-benefits-of-using-SASS-over-conventional-CSS)
 - [ ] Repo: [oocss](https://github.com/stubbornella/oocss)
-- [ ] Article: [OOCSS - modular theming](https://www.benmarshall.me/oocss-object-oriented-css/)
 - [ ] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
 - [ ] Question: [Make div stick to the bottom of page](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page)
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
@@ -365,6 +403,8 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 - [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
+- [ ] Repo: [javascript questions](https://github.com/lydiahallie/javascript-questions)
+- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
@@ -380,7 +420,9 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
 
+#### Animation
 
+- [ ] Mesh as repo: [awesome web effects](https://github.com/lindelof/awesome-web-effect)
 
 #### Frameworks
 
@@ -405,11 +447,14 @@ Articles and videos in China (where I live in for now) are often not so persiste
 ### Backend
 
 
+- [ ] Mesh as repo: [architect awesome](https://github.com/xingshaocheng/architect-awesome)
 - [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 ### DevOps
 
+
+- [ ] Repo: [OWASP cheat sheet series](https://github.com/OWASP/CheatSheetSeries)
 - [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [ ] Mesh as repo: [DevOps Resources](https://github.com/bregman-arie/devops-resources)
 
@@ -428,6 +473,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 ### C++ 
 
 - [ ] Book online: [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
+- [ ] Book online: [Modern C++ tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
 
 - [ ] Website: [c++ faq](http://www.cs.technion.ac.il/users/yechiel/c++-faq/thank-you.htm)
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
@@ -446,6 +492,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Repo: [over golang](https://github.com/overnote/over-golang)
 - [ ] Repo: [read](https://github.com/talkgo/read)
 - [ ] Repo: [go best practices](https://github.com/smallnest/go-best-practices)
+- [ ] Repo: [golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] Repo: [uber go style guide](https://github.com/uber-go/guide)
 - [ ] Article: [effective go](https://golang.org/doc/effective_go.html)
 - [ ] Article: [A visual guide to go memory allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
@@ -491,6 +538,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Repo: [Deeplearning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [ ] 
 - [ ] Repo: [Bringing old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+- [ ] Repo: [datasets](https://github.com/huggingface/datasets)
 - [ ] 
 
 ### Network security
@@ -507,6 +555,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 ### Learn design
 
+- [ ] Website: [sharpen](https://sharpen.design/)
 - [ ] Website: [growth design](https://growth.design/case-studies/)
 - [ ] Website: [Design better](https://www.designbetter.co/)
 - [ ] Website: [Really good UX](https://www.reallygoodux.io/)
@@ -515,9 +564,10 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Website: [learn bezier drawing](https://bezier.method.ac/)
 - [ ] Website: [method.ac](https://method.ac/)
 
-### UI
+### UIUX
 
 - [ ] Repo: [awesome web design](https://github.com/nicolesaidy/awesome-web-design)
+- [ ] Website: [learnux.io](https://learnux.io/)
 - [ ] Website: [Daily UI](https://www.dailyui.co/)
 - [ ] Website: [UI design daily](https://uidesigndaily.com/?)
 - [ ] Website: [Learn UI design](https://learnui.design/)
@@ -660,6 +710,24 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 - [ ] Book: [*The Idea of a University* by John Henry Newman](http://www.newmanreader.org/works/idea/)
 - [ ] Essay: [*Politics and the English Language*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
+- [ ] Essay: [The Gettysburg Address - Abraham Lincoln](./assets/gettysburg-address.md)
+
+- [ ] [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+ 
+## History
+
+### US
+
+- [ ] Website: [gilderlehrman](https://ap.gilderlehrman.org/)
+
+## Living
+
+- [ ] Repo: [tenant-point](https://github.com/soulteary/tenant-point)
+- [ ] Repo: [how to make more money](https://github.com/easychen/howto-make-more-money)
+
+## Education
+
+- [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
 
 ## Documentaries
 
@@ -677,9 +745,6 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Website: [Tolkien Gatsway](http://tolkiengateway.net/wiki/Main_Page)
 - [ ] Website: [Tolkien Forum](https://www.thetolkienforum.com/)
 
-## Philosophy
-
-- [ ] [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 
 ## Wisdom canon
 
