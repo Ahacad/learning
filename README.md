@@ -5,7 +5,7 @@
 
 **Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here. 
 
-**Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that theu are all to be mastered.
+**Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that they are all to be mastered.
 
 **Information on the Internet**: Some forms of information are:
   - book: the most persistent way of conveying knowledge
@@ -15,7 +15,9 @@
   - great article: very insightful articles
   - article: workds written on websites, often focused on solving some particular problem
 
-Articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. Don't be a tenant on the Internet.
+Articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
+
+We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. **Don't be a tenant on the Internet.**
 
 ## Table of Contents
 
@@ -40,6 +42,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
     * [Master design patterns](#master-design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
         * [Read through and arrange your own learning mesh](#read-through-and-arrange-your-own-learning-mesh)
+        * [Have fun with Github](#have-fun-with-github)
     * [Be a fullstack programmer](#be-a-fullstack-programmer)
     * [Master terminal tools](#master-terminal-tools)
         * [Master shell scripts](#master-shell-scripts)
@@ -252,6 +255,10 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Mesh as repo: [how to be a good programmer](https://github.com/niudai/How-to-be-a-good-programmer)
 - [ ] Mesh as repo: [awesome computer science opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 
+#### Have fun with Github 
+
+- [x] Article: {Easiest way to set up your Github profile page](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8)}
+- [ ] Repo: [github readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### Be a fullstack programmer
 
@@ -654,6 +661,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 - [ ] Website: [*Icons8*](https://icons8.com/)
 - [ ] Website: [*Openemoji*](https://openmoji.org/)
+- [ ] Website: [*simpleicons*](https://simpleicons.org/)
 
 ### Tools 
 
