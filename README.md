@@ -239,6 +239,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 - [ ] Article: [Circuit breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 - [ ] Article: [冷饭新炒：理解断路器CircuitBreaker的原理与实现](https://www.cnblogs.com/throwable/p/13906733.html)
+- [ ] Wiki: [Extended Backus-Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form?oldformat=true)
 
 #### Learning mesh
 
