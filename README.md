@@ -3,8 +3,9 @@
 
 **Languages of this repo**(or my language): Chinese, English, Japanese, German. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
 
-**Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here.
+**Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here. 
 
+**Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that theu are all to be mastered.
 
 **Information on the Internet**: Some forms of information are:
   - book: the most persistent way of conveying knowledge
@@ -23,42 +24,41 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 * [Just for fun](#just-for-fun)
 * [Business](#business)
-    * [Startup](#startup)
+    * [Learn about startups](#learn-about-startups)
     * [Speaking](#speaking)
     * [Management](#management)
-* [Researches](#researches)
-* [Blogs](#blogs)
-    * [Awesome programmers](#awesome-programmers)
-* [Programming](#programming)
+* [Know how to do researches](#know-how-to-do-researches)
+* [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
+    * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
+* [Really know how to program](#really-know-how-to-program)
     * [Get hired](#get-hired)
-    * [Network](#network)
-    * [Compiler](#compiler)
-    * [Algorithm and data structure](#algorithm-and-data-structure)
-        * [String](#string)
+    * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
+    * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
+    * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
+        * [Master string related algorithms](#master-string-related-algorithms)
     * [Competitive programming](#competitive-programming)
-    * [Design patterns](#design-patterns)
+    * [Master design patterns](#master-design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
-        * [Learning mesh](#learning-mesh)
-    * [Full-stack developer](#full-stack-developer)
-    * [Testing](#testing)
-    * [Terminal tools](#terminal-tools)
-        * [Shell](#shell)
-        * [Vim](#vim)
-        * [Git](#git)
-        * [On encoding](#on-encoding)
-        * [Regex](#regex)
-    * [Linux & Unix](#linux--unix)
-        * [Arch Linux](#arch-linux)
-    * [Frontend](#frontend)
-        * [CSS](#css)
-        * [Production ready websites to imitate](#production-ready-websites-to-imitate)
-            * [BEM, OOCSS, SMACSS](#bem-oocss-smacss)
-        * [Javascript](#javascript)
-        * [Animation](#animation)
-        * [Frameworks](#frameworks)
-        * [website monitors and speedup](#website-monitors-and-speedup)
-    * [Backend](#backend)
-    * [DevOps](#devops)
+        * [Read through and arrange your own learning mesh](#read-through-and-arrange-your-own-learning-mesh)
+    * [Be a fullstack programmer](#be-a-fullstack-programmer)
+    * [Master terminal tools](#master-terminal-tools)
+        * [Master shell scripts](#master-shell-scripts)
+        * [Master vim](#master-vim)
+        * [Master git](#master-git)
+        * [Master encoding](#master-encoding)
+        * [Master regex](#master-regex)
+    * [Know deeply about Linux & Unix](#know-deeply-about-linux--unix)
+        * [Be a Arch Linuxist](#be-a-arch-linuxist)
+    * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
+        * [Master CSS](#master-css)
+        * [Make beautiful, production ready websites](#make-beautiful-production-ready-websites)
+            * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
+        * [Have a deep understanding of JS](#have-a-deep-understanding-of-js)
+        * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
+        * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
+        * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
+    * [Become a powerful backend developer](#become-a-powerful-backend-developer)
+    * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
     * [Security](#security)
     * [Programming languages](#programming-languages)
     * [Nodejs](#nodejs)
@@ -101,6 +101,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
     * [US](#us)
 * [Living](#living)
 * [Education](#education)
+    * [Know what to do of getting into PhD](#know-what-to-do-of-getting-into-phd)
 * [Documentaries](#documentaries)
 * [Films](#films)
 * [Tolkien](#tolkien)
@@ -115,7 +116,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 ## Business
 
-### Startup
+### Learn about startups
 
 - [ ] Book: *The lean startup*
 
@@ -127,17 +128,17 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] [管理定律](https://wiki.mbalib.com/wiki/%E7%80%91%E5%B8%83%E5%BF%83%E7%90%86%E6%95%88%E5%BA%94#:~:text=%E8%BF%99%E7%A7%8D%E7%8E%B0%E8%B1%A1%E5%9C%A8%E5%BF%83%E7%90%86,%E5%8D%B4%E6%BA%85%E8%8A%B1%E8%85%BE%E9%9B%BE%E3%80%82)
 
 
-## Researches
+## Know how to do researches
 
 - [x] Article: [守住发际线：南大蒋炎岩谈读博那些事儿](https://www.jiqizhixin.com/articles/2019-09-16-17)
 
-## Blogs
+## Read and learn from the amazing blogs
 
 - [ ] Blog: [Martin Fowler](https://martinfowler.com/)
 
 - [ ] Blog: [Techie Delight](https://www.techiedelight.com/): algorithms
 
-### Awesome programmers
+### Learn from the awesome programmers
 
 - [ ] [Anthony Fu](https://github.com/antfu)       : vue
 - [ ] [Pine](https://github.com/octref)       : vue, ts
@@ -147,17 +148,17 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] [Alex Chi](https://github.com/skyzh)
 
 
-## Programming
+## Really know how to program
 
 ### Get hired
 
 - [ ] [Bytedance](https://job.bytedance.com/referral/pc/position?keywords=&category=6704215862603155720&location=CT_125&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNTg5OTgwODkyODE1OzY3MDc5ODc2NTE2NzAwOTk0NjM7MA)
 
-### Network
+### Have a good understanding of computer networks
 
 - [ ] Book: [*Computer Networks: An Open Source Approach* by Lin and Hwang](https://book.douban.com/subject/6884995/)
 
-### Compiler
+### Have a good understanding of compiler
 
 - [ ] Book online: [Answers to exercises of Compilers PTT](http://dragon-book.jcf94.com/book/)
 - [ ] Book online: [Lexical Analysis with Flex](http://westes.github.io/flex/manual/)
@@ -165,7 +166,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] 
 - [ ] Wiki: [Execution (computing)](https://en.wikipedia.org/wiki/Execution_(computing))
 
-### Algorithm and data structure
+### Have a good understanding of algorithms and datastructures
 
 - [ ] Repo: [*Coding Interview University*](https://github.com/jwasham/coding-interview-university)
 - [ ] Group: [The Algorithms](https://github.com/TheAlgorithms)
@@ -192,7 +193,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 - [ ] Wiki: [Catalan number](https://en.wikipedia.org/wiki/Catalan_number)
 
-#### String
+#### Master string related algorithms
 
 - [x] Article: [Knuth-Morris-Pratt string matching](https://www.ics.uci.edu/~eppstein/161/960227.html)
 - [x] Article: [Knuth-Morris-Pratt algorithm](https://www.inf.hs-flensburg.de/lang/algorithmen/pattern/kmpen.htm)
@@ -204,7 +205,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] 
 
 
-### Design patterns
+### Master design patterns
 
 - [ ] Repo: [Python-patterns](https://github.com/faif/python-patterns)
 - [ ] Website: [refactoring.guru](https://refactoring.guru/)
@@ -241,7 +242,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Article: [冷饭新炒：理解断路器CircuitBreaker的原理与实现](https://www.cnblogs.com/throwable/p/13906733.html)
 - [ ] Wiki: [Extended Backus-Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form?oldformat=true)
 
-#### Learning mesh
+#### Read through and arrange your own learning mesh
 
 - [ ] Mesh: [菜鸟教程](https://www.runoob.com/)
 - [ ] Mesh: [devhintsw](https://devhints.io/)
@@ -252,17 +253,14 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Mesh as repo: [awesome computer science opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 
-### Full-stack developer
+### Be a fullstack programmer
 
 - [ ] Repo: [professional programming](https://github.com/charlax/professional-programming)
 - [ ] Repo: [Become a fullstack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#learn-apis)
 - [ ] Website: [zKoder](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
 
-### Testing 
 
-- [ ] Repo: [k6](https://github.com/loadimpact/k6)
-
-### Terminal tools
+### Master terminal tools
 
 - [ ] Website: [terminal.sexy](https://terminal.sexy/): generate terminal color schemes
 - [ ] Website: [Shell scripting tutorial](https://www.shellscript.sh/)
@@ -274,11 +272,11 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [x] Question: [Convert a directory of JPEG files to a single PDF document](https://askubuntu.com/questions/246647/convert-a-directory-of-jpeg-files-to-a-single-pdf-document)
 - [x] Question: [Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf)
 
-#### Shell 
+#### Master shell scripts
 
 - [ ] [introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
-#### Vim 
+#### Master vim
 
 - [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
@@ -288,7 +286,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] 
 - [ ] Article: [You don't need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
 
-#### Git
+#### Master git
 
 - [ ] Repo: [Git commit message styleguide](https://github.com/slashsbin/styleguide-git-commit-message)
 - [ ] Repo: [Git flight rools](https://github.com/k88hudson/git-flight-rules)
@@ -298,16 +296,16 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [x] Article: [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 - [ ] Question: [How to make Git “forget” about a file that was tracked but is now in .gitignore?](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
 
-#### On encoding 
+#### Master encoding 
 
 - [ ] [UTF-8：一些好像没什么用的冷知识](https://www.v2ex.com/t/657248)
 - [ ] [程序员必备：彻底弄懂常见的7种中文字符编码](https://zhuanlan.zhihu.com/p/46216008)
 
-#### Regex
+#### Master regex
 
 - [ ] Website: [regexr.com](https://regexr.com/)
 
-### Linux & Unix
+### Know deeply about Linux & Unix
 
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
@@ -318,14 +316,14 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
 - [ ] Wiki: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) 
 
-#### Arch Linux
+#### Be a Arch Linuxist
 
 - [ ] Wiki: [EFI system partition](https://wiki.archlinux.org/index.php/EFI_system_partition)
 - [ ] Wiki: [Partitioning](https://wiki.archlinux.org/index.php/Partitioning#Master_Boot_Record)
 - [ ] Wiki: [GRUB](https://wiki.archlinux.org/index.php/GRUB)
 - [ ] Wiki: [Touchpad Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics)
 
-### Frontend
+### Become a powerful Frontend developer
 
 - [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
 - [ ] Mesh as repo: [frontend tutorial](https://github.com/windiest/Front-end-tutorial)
@@ -343,18 +341,19 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] 
 - [ ] Website: [iconify](https://iconify.design/)
 
-#### CSS
+#### Master CSS
 
 - [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
+- [ ] Website: [tailwind ui](https://tailwindui.com/)
 
-#### Production ready websites to imitate
+#### Make beautiful, production ready websites
 
 - [ ] [segment](https://segment.com/)
 - [ ] [dvc](https://dvc.org/)
 
 
-##### BEM, OOCSS, SMACSS
+##### Master BEM, OOCSS and SMACSS
 
 - [ ] Website: [BEM](http://getbem.com/)
 - [ ] Website: [BEM](https://en.bem.info/)
@@ -397,7 +396,7 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] 
 
-#### Javascript
+#### Have a deep understanding of JS
 
 - [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
 - [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -421,11 +420,11 @@ Articles and videos in China (where I live in for now) are often not so persiste
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
 
-#### Animation
+#### Be able to make beautiful web effects
 
 - [ ] Mesh as repo: [awesome web effects](https://github.com/lindelof/awesome-web-effect)
 
-#### Frameworks
+#### Be comfortable with using frameworks
 
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
@@ -440,24 +439,25 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
-#### website monitors and speedup
+#### Know how to optimize and secure websites
 
 - [ ] Repo: [upptime](https://github.com/upptime/upptime)
 - [ ] Article: [Best practices for speeding up your website, Yahoo](https://developer.yahoo.com/performance/rules.html)
 
-### Backend
+### Become a powerful backend developer
 
 
 - [ ] Mesh as repo: [architect awesome](https://github.com/xingshaocheng/architect-awesome)
 - [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
-### DevOps
+### Become a powerful DevOps developer
 
 
 - [ ] Repo: [OWASP cheat sheet series](https://github.com/OWASP/CheatSheetSeries)
 - [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [ ] Mesh as repo: [DevOps Resources](https://github.com/bregman-arie/devops-resources)
+- [ ] Repo: [k6](https://github.com/loadimpact/k6)
 
 ### Security 
 
@@ -730,6 +730,10 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 - [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
 
+### Know what to do of getting into PhD
+
+- [ ] Article: [what you need to do before considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
+
 ## Documentaries
 
 - [ ] Video: [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
@@ -753,5 +757,4 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 ## Readme last
 
-- *What is this repo for?*: Here records great learning resources for each topic and subtopic. 
-- *How are they arranged?*: When I want to get deep into a topic, I should be able to *quickly* get awesome learning resources here. 
+Thanks for inspiration from [amitness](https://github.com/amitness/learning), his repo helped me a lot.
