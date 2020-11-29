@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ahacad/learning)
 
 ## Readme first
 
@@ -59,14 +60,20 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Have a deep understanding of JS](#have-a-deep-understanding-of-js)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
+        * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
+        * [Master the tools](#master-the-tools)
+            * [Webpack](#webpack)
         * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
+        * [Know the famous deployer](#know-the-famous-deployer)
     * [Become a powerful backend developer](#become-a-powerful-backend-developer)
+        * [Master databases](#master-databases)
     * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
+        * [Master the cloud platforms](#master-the-cloud-platforms)
     * [Security](#security)
     * [Programming languages](#programming-languages)
     * [Nodejs](#nodejs)
     * [C++](#c)
-    * [Golang](#golang)
+    * [Master golang](#master-golang)
         * [Packages](#packages)
     * [Python](#python)
     * [Rust](#rust)
@@ -90,7 +97,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Tools](#tools)
         * [Gimp](#gimp)
     * [Wallpaper](#wallpaper)
-* [Psychology](#psychology)
+* [Know Psychology](#know-psychology)
     * [Metalearning](#metalearning)
 * [Writing and reading](#writing-and-reading)
 * [Mathematics](#mathematics)
@@ -104,12 +111,15 @@ We HOPE that what we are writing today will still be there after some decades or
     * [US](#us)
 * [Living](#living)
 * [Education](#education)
+    * [Get educated abroad](#get-educated-abroad)
+    * [Be a life-long learner](#be-a-life-long-learner)
     * [Know what to do of getting into PhD](#know-what-to-do-of-getting-into-phd)
 * [Documentaries](#documentaries)
 * [Films](#films)
 * [Tolkien](#tolkien)
 * [Wisdom canon](#wisdom-canon)
 * [Readme last](#readme-last)
+    * [What information sources are choosed?](#what-information-sources-are-choosed)
 
 <!-- vim-markdown-toc -->
 
@@ -160,6 +170,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Have a good understanding of computer networks
 
 - [ ] Book: [*Computer Networks: An Open Source Approach* by Lin and Hwang](https://book.douban.com/subject/6884995/)
+- [ ] Article: [HTTP 协议详解](https://www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)
 
 ### Have a good understanding of compiler
 
@@ -314,12 +325,14 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Know deeply about Linux & Unix
 
+- [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
 - [ ] Question: [Is there a basic tutorial for grep, awk and sed?](https://unix.stackexchange.com/questions/2434/is-there-a-basic-tutorial-for-grep-awk-and-sed) 
 
+- [ ] Book online: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
 - [ ] Wiki: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) 
 
@@ -358,6 +371,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] [segment](https://segment.com/)
 - [ ] [dvc](https://dvc.org/)
+- [ ] [netlify](https://www.netlify.com/)
+- [ ] [the software house](https://tsh.io/)
+- [ ] [creative Tim](https://www.creative-tim.com/stacks/ultimate-stack-bf)
+- [ ] [wappalyzer](https://www.wappalyzer.com/)
 
 
 ##### Master BEM, OOCSS and SMACSS
@@ -418,6 +435,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
 - [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
 - [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
@@ -438,7 +456,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [ ] Repo: [styled components](https://github.com/styled-components/styled-components)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
+- [ ] Book online: [Learn Storybook](https://www.learnstorybook.com/)
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
+- [x] Article: [How to set an event handler in a react sub-component](https://www.pluralsight.com/guides/how-to-set-an-event-handler-in-a-react-sub-component)
+- [x] Article: [History of frontend frameworks](https://blog.logrocket.com/history-of-frontend-frameworks/#:~:text=Around%20the%20mid%2D2000s%2C%20CSS,960%2C%20YUI%20Grids%20and%20YAML.)
+
+#### Enjoy the even newer platforms
 
 - [x] Article: [Using Gatsby with CSS Modules and SCSS](https://medium.com/@PostgradExpat/using-gatsby-with-css-modules-and-scss-7e75a05533a4)
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
@@ -446,10 +469,21 @@ We HOPE that what we are writing today will still be there after some decades or
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
+#### Master the tools
+
+##### Webpack
+
+- [ ] Article: [Webpack or Browserify & Gulp: Which Is Better?](https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better#:~:text=Webpack%20is%20a%20bundler%20whereas,use%20Webpack%20instead%20of%20Gulp.&text=For%20instance%2C%20Webpack%20already%20provides,and%20sourcemaps%20for%20your%20bundle.)
+
 #### Know how to optimize and secure websites
 
 - [ ] Repo: [upptime](https://github.com/upptime/upptime)
 - [ ] Article: [Best practices for speeding up your website, Yahoo](https://developer.yahoo.com/performance/rules.html)
+- [ ] Article: [重复优化的思考](https://www.cnblogs.com/yexiaochai/p/4901341.html)
+ 
+#### Know the famous deployer
+
+- [ ] Website: [Vercel](https://vercel.com)
 
 ### Become a powerful backend developer
 
@@ -457,6 +491,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Mesh as repo: [architect awesome](https://github.com/xingshaocheng/architect-awesome)
 - [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [ ] Wiki: [Relational algebra](https://www.wikiwand.com/en/Relational_algebra#:~:text=In%20database%20theory%2C%20relational%20algebra,Codd.)
+
+#### Master databases
+
+- [ ] Doc: [CLI for SQLite](https://www.sqlite.org/cli.html)
+- [ ] Doc: [Postgresql13 pdf doc](./assets/postgresql-13-A4.pdf)
 
 ### Become a powerful DevOps developer
 
@@ -465,6 +505,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [ ] Mesh as repo: [DevOps Resources](https://github.com/bregman-arie/devops-resources)
 - [ ] Repo: [k6](https://github.com/loadimpact/k6)
+
+#### Master the cloud platforms
+
+- [ ] Repo: [og-aws](https://github.com/open-guides/og-aws#aws-data-transfer-costs)
+
 
 ### Security 
 
@@ -491,7 +536,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
 
-### Golang
+### Master golang
 
 - [ ] Website: [Go by example](https://gobyexample.com/)
 - [ ] Website: [go official website](https://golang.org/)
@@ -499,10 +544,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book online: [go under the hood](https://golang.design/under-the-hood/)
 - [ ] Repo: [over golang](https://github.com/overnote/over-golang)
 - [ ] Repo: [read](https://github.com/talkgo/read)
+- [ ] Repo: [project layout](https://github.com/golang-standards/project-layout)
 - [ ] Repo: [go best practices](https://github.com/smallnest/go-best-practices)
 - [ ] Repo: [golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] Repo: [uber go style guide](https://github.com/uber-go/guide)
-- [ ] Article: [effective go](https://golang.org/doc/effective_go.html)
+- [x] Article: [effective go](https://golang.org/doc/effective_go.html)
+- [ ] Article: [Simple techniques to optimize Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [ ] Article: [A visual guide to go memory allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 - [ ] Poem: [go proverb](https://go-proverbs.github.io/)
 
@@ -619,6 +666,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Websiet: [Fresh Folk](https://fresh-folk.com/)
 - [ ] Websiet: [avataaars](https://avataaars.com/)
 - [ ] Websiet: [pixeltrue](https://www.pixeltrue.com/free-illustrations)
+- [ ] Websiet: [Scale](https://2.flexiple.com/scale/all-illustrations)
 
 ### Color
 
@@ -679,9 +727,14 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [wallhere](https://wallhere.com/)
 
 
-## Psychology
+## Know Psychology
 
-- [ ] Website: [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
+- [ ] Mesh as website: [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
+- [ ] Mesh as website: [心理学空间](https://www.psychspace.com/)
+- [ ] Forum: [Lesswrong](https://www.lesswrong.com/)
+- [ ] Mesh as wiki: [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
+
+- [ ] Wiki: [Dunbar's number](https://rationalwiki.org/wiki/Main_Page)
 
 ### Metalearning
 
@@ -706,6 +759,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Macroeconomics
 
 - [ ] Book: [*Macroeconomics*] by Mankiew
+- [ ] Book online: [*Macroeconomics*: theory through applications](https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/index.html)
 
 
 ## Languages
@@ -736,7 +790,14 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Education
 
+### Get educated abroad
+
 - [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
+
+### Be a life-long learner
+
+- [ ] Mesh as website: [saylor academy](https://learn.saylor.org/my/)
+
 
 ### Know what to do of getting into PhD
 
@@ -765,4 +826,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Readme last
 
-Thanks for inspiration from [amitness](https://github.com/amitness/learning), his repo helped me a lot.
+Thanks for inspiration from [amitness](https://github.com/amitness/learning), his repo inspired me a lot.
+
+### What information sources are choosed?
+
