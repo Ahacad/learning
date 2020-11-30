@@ -31,6 +31,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Speaking](#speaking)
     * [Management](#management)
 * [Know how to do researches](#know-how-to-do-researches)
+    * [Tools](#tools)
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
@@ -53,11 +54,13 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Master regex](#master-regex)
     * [Know deeply about Linux & Unix](#know-deeply-about-linux--unix)
         * [Be a Arch Linuxist](#be-a-arch-linuxist)
+    * [Know a lot about hardwares](#know-a-lot-about-hardwares)
+    * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
     * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
         * [Master CSS](#master-css)
         * [Make beautiful, production ready websites](#make-beautiful-production-ready-websites)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
-        * [Have a deep understanding of JS](#have-a-deep-understanding-of-js)
+        * [Master JS](#master-js)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
@@ -78,10 +81,11 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Python](#python)
     * [Rust](#rust)
     * [Build your home!](#build-your-home)
-    * [LaTeX](#latex)
-    * [Haskell](#haskell)
-    * [Machine Learning](#machine-learning)
-    * [Network security](#network-security)
+    * [Master LaTeX](#master-latex)
+        * [Master Tikz](#master-tikz)
+    * [Master Haskell](#master-haskell)
+    * [Master Machine Learning](#master-machine-learning)
+    * [Master network security](#master-network-security)
 * [Design](#design)
     * [Learn design](#learn-design)
     * [UIUX](#uiux)
@@ -94,22 +98,25 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Videos](#videos)
     * [Sound](#sound)
     * [Emojis and Icons](#emojis-and-icons)
-    * [Tools](#tools)
+    * [Tools](#tools-1)
         * [Gimp](#gimp)
     * [Wallpaper](#wallpaper)
 * [Know Psychology](#know-psychology)
     * [Metalearning](#metalearning)
 * [Writing and reading](#writing-and-reading)
 * [Mathematics](#mathematics)
-* [Economics](#economics)
-    * [Microeconomics](#microeconomics)
-    * [Macroeconomics](#macroeconomics)
+* [Know a lot about Economics](#know-a-lot-about-economics)
+    * [Master microeconomics](#master-microeconomics)
+    * [Master macroeconomics](#master-macroeconomics)
+    * [Know the economists](#know-the-economists)
 * [Languages](#languages)
-    * [日本語](#日本語)
-* [Philosophy and essays](#philosophy-and-essays)
+    * [Master 日本語](#master-日本語)
+* [Know a lot about philosophy and essays](#know-a-lot-about-philosophy-and-essays)
+* [Know a lot about politics](#know-a-lot-about-politics)
 * [History](#history)
     * [US](#us)
-* [Living](#living)
+* [Know how to live independently](#know-how-to-live-independently)
+* [Read a lot about current issues](#read-a-lot-about-current-issues)
 * [Education](#education)
     * [Get educated abroad](#get-educated-abroad)
     * [Be a life-long learner](#be-a-life-long-learner)
@@ -144,6 +151,15 @@ We HOPE that what we are writing today will still be there after some decades or
 ## Know how to do researches
 
 - [x] Article: [守住发际线：南大蒋炎岩谈读博那些事儿](https://www.jiqizhixin.com/articles/2019-09-16-17)
+
+### Tools
+
+- [ ] Search engine: [connected papers](https://www.connectedpapers.com/)
+- [ ] Search engine: [semantic scholar](https://www.semanticscholar.org/)
+- [ ] Search engine: [scinapse](https://scinapse.io/)
+- [ ] Website : [papers with code](https://paperswithcode.com/)
+
+- [ ] Artilce: [Introducing TLDRs on Semantic Scholar](https://medium.com/ai2-blog/introducing-tldrs-on-semantic-scholar-f8310c51c1fb)
 
 ## Read and learn from the amazing blogs
 
@@ -297,7 +313,9 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Master vim
 
 - [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
+- [ ] Website: [vimhelp.org](https://vimhelp.org/)
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+- [ ] Book online: [Learn vimscript the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 - [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
 - [ ] Question: [vim put quotes and comma around words](https://stackoverflow.com/questions/24210133/vim-put-quotes-and-comma-around-words)
 - [x] Question: [How to do case insensitive search in Vim](https://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim)
@@ -343,6 +361,16 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Wiki: [GRUB](https://wiki.archlinux.org/index.php/GRUB)
 - [ ] Wiki: [Touchpad Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics)
 
+### Know a lot about hardwares
+
+- [ ] Youtuber: [Linustechtips](https://www.youtube.com/user/LinusTechTips)
+- [ ] Zhihuer: [DDAA117](https://www.youtube.com/user/LinusTechTips)
+- [ ] Bilibilier: [硬件茶谈](https://space.bilibili.com/14871346?from=search&seid=18433845642137975840)
+
+### Master miscellaneous cool things
+
+- [ ] Repo: [awesome osint (open source intelligent)](https://github.com/jivoi/awesome-osint#-general-search)
+
 ### Become a powerful Frontend developer
 
 - [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
@@ -375,7 +403,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [the software house](https://tsh.io/)
 - [ ] [creative Tim](https://www.creative-tim.com/stacks/ultimate-stack-bf)
 - [ ] [wappalyzer](https://www.wappalyzer.com/)
-
 
 ##### Master BEM, OOCSS and SMACSS
 
@@ -420,7 +447,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] 
 
-#### Have a deep understanding of JS
+#### Master JS
 
 - [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
 - [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -441,6 +468,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
 - [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
 - [ ] Question: [Can I use loops to minimize ES6 import statements?](https://stackoverflow.com/questions/47117756/can-i-use-loops-to-minimize-es6-import-statements/47117907)
+- [ ] Video: [Peter Hunt: React: Rethinking best practices - JSConf EU](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [ ] 
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
@@ -454,6 +482,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [ ] Repo: [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+- [ ] Repo: [reveal.js](https://github.com/hakimel/reveal.js)
 - [ ] Repo: [styled components](https://github.com/styled-components/styled-components)
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 - [ ] Book online: [Learn Storybook](https://www.learnstorybook.com/)
@@ -572,7 +601,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [core](https://github.com/home-assistant/cor)
 
-### LaTeX
+### Master LaTeX
 
 - [ ] doc: qtree
 
@@ -582,26 +611,33 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [What package allows Elvish in TeX?](https://tex.stackexchange.com/questions/13015/what-package-allows-elvish-in-tex)
 - [ ] Question: [Tips for choosing hardware for best LaTeX compile performance](https://tex.stackexchange.com/questions/103565/tips-for-choosing-hardware-for-best-latex-compile-performance)
 
-### Haskell
+#### Master Tikz 
+
+- [ ] Question: [How to plot functions like x=f(y) using TikZ?](https://tex.stackexchange.com/questions/105570/how-to-plot-functions-like-x-fy-using-tikz)
+- [ ] Question: [How to plot polar formed complex numbers?](https://tex.stackexchange.com/questions/479801/how-to-plot-polar-formed-complex-numbers)
+
+### Master Haskell
 
 - [ ] Book online: [Haskell wikibook](https://en.wikibooks.org/wiki/Haskell)
 
-### Machine Learning
+### Master Machine Learning
 
 - [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
 - [ ] Repo: [Deeplearning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
+- [ ] Repo: [ABigSurvey](https://github.com/NiuTrans/ABigSurvey)
 - [ ] 
 - [ ] Repo: [Bringing old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 - [ ] Repo: [datasets](https://github.com/huggingface/datasets)
 - [ ] 
 
-### Network security
+### Master network security
 
 - [ ] Repo: [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [ ] Repo: [Awesome web hacking](https://github.com/infoslack/awesome-web-hacking)
 - [ ] Repo: [Awesome hacking](https://github.com/carpedm20/awesome-hacking)
 - [ ] Repo: [Metasploit framework](https://github.com/rapid7/metasploit-framework)
+- [ ] Repo: [Neurax](https://github.com/redcode-labs/Neurax)
 - [ ] 
 
 
@@ -752,41 +788,56 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 
 
-## Economics
+## Know a lot about Economics
 
-### Microeconomics
+### Master microeconomics
 
-### Macroeconomics
+### Master macroeconomics
 
 - [ ] Book: [*Macroeconomics*] by Mankiew
 - [ ] Book online: [*Macroeconomics*: theory through applications](https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/index.html)
 
+### Know the economists
+
+- [ ] Wiki: [John Maynard Keynes](https://www.wikiwand.com/en/John_Maynard_Keynes)
+
 
 ## Languages
 
-### 日本語
+### Master 日本語
 
+- [ ] Website: [tomatom.net](http://tomatom.net/index.html)
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
 
-## Philosophy and essays
+## Know a lot about philosophy and essays
 
 - [ ] Book: [*The Idea of a University* by John Henry Newman](http://www.newmanreader.org/works/idea/)
 - [ ] Essay: [*Politics and the English Language*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 - [ ] Essay: [The Gettysburg Address - Abraham Lincoln](./assets/gettysburg-address.md)
+- [ ] Wiki: [Golden rule](https://www.wikiwand.com/en/Golden_Rule)
 
 - [ ] [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
  
+## Know a lot about politics
+
+- [ ] Wiki: [Totalitarianism](https://www.wikiwand.com/en/Totalitarianism)
+
 ## History
 
 ### US
 
 - [ ] Website: [gilderlehrman](https://ap.gilderlehrman.org/)
 
-## Living
+## Know how to live independently
 
 - [ ] Repo: [tenant-point](https://github.com/soulteary/tenant-point)
 - [ ] Repo: [how to make more money](https://github.com/easychen/howto-make-more-money)
+
+## Read a lot about current issues
+
+- [ ] Article: [NO TIME, how did we get so busy? TheNewYorker](https://www.newyorker.com/magazine/2014/05/26/no-time)
+
 
 ## Education
 
