@@ -27,9 +27,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 * [Just for fun](#just-for-fun)
 * [Business](#business)
-    * [Learn about startups](#learn-about-startups)
-    * [Speaking](#speaking)
-    * [Management](#management)
+    * [Know how to startups](#know-how-to-startups)
+    * [Master speaking](#master-speaking)
+    * [Know how to manage](#know-how-to-manage)
+    * [Know how to learn](#know-how-to-learn)
 * [Know how to do researches](#know-how-to-do-researches)
     * [Tools](#tools)
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
@@ -58,6 +59,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
     * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
         * [Master CSS](#master-css)
+            * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
         * [Make beautiful, production ready websites](#make-beautiful-production-ready-websites)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
         * [Master JS](#master-js)
@@ -103,6 +105,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Wallpaper](#wallpaper)
 * [Know Psychology](#know-psychology)
     * [Metalearning](#metalearning)
+    * [Cognitive science](#cognitive-science)
 * [Writing and reading](#writing-and-reading)
 * [Mathematics](#mathematics)
 * [Know a lot about Economics](#know-a-lot-about-economics)
@@ -136,17 +139,20 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Business
 
-### Learn about startups
+### Know how to startups
 
 - [ ] Book: *The lean startup*
 
-### Speaking
+### Master speaking
 
 
-### Management
+### Know how to manage
 
 - [ ] [管理定律](https://wiki.mbalib.com/wiki/%E7%80%91%E5%B8%83%E5%BF%83%E7%90%86%E6%95%88%E5%BA%94#:~:text=%E8%BF%99%E7%A7%8D%E7%8E%B0%E8%B1%A1%E5%9C%A8%E5%BF%83%E7%90%86,%E5%8D%B4%E6%BA%85%E8%8A%B1%E8%85%BE%E9%9B%BE%E3%80%82)
 
+### Know how to learn
+
+- [ ] Repo: [*The craft of selfteaching*](https://github.com/selfteaching/the-craft-of-selfteaching)
 
 ## Know how to do researches
 
@@ -181,6 +187,11 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Get hired
 
+- [ ] Repo: [awesome CV](https://github.com/posquit0/Awesome-CV)
+- [ ] Repo: [best resume ever](https://github.com/salomonelli/best-resume-ever)
+- [ ] Repo: [resume.github.com](https://github.com/resume/resume.github.com)
+- [ ] Repo: [animating resume](https://github.com/jirengu-inc/animating-resume)
+- [ ] Repo: [resume](https://github.com/sb2nov/resume)
 - [ ] [Bytedance](https://job.bytedance.com/referral/pc/position?keywords=&category=6704215862603155720&location=CT_125&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNTg5OTgwODkyODE1OzY3MDc5ODc2NTE2NzAwOTk0NjM7MA)
 
 ### Have a good understanding of computer networks
@@ -257,6 +268,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
 - [ ] Repo: [awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
+- [ ] Repo: [Google codelab](https://developers.google.cn/codelabs)
 
 - [ ] Repo: [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [ ] Repo: [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings)
@@ -374,6 +386,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Become a powerful Frontend developer
 
 - [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
+- [ ] Mesh as repo: [frontend guide](https://github.com/grab/front-end-guide)
 - [ ] Mesh as repo: [frontend tutorial](https://github.com/windiest/Front-end-tutorial)
 - [ ] Mesh as repo: [awesome frontend learning resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - [ ] Mesh as repo: [fetool](https://github.com/nieweidong/fetool)
@@ -383,17 +396,24 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [UI playbook](https://uiplaybook.dev/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [x] Repo: [frontend interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [x] Repo: [web development resources](https://github.com/MarkoDenic/web-development-resources)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 - [ ] Website: [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [ ] 
 - [ ] Website: [iconify](https://iconify.design/)
+- [ ] Mesh as articles: [Mark Denic blog](https://markodenic.com/blog/)
 
 #### Master CSS
 
 - [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
 - [ ] Website: [tailwind ui](https://tailwindui.com/)
+
+##### Be able to make beautiful effects and animations
+
+- [ ] Website: [deerbucks, neomorphism](https://deerbucks.tokyo/)
+
 
 #### Make beautiful, production ready websites
 
@@ -489,6 +509,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
 - [x] Article: [How to set an event handler in a react sub-component](https://www.pluralsight.com/guides/how-to-set-an-event-handler-in-a-react-sub-component)
 - [x] Article: [History of frontend frameworks](https://blog.logrocket.com/history-of-frontend-frameworks/#:~:text=Around%20the%20mid%2D2000s%2C%20CSS,960%2C%20YUI%20Grids%20and%20YAML.)
+- [x] Article: [Everything you need to know about react-scripts](https://blog.logrocket.com/everything-you-need-to-know-about-react-scripts/)
 
 #### Enjoy the even newer platforms
 
@@ -774,7 +795,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Metalearning
 
-- [ ] Repo: [*The craft of selfteaching*](https://github.com/selfteaching/the-craft-of-selfteaching)
+
+### Cognitive science
+
+- [ ] Repo: [awesome cognitive science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 
 
 ## Writing and reading
@@ -844,6 +868,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Get educated abroad
 
 - [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
+- [ ] Repo: [STJU-Application](https://github.com/SurviveSJTU/SJTU-Application)
 
 ### Be a life-long learner
 
