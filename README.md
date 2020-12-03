@@ -38,12 +38,14 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Really know how to program](#really-know-how-to-program)
     * [Get hired](#get-hired)
     * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
+        * [Master RESTful](#master-restful)
     * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
     * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
         * [Master string related algorithms](#master-string-related-algorithms)
     * [Competitive programming](#competitive-programming)
     * [Master design patterns](#master-design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
+        * [Beat interviews](#beat-interviews)
         * [Read through and arrange your own learning mesh](#read-through-and-arrange-your-own-learning-mesh)
         * [Have fun with Github](#have-fun-with-github)
     * [Be a fullstack programmer](#be-a-fullstack-programmer)
@@ -62,7 +64,7 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
         * [Make beautiful, production ready websites](#make-beautiful-production-ready-websites)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
-        * [Master JS](#master-js)
+        * [Master JavaScript](#master-javascript)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
@@ -74,7 +76,7 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Master databases](#master-databases)
     * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
         * [Master the cloud platforms](#master-the-cloud-platforms)
-    * [Security](#security)
+    * [Master security](#master-security)
     * [Programming languages](#programming-languages)
     * [Nodejs](#nodejs)
     * [C++](#c)
@@ -199,6 +201,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book: [*Computer Networks: An Open Source Approach* by Lin and Hwang](https://book.douban.com/subject/6884995/)
 - [ ] Article: [HTTP 协议详解](https://www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)
 
+#### Master RESTful
+- [ ] Article: [理解 RESTful 架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+- [ ] Question: [What exactly is RESTful programmign](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming  )
+- [ ] Wiki: [HATEOAS](https://www.wikiwand.com/en/HATEOAS)
+- [ ] Dissertation: [Architectural styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2)
+
 ### Have a good understanding of compiler
 
 - [ ] Book online: [Answers to exercises of Compilers PTT](http://dragon-book.jcf94.com/book/)
@@ -274,7 +282,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [ ] Repo: [public apis](https://github.com/public-apis/public-apis)
 - [ ] Repo: [developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 - [ ] Repo: [System design primer](https://github.com/donnemartin/system-design-primer)
 - [ ] Website: [Github Flavored Markdown Spec](https://github.github.com/gfm/)
@@ -283,6 +290,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [Circuit breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 - [ ] Article: [冷饭新炒：理解断路器CircuitBreaker的原理与实现](https://www.cnblogs.com/throwable/p/13906733.html)
 - [ ] Wiki: [Extended Backus-Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form?oldformat=true)
+
+#### Beat interviews
+- [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+- [ ] Repo: [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 #### Read through and arrange your own learning mesh
 
@@ -298,6 +309,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [x] Article: {Easiest way to set up your Github profile page](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8)}
 - [ ] Repo: [github readme stats](https://github.com/anuraghazra/github-readme-stats)
+- [ ] Repo: [github profile trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Be a fullstack programmer
 
@@ -467,7 +479,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] 
 
-#### Master JS
+#### Master JavaScript
 
 - [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
 - [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -476,6 +488,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
 - [ ] Repo: [javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [ ] Article: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [ ] Article: [Understanding JavaScript bind](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
@@ -507,6 +521,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 - [ ] Book online: [Learn Storybook](https://www.learnstorybook.com/)
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
+- [ ] Article: [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [x] Article: [How to set an event handler in a react sub-component](https://www.pluralsight.com/guides/how-to-set-an-event-handler-in-a-react-sub-component)
 - [x] Article: [History of frontend frameworks](https://blog.logrocket.com/history-of-frontend-frameworks/#:~:text=Around%20the%20mid%2D2000s%2C%20CSS,960%2C%20YUI%20Grids%20and%20YAML.)
 - [x] Article: [Everything you need to know about react-scripts](https://blog.logrocket.com/everything-you-need-to-know-about-react-scripts/)
@@ -561,9 +576,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [og-aws](https://github.com/open-guides/og-aws#aws-data-transfer-costs)
 
 
-### Security 
+### Master security 
 
  - [ ] Website: [vx-underground](https://vx-underground.org/)
+ - [ ] Repo: [a red teamer diaries](https://vx-underground.org/)
+ - [ ] Repo: [SecListsw](https://github.com/danielmiessler/SecLists)
+ - [ ] Repo: [Resources for beginner bug bounty hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ### Programming languages
 
@@ -767,6 +785,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [*Icons8*](https://icons8.com/)
 - [ ] Website: [*Openemoji*](https://openmoji.org/)
 - [ ] Website: [*simpleicons*](https://simpleicons.org/)
+- [ ] Repo: [*SuperTinyIcons*](https://github.com/edent/SuperTinyIcons)
 
 ### Tools 
 
@@ -833,6 +852,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [tomatom.net](http://tomatom.net/index.html)
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
+- [x] Question: [日语语法怎么背](https://www.zhihu.com/question/352141891/answer/1370307293)
+- [x] Question: [如何有效率的记住日语语法接续？](https://www.zhihu.com/question/49516760/answer/1451892969)
 
 ## Know a lot about philosophy and essays
 
