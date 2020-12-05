@@ -20,13 +20,15 @@ Articles and videos in China (where I live in for now) are often not so persiste
 
 We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. **Don't be a tenant on the Internet.**
 
+**I am continuously refactoring this repo's structure, and feel free to start issue for better arranging scheme.**
+
 ## Table of Contents
 
 
 <!-- vim-markdown-toc GFM -->
 
 * [Just for fun](#just-for-fun)
-* [Business](#business)
+* [Know a lot about Business](#know-a-lot-about-business)
     * [Know how to startups](#know-how-to-startups)
     * [Master speaking](#master-speaking)
     * [Know how to manage](#know-how-to-manage)
@@ -36,6 +38,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
+    * [Play around the awesome forums](#play-around-the-awesome-forums)
     * [Get hired](#get-hired)
     * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
         * [Master RESTful](#master-restful)
@@ -60,14 +63,19 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Know a lot about hardwares](#know-a-lot-about-hardwares)
     * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
     * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
+        * [Exhaust the learning meshes](#exhaust-the-learning-meshes)
         * [Master CSS](#master-css)
             * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
-        * [Make beautiful, production ready websites](#make-beautiful-production-ready-websites)
+                * [Box Shadow](#box-shadow)
+                * [Fonts](#fonts)
+            * [Learn from the beautiful, production ready websites](#learn-from-the-beautiful-production-ready-websites)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
         * [Master JavaScript](#master-javascript)
+        * [Master TypeScript](#master-typescript)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
+                * [Document site generator](#document-site-generator)
         * [Master the tools](#master-the-tools)
             * [Webpack](#webpack)
         * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
@@ -93,7 +101,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Design](#design)
     * [Learn design](#learn-design)
     * [UIUX](#uiux)
-    * [Fonts](#fonts)
+    * [Fonts](#fonts-1)
     * [Mesh](#mesh)
     * [Pictures](#pictures)
     * [Illustrations](#illustrations)
@@ -121,6 +129,9 @@ We HOPE that what we are writing today will still be there after some decades or
 * [History](#history)
     * [US](#us)
 * [Know how to live independently](#know-how-to-live-independently)
+    * [Hair](#hair)
+    * [Houses](#houses)
+* [Master photography](#master-photography)
 * [Read a lot about current issues](#read-a-lot-about-current-issues)
 * [Education](#education)
     * [Get educated abroad](#get-educated-abroad)
@@ -139,11 +150,12 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] [Ted's list of interesting places](https://thunk.org/tytso/interesting-places.html)
 
-## Business
+## Know a lot about Business
 
 ### Know how to startups
 
-- [ ] Book: *The lean startup*
+- [ ] Book: [*The lean startup*](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F7056139%2F&query=the+lean+startup&cat_id=1001&type=search&pos=0)
+- [ ] Book: [Creativity, Inc](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F25777433%2F&query=creativity+inc&cat_id=1001&type=search&pos=0)
 
 ### Master speaking
 
@@ -159,6 +171,8 @@ We HOPE that what we are writing today will still be there after some decades or
 ## Know how to do researches
 
 - [x] Article: [守住发际线：南大蒋炎岩谈读博那些事儿](https://www.jiqizhixin.com/articles/2019-09-16-17)
+- [ ] Article: [引文分析软件histcite简介](http://blog.sciencenet.cn/blog-304685-383399.html)
+
 
 ### Tools
 
@@ -186,6 +200,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 
 ## Really know how to program
+
+### Play around the awesome forums
+
+- [ ] Article: [Six simple tips to get Stack Overflow reputation fast](https://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast)
 
 ### Get hired
 
@@ -298,6 +316,7 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Read through and arrange your own learning mesh
 
 - [ ] Mesh: [菜鸟教程](https://www.runoob.com/)
+- [ ] Mesh: [w3schools](https://www.w3schools.com)
 - [ ] Mesh: [devhintsw](https://devhints.io/)
 - [ ] Mesh: [tutorialspoint](https://www.tutorialspoint.com/index.htm)
 - [ ] Mesh: [programming creek](https://www.programcreek.com/)
@@ -308,8 +327,9 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Have fun with Github 
 
 - [x] Article: {Easiest way to set up your Github profile page](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8)}
-- [ ] Repo: [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-- [ ] Repo: [github profile trophy](https://github.com/ryo-ma/github-profile-trophy)
+- [ ] Repo: [github readme stats](https://github.com/anuraghazra/github-readme-stats): github stats as business card
+- [ ] Repo: [github profile trophy](https://github.com/ryo-ma/github-profile-trophy): github trophy from your publi info
+- [ ] Repo: [star history](https://github.com/ryo-ma/github-profile-trophy): see repo star history
 
 ### Be a fullstack programmer
 
@@ -397,6 +417,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Become a powerful Frontend developer
 
+#### Exhaust the learning meshes
+
 - [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
 - [ ] Mesh as repo: [frontend guide](https://github.com/grab/front-end-guide)
 - [ ] Mesh as repo: [frontend tutorial](https://github.com/windiest/Front-end-tutorial)
@@ -412,7 +434,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 - [ ] Website: [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [ ] Website: [scotch.io](https://scotch.io/)
 - [ ] 
+- [ ] Repo: [50projects50days](https://github.com/bradtraversy/50projects50days)
 - [ ] Website: [iconify](https://iconify.design/)
 - [ ] Mesh as articles: [Mark Denic blog](https://markodenic.com/blog/)
 
@@ -424,10 +448,18 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ##### Be able to make beautiful effects and animations
 
+###### Box Shadow
 - [ ] Website: [deerbucks, neomorphism](https://deerbucks.tokyo/)
+- [ ] Website: [Neumorphism.io](https://neumorphism.io/)
+- [ ] Article: [neumorphism in user interface](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+- [ ] Article: [A close look at CSS box shadow](https://www.webfx.com/blog/web-design/css-box-shadow/)
+- [ ] Article: [CSS Box Shadow examples](https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0457-01-css-box-shadow-demo/demo.html)
 
+###### Fonts
 
-#### Make beautiful, production ready websites
+- [ ] Article: [How to set weights and styles with the @font-face declaration](https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/)
+
+##### Learn from the beautiful, production ready websites
 
 - [ ] [segment](https://segment.com/)
 - [ ] [dvc](https://dvc.org/)
@@ -435,6 +467,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [the software house](https://tsh.io/)
 - [ ] [creative Tim](https://www.creative-tim.com/stacks/ultimate-stack-bf)
 - [ ] [wappalyzer](https://www.wappalyzer.com/)
+
+- [ ] [hear.com](https://www.hear.com/)
 
 ##### Master BEM, OOCSS and SMACSS
 
@@ -456,8 +490,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Article: [using object-orinted css with sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
 - [x] Article: [](https://saddamazad.com/2015/12/object-oriented-css-with-sass/#:~:text=This%20entry%20was%20published%20on,writing%20neat%20and%20manageable%20CSS.)
 - [x] Article: [SMACSS + Sass = the best way to write css](https://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
+- [ ] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
 
-- [ ] 
+
 - [ ] Repo: [css modules](https://github.com/css-modules/css-modules)
 - [ ] Website: [css style guides (collection by css tricks)](https://css-tricks.com/css-style-guides/)
 - [x] Website: [css guide lines](https://cssguidelin.es/)
@@ -473,11 +508,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Free frontend](https://freefrontend.com/)
 - [ ] Website: [Sass in the Real World: book 1 of 4](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/rules-to-live-by/oocss.html)
 - [x] Article: [7 benefits of using sass over conventional css](https://www.mugo.ca/Blog/7-benefits-of-using-SASS-over-conventional-CSS)
+- [ ] Article: [What happens when you create a flexbox flex container](https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/)
 - [ ] Repo: [oocss](https://github.com/stubbornella/oocss)
-- [ ] Article: [How to organize your CSS with OOCSS, BEM & SMACSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7)
+- [ ] Article: [Positioning elements on the Web](https://thoughtbot.com/blog/positioning)
 - [ ] Question: [Make div stick to the bottom of page](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page)
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-- [ ] 
+- [ ] Article: [9 important CSS properties you must know](https://zellwk.com/blog/9-important-css-properties-you-must-know/)
 
 #### Master JavaScript
 
@@ -489,11 +525,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [ ] Article: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [ ] Article: [12 common JavaScript questions I used to ask in interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview?guid=5c7a13d6-20c5-438f-8e59-bed8940d25ea&deviceId=45ca29bf-036e-4ff0-9e01-89954e1abfd1)
 - [ ] Article: [Understanding JavaScript bind](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+- [ ] Article: [Understanding JavaScript function invocation and 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
@@ -506,6 +544,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] 
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
+
+#### Master TypeScript
+
+- [ ] Article: [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/): long, insightful article
 
 #### Be able to make beautiful web effects
 
@@ -533,6 +575,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [Creating category pages for gatsby markdown blogs](https://www.samdawson.dev/article/gatsby-categories)
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
+
+###### Document site generator
+ - [ ] Repo: [docusaurus](https://github.com/facebook/docusaurus): Quickly build documents
+ - [ ] Repo: [docz](https://github.com/doczjs/docz/): Quickly build documents
+ - [ ] Repo: [docsify](https://github.com/docsifyjs/docsify/): Quickly build documents
+ - [ ] Repo: [docute](https://github.com/egoist/docute): Quickly build documents
+ - [ ] Repo: [sphinx](https://github.com/sphinx-doc/sphinx): Quickly build documents
 
 #### Master the tools
 
@@ -852,8 +901,16 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [tomatom.net](http://tomatom.net/index.html)
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
-- [x] Question: [日语语法怎么背](https://www.zhihu.com/question/352141891/answer/1370307293)
-- [x] Question: [如何有效率的记住日语语法接续？](https://www.zhihu.com/question/49516760/answer/1451892969)
+- [ ] Question: [日语语法怎么背](https://www.zhihu.com/question/352141891/answer/1370307293)
+- [ ] Question: [如何有效率的记住日语语法接续？](https://www.zhihu.com/question/49516760/answer/1451892969)
+- [ ] Question: [日语声调应该如何掌握](https://www.zhihu.com/question/26810278/answer/219519372)
+- [ ] Question: [你有什么相见恨晚的日语学习方法](https://www.zhihu.com/question/26939890/answer/234803667)
+- [ ] Question: [学习日语有什么好的播客(Podcast)吗](https://www.zhihu.com/question/26070135/answer/53549230)
+- [ ] Question: [如何练好日语口语，求变态的方法？](https://www.zhihu.com/question/37241687/answer/71114288)
+- [ ] Question: [两年能自学日语达到N1水平么？](https://www.zhihu.com/question/41122272/answer/117075221)
+- [x] Article: [【初级日语】日语句子的骨架—— 四大基本日语句型](https://zhuanlan.zhihu.com/p/28286553)
+- [x] Article: [日语从零基础到N1，这是我的辛酸备考历程。](https://zhuanlan.zhihu.com/p/76748459)
+- [x] Article: [日语中关于数量的表达](https://zhuanlan.zhihu.com/p/60302581)
 
 ## Know a lot about philosophy and essays
 
@@ -878,6 +935,17 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [tenant-point](https://github.com/soulteary/tenant-point)
 - [ ] Repo: [how to make more money](https://github.com/easychen/howto-make-more-money)
+
+### Hair
+- [ ] Article: [The Best Haircut for Your Face Shape](https://www.artofmanliness.com/articles/the-best-haircut-for-your-face-shape/)
+
+### Houses
+- [ ] Article: [第一次租房，你可能需要考虑的那些事](https://sspai.com/post/62370)
+
+## Master photography
+
+- [ ] Website: [pink lady photograph of the year](https://www.pinkladyfoodphotographeroftheyear.com/)
+- [ ] Article: [外出就餐，如何把食物拍得好看](https://sspai.com/post/63848)
 
 ## Read a lot about current issues
 
