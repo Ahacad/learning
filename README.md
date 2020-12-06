@@ -42,6 +42,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Get hired](#get-hired)
     * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
         * [Master RESTful](#master-restful)
+    * [Have a good understanding of database](#have-a-good-understanding-of-database)
     * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
     * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
         * [Master string related algorithms](#master-string-related-algorithms)
@@ -224,6 +225,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [What exactly is RESTful programmign](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming  )
 - [ ] Wiki: [HATEOAS](https://www.wikiwand.com/en/HATEOAS)
 - [ ] Dissertation: [Architectural styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2)
+
+### Have a good understanding of database
+
+- [x] repo: [the secret lives of data](https://github.com/benbjohnson/thesecretlivesofdata)
+- [x] question: [How can I create a SQLite3 database file using a SQL command file?](https://stackoverflow.com/questions/14005731/how-can-i-create-a-sqlite3-database-file-using-a-sql-command-file)
+- [ ] article: [SQL in a Nutshell: Part1 - Basic real world scenarios](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220)
+
 
 ### Have a good understanding of compiler
 
@@ -937,7 +945,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [how to make more money](https://github.com/easychen/howto-make-more-money)
 
 ### Hair
+- [ ] Website: [haircut inspiration](https://haircutinspiration.com/)
+- [ ] Website: [all things hair](https://www.allthingshair.com/en-uk/)
 - [ ] Article: [The Best Haircut for Your Face Shape](https://www.artofmanliness.com/articles/the-best-haircut-for-your-face-shape/)
+- [x] Article: [How to Choose the Right Haircut for Your Face Shape](https://www.apetogentleman.com/right-haircut-for-your-face-shape/)
+- [ ] Article: [20+ Selected Haircuts for Guys With Round Faces](https://haircutinspiration.com/best-haircuts-for-round-faces-men/)
 
 ### Houses
 - [ ] Article: [第一次租房，你可能需要考虑的那些事](https://sspai.com/post/62370)
