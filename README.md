@@ -9,12 +9,12 @@
 **Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that they are all to be mastered.
 
 **Information on the Internet**: Some forms of information are:
-  - book: the most persistent way of conveying knowledge
+  - Book: the most persistent way of conveying knowledge
   - GitHub repo: this enables real time interaction with the author, relatively persistent
-  - personal blogs: held by individuals, persistency typically not guaranteed 
+  - personal Blogs: held by individuals, persistency typically not guaranteed 
   - Youtube: great video learning resources, relatively persistent but not guaranteed
-  - great article: very insightful articles
-  - article: workds written on websites, often focused on solving some particular problem
+  - great Article: very insightful articles
+  - Article: workds written on websites, often focused on solving some particular problem
 
 Articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
 
@@ -39,16 +39,20 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
     * [Play around the awesome forums](#play-around-the-awesome-forums)
+    * [Play with wicked cool things](#play-with-wicked-cool-things)
     * [Get hired](#get-hired)
     * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
         * [Master RESTful](#master-restful)
     * [Have a good understanding of database](#have-a-good-understanding-of-database)
+            * [RAFT](#raft)
     * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
     * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
         * [Master string related algorithms](#master-string-related-algorithms)
-    * [Competitive programming](#competitive-programming)
+    * [Play with competitive programming](#play-with-competitive-programming)
     * [Master design patterns](#master-design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
+            * [Make the projects](#make-the-projects)
+            * [Use the developer resources](#use-the-developer-resources)
         * [Beat interviews](#beat-interviews)
         * [Read through and arrange your own learning mesh](#read-through-and-arrange-your-own-learning-mesh)
         * [Have fun with Github](#have-fun-with-github)
@@ -60,6 +64,7 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Master encoding](#master-encoding)
         * [Master regex](#master-regex)
     * [Know deeply about Linux & Unix](#know-deeply-about-linux--unix)
+        * [Terminal](#terminal)
         * [Be a Arch Linuxist](#be-a-arch-linuxist)
     * [Know a lot about hardwares](#know-a-lot-about-hardwares)
     * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
@@ -76,19 +81,19 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
-                * [Document site generator](#document-site-generator)
+                * [Master document site generators](#master-document-site-generators)
         * [Master the tools](#master-the-tools)
             * [Webpack](#webpack)
         * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
         * [Know the famous deployer](#know-the-famous-deployer)
     * [Become a powerful backend developer](#become-a-powerful-backend-developer)
-        * [Master databases](#master-databases)
     * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
         * [Master the cloud platforms](#master-the-cloud-platforms)
     * [Master security](#master-security)
+        * [Tools](#tools-1)
     * [Programming languages](#programming-languages)
-    * [Nodejs](#nodejs)
-    * [C++](#c)
+    * [Master nodejs](#master-nodejs)
+    * [Master c++](#master-c)
     * [Master golang](#master-golang)
         * [Packages](#packages)
     * [Python](#python)
@@ -111,7 +116,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Videos](#videos)
     * [Sound](#sound)
     * [Emojis and Icons](#emojis-and-icons)
-    * [Tools](#tools-1)
+    * [Tools](#tools-2)
         * [Gimp](#gimp)
     * [Wallpaper](#wallpaper)
 * [Know Psychology](#know-psychology)
@@ -119,6 +124,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Cognitive science](#cognitive-science)
 * [Writing and reading](#writing-and-reading)
 * [Mathematics](#mathematics)
+* [Know a lot about network science](#know-a-lot-about-network-science)
 * [Know a lot about Economics](#know-a-lot-about-economics)
     * [Master microeconomics](#master-microeconomics)
     * [Master macroeconomics](#master-macroeconomics)
@@ -206,6 +212,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Article: [Six simple tips to get Stack Overflow reputation fast](https://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast)
 
+### Play with wicked cool things
+
+- [ ] Website: [Experiments with Google](https://experiments.withgoogle.com/)
+
 ### Get hired
 
 - [ ] Repo: [awesome CV](https://github.com/posquit0/Awesome-CV)
@@ -228,11 +238,19 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Have a good understanding of database
 
+- [ ] Repo: [awesome database learning](https://github.com/pingcap/awesome-database-learning#books)
+- [x] Question: [How can I create a SQLite3 database file using a SQL command file?](https://stackoverflow.com/questions/14005731/how-can-i-create-a-sqlite3-database-file-using-a-sql-command-file)
+- [ ] Question: [Recommended SQL database design for tags or tagging](https://stackoverflow.com/questions/20856/recommended-sql-database-design-for-tags-or-tagging)
+- [ ] Question: [Table Naming Dilemma: Singular vs. Plural Names](https://stackoverflow.com/questions/338156/table-naming-dilemma-singular-vs-plural-names)
+- [ ] Article: [SQL in a Nutshell: Part1 - Basic real world scenarios](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220)
+
+- [ ] Doc: [CLI for SQLite](https://www.sqlite.org/cli.html)
+- [ ] Doc: [Postgresql13 pdf doc](./assets/postgresql-13-A4.pdf)
+
+
+##### RAFT
 - [x] repo: [the secret lives of data](https://github.com/benbjohnson/thesecretlivesofdata)
-- [x] question: [How can I create a SQLite3 database file using a SQL command file?](https://stackoverflow.com/questions/14005731/how-can-i-create-a-sqlite3-database-file-using-a-sql-command-file)
-- [ ] article: [SQL in a Nutshell: Part1 - Basic real world scenarios](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220)
-
-
+- [ ] Website: [raft website](https://raft.github.io/)
 ### Have a good understanding of compiler
 
 - [ ] Book online: [Answers to exercises of Compilers PTT](http://dragon-book.jcf94.com/book/)
@@ -262,6 +280,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [over algorithm](https://github.com/overnote/over-algorithm)
 - [ ] Repo: [Second Round](https://github.com/alrightchiu/SecondRound)
 - [ ] Repo: [Algorithm visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [ ] Repo: [algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
 
 - [ ] Book online: [Algorithmen](https://www.inf.hs-flensburg.de/lang/algorithmen/algo.htm)
 - [ ] Book : [Introduction to algorithms](https://book.douban.com/subject/11620581/)
@@ -275,10 +294,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book online: [Exact string matching algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/)
 
 
-### Competitive programming
+### Play with competitive programming
 
-- [ ] 
-
+- [ ] Website: [OI Wiki](https://oi-wiki.org/)
+- [ ] Repo: [awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
+- [ ] OJ: [codeforces](https://codeforces.com/)
 
 ### Master design patterns
 
@@ -298,12 +318,15 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Programmer competency matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 - [ ] Gist: [effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
+##### Make the projects
+- [ ] Repo: [realworld](https://github.com/gothinkster/realworld)
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
 - [ ] Repo: [*Project based learning*](https://github.com/tuvtran/project-based-learning)
 - [ ] Repo: [awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
 - [ ] Repo: [app-ideas](https://github.com/florinpop17/app-ideas)
 - [ ] Repo: [Google codelab](https://developers.google.cn/codelabs)
 
+##### Use the developer resources
 - [ ] Repo: [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [ ] Repo: [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [ ] Repo: [public apis](https://github.com/public-apis/public-apis)
@@ -326,6 +349,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Mesh: [菜鸟教程](https://www.runoob.com/)
 - [ ] Mesh: [w3schools](https://www.w3schools.com)
 - [ ] Mesh: [devhintsw](https://devhints.io/)
+- [ ] Mesh: [codesdope](https://www.codesdope.com/)
 - [ ] Mesh: [tutorialspoint](https://www.tutorialspoint.com/index.htm)
 - [ ] Mesh: [programming creek](https://www.programcreek.com/)
 - [ ] Mesh as repo: [professional programmer](https://github.com/stanzhai/be-a-professional-programmer)
@@ -337,7 +361,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Article: {Easiest way to set up your Github profile page](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8)}
 - [ ] Repo: [github readme stats](https://github.com/anuraghazra/github-readme-stats): github stats as business card
 - [ ] Repo: [github profile trophy](https://github.com/ryo-ma/github-profile-trophy): github trophy from your publi info
+- [ ] Repo: [docs]((https://github.com/github/docs): github official docs
 - [ ] Repo: [star history](https://github.com/ryo-ma/github-profile-trophy): see repo star history
+- [ ] Website: [GitStar Ranking](https://gitstar-ranking.com/): 
 
 ### Be a fullstack programmer
 
@@ -391,20 +417,26 @@ We HOPE that what we are writing today will still be there after some decades or
 
 #### Master regex
 
-- [ ] Website: [regexr.com](https://regexr.com/)
+- [ ] Repo: [common-regex](https://github.com/cdoco/common-regex)
+- [ ] Website: [regexr.com](https://regexr.com/): online regex engine
+- [ ] Website: [regexper](https://regexper.com/): generate graph for regex online
 
 ### Know deeply about Linux & Unix
 
+- [ ] Information flow: [LWN.net](https://lwn.net/)
 - [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
 - [ ] Question: [Is there a basic tutorial for grep, awk and sed?](https://unix.stackexchange.com/questions/2434/is-there-a-basic-tutorial-for-grep-awk-and-sed) 
+- [ ] Question: [What is the rationale for the '/usr' directory](https://askubuntu.com/questions/130186/what-is-the-rationale-for-the-usr-directory) 
 
 - [ ] Book online: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
 - [ ] Wiki: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) 
+#### Terminal
+- [ ] Repo: [terms benchmarks](https://github.com/anarcat/terms-benchmarks)
 
 #### Be a Arch Linuxist
 
@@ -412,6 +444,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Wiki: [Partitioning](https://wiki.archlinux.org/index.php/Partitioning#Master_Boot_Record)
 - [ ] Wiki: [GRUB](https://wiki.archlinux.org/index.php/GRUB)
 - [ ] Wiki: [Touchpad Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics)
+- [ ] Bilibilier: [TheCW](https://space.bilibili.com/13081489)
+- [ ] Youtuber: [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+- [ ] Question: [How do I update GRUB in Arch Linux](https://unix.stackexchange.com/questions/111889/how-do-i-update-grub-in-arch-linux)
 
 ### Know a lot about hardwares
 
@@ -438,7 +473,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [UI playbook](https://uiplaybook.dev/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [x] Repo: [frontend interview handbook](https://github.com/yangshun/front-end-interview-handbook)
-- [x] Repo: [web development resources](https://github.com/MarkoDenic/web-development-resources)
+- [ ] Repo: [web development resources](https://github.com/MarkoDenic/web-development-resources)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 - [ ] Website: [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
@@ -584,7 +619,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
  - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
 
-###### Document site generator
+###### Master document site generators
  - [ ] Repo: [docusaurus](https://github.com/facebook/docusaurus): Quickly build documents
  - [ ] Repo: [docz](https://github.com/doczjs/docz/): Quickly build documents
  - [ ] Repo: [docsify](https://github.com/docsifyjs/docsify/): Quickly build documents
@@ -615,10 +650,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [ ] Wiki: [Relational algebra](https://www.wikiwand.com/en/Relational_algebra#:~:text=In%20database%20theory%2C%20relational%20algebra,Codd.)
 
-#### Master databases
-
-- [ ] Doc: [CLI for SQLite](https://www.sqlite.org/cli.html)
-- [ ] Doc: [Postgresql13 pdf doc](./assets/postgresql-13-A4.pdf)
 
 ### Become a powerful DevOps developer
 
@@ -631,24 +662,29 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Master the cloud platforms
 
 - [ ] Repo: [og-aws](https://github.com/open-guides/og-aws#aws-data-transfer-costs)
+- [ ] Repo: [rclone](https://github.com/rclone/rclone)
 
 
 ### Master security 
 
- - [ ] Website: [vx-underground](https://vx-underground.org/)
- - [ ] Repo: [a red teamer diaries](https://vx-underground.org/)
- - [ ] Repo: [SecListsw](https://github.com/danielmiessler/SecLists)
- - [ ] Repo: [Resources for beginner bug bounty hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [ ] Website: [vx-underground](https://vx-underground.org/)
+- [ ] Repo: [a red teamer diaries](https://vx-underground.org/)
+- [ ] Repo: [SecListsw](https://github.com/danielmiessler/SecLists)
+- [ ] Repo: [Resources for beginner bug bounty hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+#### Tools
+- [ ] Repo: [ImHex](https://github.com/WerWolv/ImHex): hex editor
+
 
 ### Programming languages
 
 - [ ] Repo: [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 
-### Nodejs
+### Master nodejs
 
 - [ ] Website: [official guide](https://nodejs.dev/learn)
+- [ ] Repo: [node bestpractices](https://github.com/goldbergyoni/nodebestpractices)
 
-### C++ 
+### Master c++ 
 
 - [ ] Book online: [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 - [ ] Book online: [Modern C++ tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
@@ -660,6 +696,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
+- [x] Question: [How do I return multiple values from a function in C](https://stackoverflow.com/questions/2620146/how-do-i-return-multiple-values-from-a-function-in-c)
+- [x] Question: [Proper ways to initialize c++ structs](https://stackoverflow.com/questions/5914422/proper-way-to-initialize-c-structs)
 
 ### Master golang
 
@@ -720,6 +758,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [Ai expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] Repo: [An introduction to statistical learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
+- [ ] Repo: [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)
 - [ ] Repo: [Deeplearning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [ ] Repo: [ABigSurvey](https://github.com/NiuTrans/ABigSurvey)
 - [ ] 
@@ -802,6 +841,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Color
 
+- [ ] Website: [Google Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
 - [ ] Website: [nippon colors](https://nipponcolors.com/)
 - [ ] Website: [Color hunt](https://colorhunt.co/)
 - [ ] Website: [Coolors](https://coolors.co/)
@@ -809,7 +849,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Khroma](http://khroma.co/)
 - [ ] Website: [Color :)](https://designkiki.com/colordoo/)
 - [ ] Website: [Pigment](https://pigment.shapefactory.co/)
-- [ ] Website: [Google Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
 - [ ] Website: [Color Leap](https://colorleap.app/dates)
 - [ ] Website: [Eggradients](https://www.eggradients.com/color-palette-inspiration)
 - [ ] Website: [colorable](https://colorable.jxnblk.com/)
@@ -887,6 +926,9 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 
+## Know a lot about network science
+
+- [ ] Wiki: [information market](https://www.wikiwand.com/en/Information_market#:~:text=For%20Linde%20and%20Stock%20(2011,commerce%20with%20(digital)%20information.)
 
 ## Know a lot about Economics
 
@@ -995,7 +1037,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Tolkien Phandom](https://lotr.fandom.com/wiki/Tolkien_Fandom)
 - [ ] Website: [Tolkien Gatsway](http://tolkiengateway.net/wiki/Main_Page)
 - [ ] Website: [Tolkien Forum](https://www.thetolkienforum.com/)
-
 
 ## Wisdom canon
 
