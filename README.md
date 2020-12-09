@@ -29,6 +29,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 * [Just for fun](#just-for-fun)
 * [Know a lot about Business](#know-a-lot-about-business)
+    * [Play in the forums](#play-in-the-forums)
     * [Know how to startups](#know-how-to-startups)
     * [Master speaking](#master-speaking)
     * [Know how to manage](#know-how-to-manage)
@@ -66,6 +67,8 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Know deeply about Linux & Unix](#know-deeply-about-linux--unix)
         * [Terminal](#terminal)
         * [Be a Arch Linuxist](#be-a-arch-linuxist)
+        * [Have fun with linux porn](#have-fun-with-linux-porn)
+            * [Get the awesome wallpaper](#get-the-awesome-wallpaper)
     * [Know a lot about hardwares](#know-a-lot-about-hardwares)
     * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
     * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
@@ -96,7 +99,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Master c++](#master-c)
     * [Master golang](#master-golang)
         * [Packages](#packages)
-    * [Python](#python)
+    * [Mastre python](#mastre-python)
     * [Rust](#rust)
     * [Build your home!](#build-your-home)
     * [Master LaTeX](#master-latex)
@@ -104,8 +107,8 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Master Haskell](#master-haskell)
     * [Master Machine Learning](#master-machine-learning)
     * [Master network security](#master-network-security)
-* [Design](#design)
-    * [Learn design](#learn-design)
+* [Learn how to design](#learn-how-to-design)
+    * [Design learning meshes](#design-learning-meshes)
     * [UIUX](#uiux)
     * [Fonts](#fonts-1)
     * [Mesh](#mesh)
@@ -118,12 +121,11 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Emojis and Icons](#emojis-and-icons)
     * [Tools](#tools-2)
         * [Gimp](#gimp)
-    * [Wallpaper](#wallpaper)
-* [Know Psychology](#know-psychology)
-    * [Metalearning](#metalearning)
-    * [Cognitive science](#cognitive-science)
-* [Writing and reading](#writing-and-reading)
-* [Mathematics](#mathematics)
+* [Know a lot about psychology](#know-a-lot-about-psychology)
+    * [Know a lot about cognitive science](#know-a-lot-about-cognitive-science)
+* [Master writing and reading](#master-writing-and-reading)
+* [Master Drawing](#master-drawing)
+* [Master mathematics](#master-mathematics)
 * [Know a lot about network science](#know-a-lot-about-network-science)
 * [Know a lot about Economics](#know-a-lot-about-economics)
     * [Master microeconomics](#master-microeconomics)
@@ -158,6 +160,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [Ted's list of interesting places](https://thunk.org/tytso/interesting-places.html)
 
 ## Know a lot about Business
+
+### Play in the forums
+
+- [ ] Website: [巨潮网](http://www.cninfo.com.cn/new/index)
+
 
 ### Know how to startups
 
@@ -448,6 +455,14 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Youtuber: [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 - [ ] Question: [How do I update GRUB in Arch Linux](https://unix.stackexchange.com/questions/111889/how-do-i-update-grub-in-arch-linux)
 
+#### Have fun with linux porn
+
+##### Get the awesome wallpaper
+
+- [ ] Website: [wallhaven](https://wallhaven.cc/)
+- [ ] Website: [wallhere](https://wallhere.com/)
+
+
 ### Know a lot about hardwares
 
 - [ ] Youtuber: [Linustechtips](https://www.youtube.com/user/LinusTechTips)
@@ -671,6 +686,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [a red teamer diaries](https://vx-underground.org/)
 - [ ] Repo: [SecListsw](https://github.com/danielmiessler/SecLists)
 - [ ] Repo: [Resources for beginner bug bounty hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [ ] Question: [有哪些值得关注的黑客会议？参加体验如何？](https://www.zhihu.com/question/31425599/answer/143302109)
 #### Tools
 - [ ] Repo: [ImHex](https://github.com/WerWolv/ImHex): hex editor
 
@@ -683,6 +699,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [official guide](https://nodejs.dev/learn)
 - [ ] Repo: [node bestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
 
 ### Master c++ 
 
@@ -722,10 +739,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Issue: [cmd/go: 'cannot find module for path' when importing from subdirectories](https://github.com/golang/go/issues/26645)
 - [ ] Article: [How to write go code](https://golang.org/doc/code.html)
 
-### Python
+### Mastre python
 
 - [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [ ] Repo: [30 days of python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [ ] Question: [What exactly do “u” and “r” string flags do, and what are raw string literals?](https://stackoverflow.com/questions/2081640/what-exactly-do-u-and-r-string-flags-do-and-what-are-raw-string-literals)
 
 ### Rust
 
@@ -776,10 +794,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] 
 
 
-## Design
+## Learn how to design
 
-
-### Learn design
+### Design learning meshes
 
 - [ ] Website: [sharpen](https://sharpen.design/)
 - [ ] Website: [growth design](https://growth.design/case-studies/)
@@ -893,13 +910,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Question: [Save selected portion of image in GIMP as PNG](https://graphicdesign.stackexchange.com/questions/132879/save-selected-portion-of-image-in-gimp-as-png)
 - [x] Question: [Gimp select rectangle selection as new image](https://www.warriorforum.com/website-design/86067-gimp-select-rectangle-selection-new-image.html)
 
-### Wallpaper
-
-- [ ] Website: [wallhaven](https://wallhaven.cc/)
-- [ ] Website: [wallhere](https://wallhere.com/)
 
 
-## Know Psychology
+## Know a lot about psychology
 
 - [ ] Mesh as website: [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [ ] Mesh as website: [心理学空间](https://www.psychspace.com/)
@@ -908,21 +921,24 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Wiki: [Dunbar's number](https://rationalwiki.org/wiki/Main_Page)
 
-### Metalearning
 
-
-### Cognitive science
+### Know a lot about cognitive science
 
 - [ ] Repo: [awesome cognitive science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 
 
-## Writing and reading
+## Master writing and reading
 
 - [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
 - [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
 - [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
 
-## Mathematics
+## Master Drawing
+
+- [ ] Website: [drawabox](https://drawabox.com/)
+- [ ] Youtuber: [uncomfortable](https://www.youtube.com/uncomfortable)
+
+## Master mathematics
 
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 
@@ -942,6 +958,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Know the economists
 
 - [ ] Wiki: [John Maynard Keynes](https://www.wikiwand.com/en/John_Maynard_Keynes)
+- [ ] Wiki: [Joseph Schumpeter](https://www.wikiwand.com/en/Joseph_Schumpeter)
 
 
 ## Languages
