@@ -1,11 +1,19 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ahacad/learning)
-
 ## Readme first
 
 **Languages of this repo**(or my language): Chinese, English, Japanese, German. All the books have links to *douban*, an awesome website of book reviews, albeit held back for political reasons.
 
 **Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here. 
 
+**Philosophy of this repo**: *you are what you read*. This is at least half true (same people same reading very different results), I hope to leave a record of my learning path, and provide some guidances (hopefully) to yet another hacker out there.
+
+### Design of the repo structure (WIP)
+
+As this repo grows bigger and bigger (I can already foresee it being more than 10k lines), manage it well is a pressing problem. Currently working on it. (TODO)
+
+**I am continuously refactoring this repo's structure, and feel free to start a issue for a better scheme.**
+ 
+ 
 **Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that they are all to be mastered.
 
 **Information on the Internet**: Some forms of information are:
@@ -16,14 +24,12 @@
   - great Article: very insightful articles
   - Article: workds written on websites, often focused on solving some particular problem
 
-Articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
+**Being an Internet citivzen**: articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
 
 We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. **Don't be a tenant on the Internet.**
 
-**I am continuously refactoring this repo's structure, and feel free to start issue for better arranging scheme.**
 
 ## Table of Contents
-
 
 <!-- vim-markdown-toc GFM -->
 
@@ -39,6 +45,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
+    * [Master the bases](#master-the-bases)
     * [Play around the awesome forums](#play-around-the-awesome-forums)
     * [Play with wicked cool things](#play-with-wicked-cool-things)
     * [Get hired](#get-hired)
@@ -80,6 +87,7 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Learn from the beautiful, production ready websites](#learn-from-the-beautiful-production-ready-websites)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
         * [Master JavaScript](#master-javascript)
+            * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
         * [Master TypeScript](#master-typescript)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
@@ -97,7 +105,9 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Programming languages](#programming-languages)
     * [Master nodejs](#master-nodejs)
     * [Master c++](#master-c)
+        * [Play with projects in c++](#play-with-projects-in-c)
     * [Master golang](#master-golang)
+        * [Play with projects in golang](#play-with-projects-in-golang)
         * [Packages](#packages)
     * [Mastre python](#mastre-python)
     * [Rust](#rust)
@@ -144,6 +154,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read a lot about current issues](#read-a-lot-about-current-issues)
 * [Education](#education)
     * [Get educated abroad](#get-educated-abroad)
+        * [Pay heed to the programs](#pay-heed-to-the-programs)
     * [Be a life-long learner](#be-a-life-long-learner)
     * [Know what to do of getting into PhD](#know-what-to-do-of-getting-into-phd)
 * [Documentaries](#documentaries)
@@ -203,17 +214,25 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Blog: [Techie Delight](https://www.techiedelight.com/): algorithms
 
+- [ ] Blog: [David Friedman](http://www.daviddfriedman.com/): The famous economist
+
 ### Learn from the awesome programmers
 
 - [ ] [Anthony Fu](https://github.com/antfu)       : vue
 - [ ] [Pine](https://github.com/octref)       : vue, ts
 - [ ] [Wojciech Maj](https://github.com/wojtekmaj) : react
 - [ ] [Lennart](https://github.com/LekoArts)       : gatsby
+- [ ] [Brad Traversy](https://github.com/bradtraversy)       : tutor
+- [ ] [Robert Xiao](https://github.com/bradtraversy): assisstant professor at UBC, HCI, CTF
 - [ ]
 - [ ] [Alex Chi](https://github.com/skyzh)
 
 
 ## Really know how to program
+
+### Master the bases
+
+- [ ] [software foundations](https://softwarefoundations.cis.upenn.edu/): mathematical underpinnings of reliable software
 
 ### Play around the awesome forums
 
@@ -246,6 +265,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Have a good understanding of database
 
 - [ ] Repo: [awesome database learning](https://github.com/pingcap/awesome-database-learning#books)
+- [ ] Repo: [PingCAP university](https://university.pingcap.com/): training program by PingCAP
 - [x] Question: [How can I create a SQLite3 database file using a SQL command file?](https://stackoverflow.com/questions/14005731/how-can-i-create-a-sqlite3-database-file-using-a-sql-command-file)
 - [ ] Question: [Recommended SQL database design for tags or tagging](https://stackoverflow.com/questions/20856/recommended-sql-database-design-for-tags-or-tagging)
 - [ ] Question: [Table Naming Dilemma: Singular vs. Plural Names](https://stackoverflow.com/questions/338156/table-naming-dilemma-singular-vs-plural-names)
@@ -433,6 +453,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Information flow: [LWN.net](https://lwn.net/)
 - [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
+- [ ] Blog: [SysTutorials](https://www.systutorials.com/): a series of articles on Linux
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
@@ -456,6 +477,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [How do I update GRUB in Arch Linux](https://unix.stackexchange.com/questions/111889/how-do-i-update-grub-in-arch-linux)
 
 #### Have fun with linux porn
+
+- [ ] Repo: [polybar-collection](https://github.com/Murzchnvok/polybar-collection)
 
 ##### Get the awesome wallpaper
 
@@ -494,6 +517,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [ ] Website: [scotch.io](https://scotch.io/)
 - [ ] 
+- [ ] Repo: [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [ ] Repo: [50projects50days](https://github.com/bradtraversy/50projects50days)
 - [ ] Website: [iconify](https://iconify.design/)
 - [ ] Mesh as articles: [Mark Denic blog](https://markodenic.com/blog/)
@@ -525,6 +549,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [the software house](https://tsh.io/)
 - [ ] [creative Tim](https://www.creative-tim.com/stacks/ultimate-stack-bf)
 - [ ] [wappalyzer](https://www.wappalyzer.com/)
+- [ ] [go system conf](https://systemsconf.io/)
+- [ ] [LiveChat](https://www.livechat.com/)
+- [ ] [Dgraph](https://dgraph.io/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
@@ -572,6 +599,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [Make div stick to the bottom of page](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page)
 - [ ] Article: [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [ ] Article: [9 important CSS properties you must know](https://zellwk.com/blog/9-important-css-properties-you-must-know/)
+- [x] Article: [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
 
 #### Master JavaScript
 
@@ -602,6 +630,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] 
 - [ ] Book online: [How to graphql](https://www.howtographql.com/)
 - [ ] 
+
+##### Be able to write chrome extensions
+
+- [ ] [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): official samples
 
 #### Master TypeScript
 
@@ -662,6 +694,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Mesh as repo: [architect awesome](https://github.com/xingshaocheng/architect-awesome)
 - [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [ ] Repo: [archecture awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [ ] Wiki: [Relational algebra](https://www.wikiwand.com/en/Relational_algebra#:~:text=In%20database%20theory%2C%20relational%20algebra,Codd.)
 
@@ -671,6 +704,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [OWASP cheat sheet series](https://github.com/OWASP/CheatSheetSeries)
 - [ ] Repo: [Certified Kubernetes Security Specialist - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+- [ ] Book online: [School of SRE, linkedin](https://linkedin.github.io/school-of-sre/)
 - [ ] Mesh as repo: [DevOps Resources](https://github.com/bregman-arie/devops-resources)
 - [ ] Repo: [k6](https://github.com/loadimpact/k6)
 
@@ -705,6 +739,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Book online: [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 - [ ] Book online: [Modern C++ tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
+- [ ] Book as repo: [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++ 从入门到进阶
 
 - [ ] Website: [c++ faq](http://www.cs.technion.ac.il/users/yechiel/c++-faq/thank-you.htm)
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
@@ -715,6 +750,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
 - [x] Question: [How do I return multiple values from a function in C](https://stackoverflow.com/questions/2620146/how-do-i-return-multiple-values-from-a-function-in-c)
 - [x] Question: [Proper ways to initialize c++ structs](https://stackoverflow.com/questions/5914422/proper-way-to-initialize-c-structs)
+
+#### Play with projects in c++
+
+- [ ] Repo: [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): multiplatform C++ library for capturing, parsign and crafting of network packets.
+- [ ] Repo: [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus): functional programming for C++
+- [ ] Repo: [c_plus_plus_exercise](https://github.com/AngryHacker/C_plus_plus_exercise): demo c++ projects, less than 5k lines
+- [ ] Repo: [json](https://github.com/nlohmann/json): JSON for modern c++
 
 ### Master golang
 
@@ -732,6 +774,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [Simple techniques to optimize Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [ ] Article: [A visual guide to go memory allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 - [ ] Poem: [go proverb](https://go-proverbs.github.io/)
+ 
+#### Play with projects in golang
+
+- [ ] Repo: [go-git](https://github.com/go-git/go-git): git in pure go
+
 
 #### Packages
 
@@ -948,6 +995,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Know a lot about Economics
 
+- [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
+- [ ] Website: [EH.net, Economic History Association](https://eh.net/)
+- [ ] Website: [BEA, Bureau of Economic Analysis](https://www.bea.gov/)
+
 ### Master microeconomics
 
 ### Master macroeconomics
@@ -959,13 +1010,17 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Wiki: [John Maynard Keynes](https://www.wikiwand.com/en/John_Maynard_Keynes)
 - [ ] Wiki: [Joseph Schumpeter](https://www.wikiwand.com/en/Joseph_Schumpeter)
+- [ ] Wiki: [Thorstien Veblen](https://www.wikiwand.com/en/Thorstein_Veblen)
+- [ ] Wiki: [Edith Penrose](https://www.wikiwand.com/en/Edith_Penrose)
 
+- [ ] Homepage: [Avinash K. Dixit](https://www.princeton.edu/~dixitak/home/)
 
 ## Languages
 
 ### Master 日本語
 
 - [ ] Website: [tomatom.net](http://tomatom.net/index.html)
+- [ ] Website: [keizai-nihongo](http://keizai-nihongo.com/chi/): Japanese words for economics
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
 - [ ] Question: [日语语法怎么背](https://www.zhihu.com/question/352141891/answer/1370307293)
@@ -1029,6 +1084,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
 - [ ] Repo: [STJU-Application](https://github.com/SurviveSJTU/SJTU-Application)
+
+#### Pay heed to the programs
+
+- [ ] Website: [Knight-Hennessy Scholars Stanford](https://knight-hennessy.stanford.edu/)
 
 ### Be a life-long learner
 
