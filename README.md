@@ -59,6 +59,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Play with competitive programming](#play-with-competitive-programming)
     * [Master design patterns](#master-design-patterns)
     * [Be a real programmer](#be-a-real-programmer)
+        * [Know about the tycoons](#know-about-the-tycoons)
             * [Make the projects](#make-the-projects)
             * [Use the developer resources](#use-the-developer-resources)
         * [Beat interviews](#beat-interviews)
@@ -89,6 +90,7 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Master JavaScript](#master-javascript)
             * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
         * [Master TypeScript](#master-typescript)
+            * [Play with the frameworks](#play-with-the-frameworks)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
@@ -145,8 +147,9 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Master 日本語](#master-日本語)
 * [Know a lot about philosophy and essays](#know-a-lot-about-philosophy-and-essays)
 * [Know a lot about politics](#know-a-lot-about-politics)
-* [History](#history)
-    * [US](#us)
+* [Know a lot about history](#know-a-lot-about-history)
+    * [Know a lot about US history](#know-a-lot-about-us-history)
+    * [Know a lot about Chinese history](#know-a-lot-about-chinese-history)
 * [Know how to live independently](#know-how-to-live-independently)
     * [Hair](#hair)
     * [Houses](#houses)
@@ -345,6 +348,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Programmer competency matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 - [ ] Gist: [effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
+#### Know about the tycoons
+
+- [ ] Question: [英伟达 (NVIDIA) 创始人黄仁勋是一个什么样的人？](https://www.zhihu.com/question/22407373)
+
 ##### Make the projects
 - [ ] Repo: [realworld](https://github.com/gothinkster/realworld)
 - [ ] Repo: [*Build your own x*](https://github.com/danistefanovic/build-your-own-x)
@@ -370,6 +377,7 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Beat interviews
 - [ ] Repo: [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [ ] Repo: [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [ ] Repo: [interview](https://github.com/Olshansk/interview)
 
 #### Read through and arrange your own learning mesh
 
@@ -639,6 +647,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Article: [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/): long, insightful article
 
+##### Play with the frameworks
+
+- [ ] Repo: [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs)
+
 #### Be able to make beautiful web effects
 
 - [ ] Mesh as repo: [awesome web effects](https://github.com/lindelof/awesome-web-effect)
@@ -748,7 +760,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
-- [x] Question: [How do I return multiple values from a function in C](https://stackoverflow.com/questions/2620146/how-do-i-return-multiple-values-from-a-function-in-c)
+- [x] Question: [stl priority_queue of C++ with struct](https://stackoverflow.com/questions/15601973/stl-priority-queue-of-c-with-struct)
+ [x] Question: [How do I return multiple values from a function in C](https://stackoverflow.com/questions/2620146/how-do-i-return-multiple-values-from-a-function-in-c)
 - [x] Question: [Proper ways to initialize c++ structs](https://stackoverflow.com/questions/5914422/proper-way-to-initialize-c-structs)
 
 #### Play with projects in c++
@@ -998,6 +1011,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
 - [ ] Website: [EH.net, Economic History Association](https://eh.net/)
 - [ ] Website: [BEA, Bureau of Economic Analysis](https://www.bea.gov/)
+- [ ] Blog: [Marginal Revolution](https://marginalrevolution.com/)
 
 ### Master microeconomics
 
@@ -1012,6 +1026,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Wiki: [Joseph Schumpeter](https://www.wikiwand.com/en/Joseph_Schumpeter)
 - [ ] Wiki: [Thorstien Veblen](https://www.wikiwand.com/en/Thorstein_Veblen)
 - [ ] Wiki: [Edith Penrose](https://www.wikiwand.com/en/Edith_Penrose)
+- [ ] Wiki: [Thomas Schelling](https://www.wikiwand.com/en/Thomas_Schelling)
+- [ ] Wiki: [Sindre Sorhus](https://github.com/sindresorhus)
 
 - [ ] Homepage: [Avinash K. Dixit](https://www.princeton.edu/~dixitak/home/)
 
@@ -1021,8 +1037,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [tomatom.net](http://tomatom.net/index.html)
 - [ ] Website: [keizai-nihongo](http://keizai-nihongo.com/chi/): Japanese words for economics
+- [ ] Website: [青空文库](https://www.aozora.gr.jp/)
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
+- [ ] Article: [超实用日语学习网站大全，一定要收藏！！](https://zhuanlan.zhihu.com/p/42682366)
 - [ ] Question: [日语语法怎么背](https://www.zhihu.com/question/352141891/answer/1370307293)
 - [ ] Question: [如何有效率的记住日语语法接续？](https://www.zhihu.com/question/49516760/answer/1451892969)
 - [ ] Question: [日语声调应该如何掌握](https://www.zhihu.com/question/26810278/answer/219519372)
@@ -1047,11 +1065,15 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Wiki: [Totalitarianism](https://www.wikiwand.com/en/Totalitarianism)
 
-## History
+## Know a lot about history
 
-### US
+### Know a lot about US history
 
 - [ ] Website: [gilderlehrman](https://ap.gilderlehrman.org/)
+
+### Know a lot about Chinese history
+
+- [ ] Website: [中国革命史](https://zh.m.wikisource.org/zh-hant/%E4%B8%AD%E5%9C%8B%E9%9D%A9%E5%91%BD%E5%8F%B2)
 
 ## Know how to live independently
 
