@@ -240,6 +240,10 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Play around the awesome forums
 
 - [ ] Article: [Six simple tips to get Stack Overflow reputation fast](https://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast)
+- [x] Article: [How to create a minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
+- [ ] Article: [How do I ask a good question](https://stackoverflow.com/help/how-to-ask)
+- [ ] Question: [Something in my website or project doesn't work. Can I just paste a link to it?](https://meta.stackoverflow.com/questions/254428/something-in-my-website-or-project-doesnt-work-can-i-just-paste-a-link-to-it  )
+- [ ] Article: [Fabulous adventures in coding](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 
 ### Play with wicked cool things
 
@@ -535,6 +539,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
 - [ ] Website: [tailwind ui](https://tailwindui.com/)
+- [x] Question: [What does !important mean in CSS](https://stackoverflow.com/questions/9245353/what-does-important-mean-in-css)
+- [x] Question: [How to overried !important](https://stackoverflow.com/questions/11178673/how-to-override-important)
 
 ##### Be able to make beautiful effects and animations
 
@@ -560,6 +566,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [go system conf](https://systemsconf.io/)
 - [ ] [LiveChat](https://www.livechat.com/)
 - [ ] [Dgraph](https://dgraph.io/)
+- [ ] [g2](https://www.g2.com/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
@@ -630,6 +637,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
+- [ ] Question: [HTML5 local storage vs. session storage](https://stackoverflow.com/questions/5523140/html5-local-storage-vs-session-storage)
+- [ ] Question: [What is the difference between localStorage, sessionStoraage, session and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
 - [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
 - [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
 - [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
