@@ -45,6 +45,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
+    * [Master software engineering](#master-software-engineering)
     * [Master the bases](#master-the-bases)
     * [Play around the awesome forums](#play-around-the-awesome-forums)
     * [Play with wicked cool things](#play-with-wicked-cool-things)
@@ -79,7 +80,7 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Get the awesome wallpaper](#get-the-awesome-wallpaper)
     * [Know a lot about hardwares](#know-a-lot-about-hardwares)
     * [Master miscellaneous cool things](#master-miscellaneous-cool-things)
-    * [Become a powerful Frontend developer](#become-a-powerful-frontend-developer)
+    * [Become a powerful frontend developer](#become-a-powerful-frontend-developer)
         * [Exhaust the learning meshes](#exhaust-the-learning-meshes)
         * [Master CSS](#master-css)
             * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
@@ -99,6 +100,7 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Webpack](#webpack)
         * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
         * [Know the famous deployer](#know-the-famous-deployer)
+    * [Computer graphics and webGL](#computer-graphics-and-webgl)
     * [Become a powerful backend developer](#become-a-powerful-backend-developer)
     * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
         * [Master the cloud platforms](#master-the-cloud-platforms)
@@ -148,6 +150,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Know a lot about philosophy and essays](#know-a-lot-about-philosophy-and-essays)
 * [Know a lot about politics](#know-a-lot-about-politics)
 * [Know a lot about history](#know-a-lot-about-history)
+    * [Know a lot about World War II](#know-a-lot-about-world-war-ii)
     * [Know a lot about US history](#know-a-lot-about-us-history)
     * [Know a lot about Chinese history](#know-a-lot-about-chinese-history)
 * [Know how to live independently](#know-how-to-live-independently)
@@ -157,6 +160,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read a lot about current issues](#read-a-lot-about-current-issues)
 * [Education](#education)
     * [Get educated abroad](#get-educated-abroad)
+    * [Get educated](#get-educated)
         * [Pay heed to the programs](#pay-heed-to-the-programs)
     * [Be a life-long learner](#be-a-life-long-learner)
     * [Know what to do of getting into PhD](#know-what-to-do-of-getting-into-phd)
@@ -232,6 +236,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 
 ## Really know how to program
+
+### Master software engineering
+
+- [ ] [Quotes for software engineers](https://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm)
 
 ### Master the bases
 
@@ -350,11 +358,12 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book: [*Peopleware* by DeMarco and Lister](https://book.douban.com/subject/1451438/)
 - [ ] Book (as GitHub repo): [*How to be a programmer*](https://github.com/braydie/HowToBeAProgrammer)
 - [ ] Website: [Programmer competency matrix](https://sijinjoseph.com/programmer-competency-matrix/)
+- [ ] Website: [wizardzines](https://wizardzines.com/): interesting way of learning programming
 - [ ] Gist: [effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 #### Know about the tycoons
 
-- [ ] Question: [英伟达 (NVIDIA) 创始人黄仁勋是一个什么样的人？](https://www.zhihu.com/question/22407373)
+- [x] Question: [英伟达 (NVIDIA) 创始人黄仁勋是一个什么样的人？](https://www.zhihu.com/question/22407373)
 
 ##### Make the projects
 - [ ] Repo: [realworld](https://github.com/gothinkster/realworld)
@@ -462,8 +471,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Know deeply about Linux & Unix
 
-- [ ] Information flow: [LWN.net](https://lwn.net/)
 - [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
+- [ ] Information flow: [LWN.net](https://lwn.net/)
+- [ ] Website: [BashFAQ](http://mywiki.wooledge.org/BashFAQ)
+- [ ] Website: [Bash Hackers Wiki](https://wiki.bash-hackers.org/start)
 - [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
 - [ ] Blog: [SysTutorials](https://www.systutorials.com/): a series of articles on Linux
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
@@ -471,6 +482,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [What's the best way to perform a parallel copy on Unix?](https://superuser.com/questions/327659/whats-the-best-way-to-perform-a-parallel-copy-on-unix)
 - [ ] Question: [Is there a basic tutorial for grep, awk and sed?](https://unix.stackexchange.com/questions/2434/is-there-a-basic-tutorial-for-grep-awk-and-sed) 
 - [ ] Question: [What is the rationale for the '/usr' directory](https://askubuntu.com/questions/130186/what-is-the-rationale-for-the-usr-directory) 
+- [ ] Question: [Redirect both stderr and stdout to /dev/null wiht /bin/sh](https://unix.stackexchange.com/questions/80629/redirect-both-stderr-and-stdout-to-dev-null-with-bin-sh) 
 
 - [ ] Book online: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
@@ -508,7 +520,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [awesome osint (open source intelligent)](https://github.com/jivoi/awesome-osint#-general-search)
 
-### Become a powerful Frontend developer
+### Become a powerful frontend developer
 
 #### Exhaust the learning meshes
 
@@ -544,6 +556,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ##### Be able to make beautiful effects and animations
 
+- [ ] repo: [awesome web annimation](https://github.com/sergey-pimenov/awesome-web-animation)
+
 ###### Box Shadow
 - [ ] Website: [deerbucks, neomorphism](https://deerbucks.tokyo/)
 - [ ] Website: [Neumorphism.io](https://neumorphism.io/)
@@ -553,6 +567,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ###### Fonts
 
+- [ ] website: [google fonts](https://fonts.google.com)
 - [ ] Article: [How to set weights and styles with the @font-face declaration](https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/)
 
 ##### Learn from the beautiful, production ready websites
@@ -705,10 +720,16 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [upptime](https://github.com/upptime/upptime)
 - [ ] Article: [Best practices for speeding up your website, Yahoo](https://developer.yahoo.com/performance/rules.html)
 - [ ] Article: [重复优化的思考](https://www.cnblogs.com/yexiaochai/p/4901341.html)
+- [ ] Article: [How page load time affects conversion rates: 12 case studies](https://blog.hubspot.com/marketing/page-load-time-conversion-rates)
+- [ ] Question: [What's the difference between reflow and repaint](https://stackoverflow.com/questions/2549296/whats-the-difference-between-reflow-and-repaint#:~:text=Repaint%20occurs%20when%20some%20changes,of%20DOM%20changes%20its%20layout.&text=Reflow%20happens%20when%20there%20is%20a%20change%20to%20the%20DOM%20layout.)
  
 #### Know the famous deployer
 
 - [ ] Website: [Vercel](https://vercel.com)
+
+### Computer graphics and webGL
+
+- [ ] Blog: [bruno-simon](https://bruno-simon.com/)
 
 ### Become a powerful backend developer
 
@@ -879,12 +900,14 @@ We HOPE that what we are writing today will still be there after some decades or
 ### UIUX
 
 - [ ] Repo: [awesome web design](https://github.com/nicolesaidy/awesome-web-design)
+- [ ] Repo: [Mockplus UI blog](https://www.mockplus.com/blog)
 - [ ] Website: [learnux.io](https://learnux.io/)
-- [ ] Website: [Daily UI](https://www.dailyui.co/)
-- [ ] Website: [UI design daily](https://uidesigndaily.com/?)
+- [x] Website: [Daily UI](https://www.dailyui.co/): an email about UI challenge a day
+- [ ] Website: [UI design daily](https://uidesigndaily.com/?): UI components free downloading
 - [ ] Website: [Learn UI design](https://learnui.design/)
 - [ ] Website: [collectui](https://collectui.com/)
 - [ ] Website: [Cofolio](https://cofolios.com/)
+- [ ] Website: [scrimba](scrimba.com)
 - [ ] Article: [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
 
 ### Fonts
@@ -905,6 +928,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [pixabay](https://pixabay.com/)
 - [ ] Website: [Unsplash](https://unsplash.com/)
 - [ ] Website: [pexels](https://www.pexels.com/)
+- [ ] Website: [flickr](https://www.flickr.com/explore)
+- [ ] Website: [500px](https://500px.com/?dc=1608207022794)
 - [ ] Website: [Foodiesfeed](https://www.foodiesfeed.com/)
 
 ### Illustrations
@@ -989,6 +1014,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Mesh as wiki: [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
 
 - [ ] Wiki: [Dunbar's number](https://rationalwiki.org/wiki/Main_Page)
+- [ ] Wiki: [Transactional anasysis](https://www.wikiwand.com/en/Transactional_analysis)
 
 
 ### Know a lot about cognitive science
@@ -1072,13 +1098,21 @@ We HOPE that what we are writing today will still be there after some decades or
  
 ## Know a lot about politics
 
-- [ ] Wiki: [Totalitarianism](https://www.wikiwand.com/en/Totalitarianism)
+- [ ] wiki: [Totalitarianism](https://www.wikiwand.com/en/Totalitarianism)
 
 ## Know a lot about history
 
+### Know a lot about World War II
+
+- [ ] wiki: [causes of World War II](https://www.wikiwand.com/en/Causes_of_World_War_II)
+
 ### Know a lot about US history
 
-- [ ] Website: [gilderlehrman](https://ap.gilderlehrman.org/)
+- [ ] website: [gilderlehrman](https://ap.gilderlehrman.org/)
+- [ ] paper: [Wartime Prosperity? A Reassassment of the U.S. Economy in the 1940s](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/wartime-prosperity-a-reassessment-of-the-us-economy-in-the-1940s/5D69B5C53EAE15CF69CA3DFD7EBF7D7A)
+- [x] article: [The American Economy during World War II](https://eh.net/encyclopedia/the-american-economy-during-world-war-ii/)
+- [x] article: [The End of the Great Depression](https://www.nber.org/digest/feb11/end-great-depression)
+- [ ] article: [The Myth of U.S. Prosperity during World War II](https://fee.org/articles/the-myth-of-us-prosperity-during-world-war-ii/)
 
 ### Know a lot about Chinese history
 
@@ -1115,6 +1149,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
 - [ ] Repo: [STJU-Application](https://github.com/SurviveSJTU/SJTU-Application)
+
+### Get educated
+
+- [ ] question: [如何评价《浅谈清华学风、课程内卷、特奖》一文？ - Yuhang Liu的回答 - 知乎](https://www.zhihu.com/question/353601539/answer/1632437404)
 
 #### Pay heed to the programs
 
@@ -1154,4 +1192,5 @@ We HOPE that what we are writing today will still be there after some decades or
 Thanks for inspiration from [amitness](https://github.com/amitness/learning), his repo inspired me a lot.
 
 ### What information sources are choosed?
+
 
