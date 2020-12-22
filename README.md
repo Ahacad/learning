@@ -45,6 +45,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
+    * [Master the art of working](#master-the-art-of-working)
     * [Master software engineering](#master-software-engineering)
     * [Master the bases](#master-the-bases)
     * [Play around the awesome forums](#play-around-the-awesome-forums)
@@ -85,15 +86,16 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Master CSS](#master-css)
             * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
                 * [Box Shadow](#box-shadow)
-                * [Fonts](#fonts)
+                * [Master fonts](#master-fonts)
             * [Learn from the beautiful, production ready websites](#learn-from-the-beautiful-production-ready-websites)
+            * [Use the website templates](#use-the-website-templates)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
         * [Master JavaScript](#master-javascript)
             * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
         * [Master TypeScript](#master-typescript)
-            * [Play with the frameworks](#play-with-the-frameworks)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
+            * [Master react](#master-react)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
                 * [Master document site generators](#master-document-site-generators)
         * [Master the tools](#master-the-tools)
@@ -102,6 +104,7 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Know the famous deployer](#know-the-famous-deployer)
     * [Computer graphics and webGL](#computer-graphics-and-webgl)
     * [Become a powerful backend developer](#become-a-powerful-backend-developer)
+        * [Master testing](#master-testing)
     * [Become a powerful DevOps developer](#become-a-powerful-devops-developer)
         * [Master the cloud platforms](#master-the-cloud-platforms)
     * [Master security](#master-security)
@@ -124,7 +127,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Learn how to design](#learn-how-to-design)
     * [Design learning meshes](#design-learning-meshes)
     * [UIUX](#uiux)
-    * [Fonts](#fonts-1)
+    * [Fonts](#fonts)
     * [Mesh](#mesh)
     * [Pictures](#pictures)
     * [Illustrations](#illustrations)
@@ -133,6 +136,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Videos](#videos)
     * [Sound](#sound)
     * [Emojis and Icons](#emojis-and-icons)
+    * [Logo](#logo)
     * [Tools](#tools-2)
         * [Gimp](#gimp)
 * [Know a lot about psychology](#know-a-lot-about-psychology)
@@ -237,6 +241,11 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Really know how to program
 
+### Master the art of working
+
+- [ ] website: [untools](https://untools.co/): tool for better thinking
+- [x] Article: [How I Easily Code For 8+ Hours Without Feeling Tired (My Productivity System)](https://blog.nickbulljs.com/how-i-easily-code-for-8-hours-without-feeling-tired-my-productivity-system)
+
 ### Master software engineering
 
 - [ ] [Quotes for software engineers](https://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm)
@@ -269,7 +278,11 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Have a good understanding of computer networks
 
 - [ ] Book: [*Computer Networks: An Open Source Approach* by Lin and Hwang](https://book.douban.com/subject/6884995/)
+- [ ] Book: [TCP/IP illustrated](https://book.douban.com/subject/3571433/)
+- [ ] Book: [HTTP the definitive guide](https://book.douban.com/subject/1440226/)
 - [ ] Article: [HTTP 协议详解](https://www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)
+- [ ] Article: [Internet Backbone](https://newgendeveloper.hashnode.dev/internet-backbone)
+- [ ] website: [httpstatuscode](https://httpstatuses.com/): all the http status codes
 
 #### Master RESTful
 - [ ] Article: [理解 RESTful 架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
@@ -468,10 +481,15 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [common-regex](https://github.com/cdoco/common-regex)
 - [ ] Website: [regexr.com](https://regexr.com/): online regex engine
 - [ ] Website: [regexper](https://regexper.com/): generate graph for regex online
+- [ ] Website: [RegEx Pal](https://www.regexpal.com/)
 
 ### Know deeply about Linux & Unix
 
 - [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
+- [ ] Book: [Advanced programming in the unix environment](https://book.douban.com/subject/11626789/)
+- [ ] Book: [The Linux programming interface](https://book.douban.com/subject/4292217/)
+- [ ] Book: [Undrstanding Linux network internals](https://book.douban.com/subject/1475839/)
+- [ ] Book: [Linux system programming](https://book.douban.com/subject/20491097/)
 - [ ] Information flow: [LWN.net](https://lwn.net/)
 - [ ] Website: [BashFAQ](http://mywiki.wooledge.org/BashFAQ)
 - [ ] Website: [Bash Hackers Wiki](https://wiki.bash-hackers.org/start)
@@ -486,6 +504,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Book online: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 - [ ] Article: [Linux用户及组相关文件介绍](https://www.cnblogs.com/ruanni/p/13922064.html)
+- [ ] Article: [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html)
 - [ ] Wiki: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) 
 #### Terminal
 - [ ] Repo: [terms benchmarks](https://github.com/anarcat/terms-benchmarks)
@@ -522,6 +541,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Become a powerful frontend developer
 
+- [ ] website: [frontend mentor](https://www.frontendmentor.io/solutions): real-world frontend projects, built together with the community
+
 #### Exhaust the learning meshes
 
 - [ ] Mesh as repo: [frontend developer guide](https://github.com/icepy/Front-End-Develop-Guide)
@@ -551,11 +572,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [MDN CSS properties reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
 - [ ] Website: [tailwind ui](https://tailwindui.com/)
+- [ ] Website: [caniuse](https://caniuse.com/)
 - [x] Question: [What does !important mean in CSS](https://stackoverflow.com/questions/9245353/what-does-important-mean-in-css)
 - [x] Question: [How to overried !important](https://stackoverflow.com/questions/11178673/how-to-override-important)
 
 ##### Be able to make beautiful effects and animations
 
+- [ ] website: [animista](https://animista.net/): build animations online
 - [ ] repo: [awesome web annimation](https://github.com/sergey-pimenov/awesome-web-animation)
 
 ###### Box Shadow
@@ -565,9 +588,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [A close look at CSS box shadow](https://www.webfx.com/blog/web-design/css-box-shadow/)
 - [ ] Article: [CSS Box Shadow examples](https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0457-01-css-box-shadow-demo/demo.html)
 
-###### Fonts
+###### Master fonts
 
 - [ ] website: [google fonts](https://fonts.google.com)
+- [ ] website: [fontpair](https://fontpair.co/): display fonts in pairs, headings and paragarph respectively
 - [ ] Article: [How to set weights and styles with the @font-face declaration](https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/)
 
 ##### Learn from the beautiful, production ready websites
@@ -575,6 +599,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [segment](https://segment.com/)
 - [ ] [dvc](https://dvc.org/)
 - [ ] [netlify](https://www.netlify.com/)
+- [ ] [vercel](https://vercel.com/)
 - [ ] [the software house](https://tsh.io/)
 - [ ] [creative Tim](https://www.creative-tim.com/stacks/ultimate-stack-bf)
 - [ ] [wappalyzer](https://www.wappalyzer.com/)
@@ -582,8 +607,15 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [LiveChat](https://www.livechat.com/)
 - [ ] [Dgraph](https://dgraph.io/)
 - [ ] [g2](https://www.g2.com/)
+- [ ] [Pluralsight](https://www.pluralsight.com/)
+- [ ] [scrimba](https://scrimba.com/)
+- [ ] [render](https://render.com/)
 
 - [ ] [hear.com](https://www.hear.com/)
+
+##### Use the website templates
+
+- [ ] website: [w3layouts](https://w3layouts.com/)
 
 ##### Master BEM, OOCSS and SMACSS
 
@@ -646,11 +678,14 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Javascript info](https://javascript.info/polyfills)
 - [ ] Website: [Mastering Javascript](https://masteringjs.io/)
 - [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
+- [ ] Website: [bundle phobia](https://bundlephobia.com/): find packages, easily
+- [ ] Website: [1loc](https://1loc.dev/): JavaScript utilities in one line of code!
 - [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [ ] Article: [Understanding JavaScript function invocation and 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 - [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
 - [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
+- [x] Article: [Create HTML5 Desktop Notifications with React](https://www.pluralsight.com/guides/html5-desktop-notifications-with-react)
 - [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
 - [ ] Question: [HTML5 local storage vs. session storage](https://stackoverflow.com/questions/5523140/html5-local-storage-vs-session-storage)
 - [ ] Question: [What is the difference between localStorage, sessionStoraage, session and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
@@ -671,18 +706,12 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Article: [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/): long, insightful article
 
-##### Play with the frameworks
-
-- [ ] Repo: [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs)
-
 #### Be able to make beautiful web effects
-
 - [ ] Mesh as repo: [awesome web effects](https://github.com/lindelof/awesome-web-effect)
 
 #### Be comfortable with using frameworks
-
+- [ ] Repo: [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs)
 - [ ] Repo: [*Awesome Vue*](https://github.com/vuejs/awesome-vue)
-- [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [ ] Repo: [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [ ] Repo: [reveal.js](https://github.com/hakimel/reveal.js)
 - [ ] Repo: [styled components](https://github.com/styled-components/styled-components)
@@ -691,8 +720,14 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
 - [ ] Article: [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [x] Article: [How to set an event handler in a react sub-component](https://www.pluralsight.com/guides/how-to-set-an-event-handler-in-a-react-sub-component)
+- [ ] Article: [Top JavaScript frameworks and web development trends in 2021](https://codeburst.io/top-javascript-frameworks-and-web-development-trends-in-2021-313194c0cd92  )
 - [x] Article: [History of frontend frameworks](https://blog.logrocket.com/history-of-frontend-frameworks/#:~:text=Around%20the%20mid%2D2000s%2C%20CSS,960%2C%20YUI%20Grids%20and%20YAML.)
+
+##### Master react
+- [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
 - [x] Article: [Everything you need to know about react-scripts](https://blog.logrocket.com/everything-you-need-to-know-about-react-scripts/)
+- [x] Article: [What does create recat app do?](https://codaisseur.com/blog/what-does-create-react-app-do/#:~:text=The%20create%20react%20app%20package,Dom%20with%20many%20other%20dependencies.)
+- [ ] Article: [Modern JavaScript explained for dinosaur](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
 #### Enjoy the even newer platforms
 
@@ -739,6 +774,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [archecture awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [ ] Wiki: [Relational algebra](https://www.wikiwand.com/en/Relational_algebra#:~:text=In%20database%20theory%2C%20relational%20algebra,Codd.)
+- [ ] Wiki: [Object-relational mapping](https://www.wikiwand.com/en/Object%E2%80%93relational_mapping)
+
+#### Master testing
+
+- [ ] book online: [fuzzing book](https://www.fuzzingbook.org/): tools and techniques for generating software tests
 
 
 ### Become a powerful DevOps developer
@@ -783,6 +823,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book online: [Modern C++ tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
 - [ ] Book as repo: [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++ 从入门到进阶
 
+- [ ] Website: [hacking cpp](https://hackingcpp.com/)
 - [ ] Website: [c++ faq](http://www.cs.technion.ac.il/users/yechiel/c++-faq/thank-you.htm)
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
@@ -927,6 +968,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [pixabay](https://pixabay.com/)
 - [ ] Website: [Unsplash](https://unsplash.com/)
+- [ ] Website: [freepik](https://www.freepik.com/)
 - [ ] Website: [pexels](https://www.pexels.com/)
 - [ ] Website: [flickr](https://www.flickr.com/explore)
 - [ ] Website: [500px](https://500px.com/?dc=1608207022794)
@@ -934,6 +976,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Illustrations
 
+- [ ] Website: [avataaars generator](https://getavataaars.com/): generate avatars
 - [ ] Website: [*unDraw*](https://undraw.co/illustrations)
 - [ ] Website: [*Iconsout*](https://iconscout.com/)
 - [ ] Website: [*Drawkit*](https://www.drawkit.io/)
@@ -954,6 +997,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [Google Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
 - [ ] Website: [nippon colors](https://nipponcolors.com/)
+- [ ] Website: [colormind](http://colormind.io/)
 - [ ] Website: [Color hunt](https://colorhunt.co/)
 - [ ] Website: [Coolors](https://coolors.co/)
 - [ ] Website: [colorsinspo](https://colorsinspo.com/)
@@ -980,6 +1024,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [*mixkit*](https://mixkit.co/)
 - [ ] Website: [videvo](https://www.videvo.net/)
 - [ ] Website: [videezy](https://www.videezy.com/)
+- [ ] Website: [uncreen](https://www.unscreen.com/): remove screen background
 
 ### Sound 
 
@@ -990,9 +1035,15 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Emojis and Icons
 
 - [ ] Website: [*Icons8*](https://icons8.com/)
+- [ ] Website: [Ikonate](https://ikonate.com/)
+- [ ] Website: [Remix icon](https://remixicon.com/)
 - [ ] Website: [*Openemoji*](https://openmoji.org/)
 - [ ] Website: [*simpleicons*](https://simpleicons.org/)
 - [ ] Repo: [*SuperTinyIcons*](https://github.com/edent/SuperTinyIcons)
+
+### Logo
+
+- [ ] website: [namcheap](https://www.namecheap.com/logo-maker/)
 
 ### Tools 
 
@@ -1147,12 +1198,13 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Get educated abroad
 
-- [ ] Repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
-- [ ] Repo: [STJU-Application](https://github.com/SurviveSJTU/SJTU-Application)
+- [ ] repo: [FLY_US](https://github.com/F4bwDP6a6W/FLY_US)
+- [ ] repo: [STJU-Application](https://github.com/SurviveSJTU/SJTU-Application)
 
 ### Get educated
 
-- [ ] question: [如何评价《浅谈清华学风、课程内卷、特奖》一文？ - Yuhang Liu的回答 - 知乎](https://www.zhihu.com/question/353601539/answer/1632437404)
+- [x] question: [如何评价《浅谈清华学风、课程内卷、特奖》一文？ - Yuhang Liu的回答 - 知乎](https://www.zhihu.com/question/353601539/answer/1632437404)
+- [ ] 
 
 #### Pay heed to the programs
 
@@ -1161,7 +1213,8 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Be a life-long learner
 
 - [ ] Mesh as website: [saylor academy](https://learn.saylor.org/my/)
-
+- [ ] website: [learn-anything.xyz](https://learn-anything.xyz/): literally, learn anything
+- [ ] website: [teachyourelfcode](https://teachyourselfcode.io/dashboard)
 
 ### Know what to do of getting into PhD
 
@@ -1169,8 +1222,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Documentaries
 
-- [ ] Video: [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
-- [ ] Video: [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
+- [ ] video: [The Fabric of the Cosmos (2011)](https://movie.douban.com/subject/10434591/)
+- [ ] video: [Wonders of the Universe](https://movie.douban.com/subject/6024544/)
 
 ## Films
 
@@ -1178,10 +1231,10 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Tolkien
 
-- [ ] Website: [The Tolkien Society](https://www.tolkiensociety.org/)
-- [ ] Website: [Tolkien Phandom](https://lotr.fandom.com/wiki/Tolkien_Fandom)
-- [ ] Website: [Tolkien Gatsway](http://tolkiengateway.net/wiki/Main_Page)
-- [ ] Website: [Tolkien Forum](https://www.thetolkienforum.com/)
+- [ ] website: [The Tolkien Society](https://www.tolkiensociety.org/)
+- [ ] website: [Tolkien Phandom](https://lotr.fandom.com/wiki/Tolkien_Fandom)
+- [ ] website: [Tolkien Gatsway](http://tolkiengateway.net/wiki/Main_Page)
+- [ ] website: [Tolkien Forum](https://www.thetolkienforum.com/)
 
 ## Wisdom canon
 
