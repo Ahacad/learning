@@ -168,6 +168,7 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Pay heed to the programs](#pay-heed-to-the-programs)
     * [Be a life-long learner](#be-a-life-long-learner)
     * [Know what to do of getting into PhD](#know-what-to-do-of-getting-into-phd)
+* [Enjoy riding](#enjoy-riding)
 * [Documentaries](#documentaries)
 * [Films](#films)
 * [Tolkien](#tolkien)
@@ -454,6 +455,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
 - [ ] Website: [vimhelp.org](https://vimhelp.org/)
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+- [ ] Website: [VimAwesome](https://vimawesome.com/): many awesome vim plugins
 - [ ] Book online: [Learn vimscript the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 - [ ] Question: [How can I open vim with a particular line number at the top?](https://stackoverflow.com/questions/10392424/how-can-i-open-vim-with-a-particular-line-number-at-the-top)
 - [ ] Question: [vim put quotes and comma around words](https://stackoverflow.com/questions/24210133/vim-put-quotes-and-comma-around-words)
@@ -612,6 +614,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [render](https://render.com/)
 
 - [ ] [hear.com](https://www.hear.com/)
+
+- [ ] [vimawesome](https://vimawesome.com)
+
 
 ##### Use the website templates
 
@@ -1219,6 +1224,18 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Know what to do of getting into PhD
 
 - [ ] Article: [what you need to do before considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
+
+
+## Enjoy riding
+
+- [ ] question: [你用过的漂亮&实用的自行车骑行装备配件有哪些？](https://www.zhihu.com/question/337894911/answer/773380371)
+- [ ] question: [有公路车了，该准备买些啥装备和该注意啥？](https://www.zhihu.com/question/409886293/answer/1367883078)
+- [ ] question: [自行车骑行周边装备有哪些推荐？](https://www.zhihu.com/question/20442222/answer/18907045)
+- [ ] question: [有哪些顶级的骑行装备推荐？](https://www.zhihu.com/question/393016821/answer/1209526536)
+- [ ] question: [求介绍性价比极高的骑行装备？](https://www.zhihu.com/question/36526312/answer/67861649)
+- [ ] article: [骑行装备清单](https://zhuanlan.zhihu.com/p/44540316)
+- [ ] article: [长途骑行装备清单详解（上）](https://zhuanlan.zhihu.com/p/52591109)
+- [ ] article: [入坑骑行的金玉良言](https://zhuanlan.zhihu.com/p/78504620)
 
 ## Documentaries
 
