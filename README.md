@@ -142,6 +142,7 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Know a lot about psychology](#know-a-lot-about-psychology)
     * [Know a lot about cognitive science](#know-a-lot-about-cognitive-science)
 * [Master writing and reading](#master-writing-and-reading)
+* [Master music](#master-music)
 * [Master Drawing](#master-drawing)
 * [Master mathematics](#master-mathematics)
 * [Know a lot about network science](#know-a-lot-about-network-science)
@@ -193,6 +194,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Book: [*The lean startup*](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F7056139%2F&query=the+lean+startup&cat_id=1001&type=search&pos=0)
 - [ ] Book: [Creativity, Inc](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F25777433%2F&query=creativity+inc&cat_id=1001&type=search&pos=0)
+- [ ] website: [startup valuation test](https://unicorn-nest.com/valuation/?ref=producthunt): know the value of startups in your industry
 
 ### Master speaking
 
@@ -236,11 +238,14 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [Lennart](https://github.com/LekoArts)       : gatsby
 - [ ] [Brad Traversy](https://github.com/bradtraversy)       : tutor
 - [ ] [Robert Xiao](https://github.com/bradtraversy): assisstant professor at UBC, HCI, CTF
+- [ ] [manikandanraji](https://github.com/manikandanraji): he made clones of popular websites like twitter and youtube
 - [ ]
 - [ ] [Alex Chi](https://github.com/skyzh)
 
 
 ## Really know how to program
+
+
 
 ### Master the art of working
 
@@ -275,6 +280,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [animating resume](https://github.com/jirengu-inc/animating-resume)
 - [ ] Repo: [resume](https://github.com/sb2nov/resume)
 - [ ] [Bytedance](https://job.bytedance.com/referral/pc/position?keywords=&category=6704215862603155720&location=CT_125&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNTg5OTgwODkyODE1OzY3MDc5ODc2NTE2NzAwOTk0NjM7MA)
+- [ ] website: [toptal](https://www.toptal.com/): top talented free lancers, it also has an awesome blog
 
 ### Have a good understanding of computer networks
 
@@ -612,6 +618,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [Pluralsight](https://www.pluralsight.com/)
 - [ ] [scrimba](https://scrimba.com/)
 - [ ] [render](https://render.com/)
+- [ ] [toptal](https://toptal.com/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
@@ -1084,19 +1091,19 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
 - [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
 
+## Master music
+
+- [ ] website: [free piano method](https://www.freepianomethod.com/)
+
 ## Master Drawing
 
 - [ ] Website: [drawabox](https://drawabox.com/)
 - [ ] Youtuber: [uncomfortable](https://www.youtube.com/uncomfortable)
 
 ## Master mathematics
-
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
-
 ## Know a lot about network science
-
 - [ ] Wiki: [information market](https://www.wikiwand.com/en/Information_market#:~:text=For%20Linde%20and%20Stock%20(2011,commerce%20with%20(digital)%20information.)
-
 ## Know a lot about Economics
 
 - [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
@@ -1139,6 +1146,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [学习日语有什么好的播客(Podcast)吗](https://www.zhihu.com/question/26070135/answer/53549230)
 - [ ] Question: [如何练好日语口语，求变态的方法？](https://www.zhihu.com/question/37241687/answer/71114288)
 - [ ] Question: [两年能自学日语达到N1水平么？](https://www.zhihu.com/question/41122272/answer/117075221)
+- [x] Question: [如何区分日语一类动词、二类动词、三类动词？](https://zhuanlan.zhihu.com/p/118653852)
 - [x] Article: [【初级日语】日语句子的骨架—— 四大基本日语句型](https://zhuanlan.zhihu.com/p/28286553)
 - [x] Article: [日语从零基础到N1，这是我的辛酸备考历程。](https://zhuanlan.zhihu.com/p/76748459)
 - [x] Article: [日语中关于数量的表达](https://zhuanlan.zhihu.com/p/60302581)
