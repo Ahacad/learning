@@ -564,6 +564,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [UI playbook](https://uiplaybook.dev/)
 - [x] Repo: [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [x] Repo: [frontend interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [ ] Repo: [web dev for beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [ ] Repo: [web development resources](https://github.com/MarkoDenic/web-development-resources)
 - [ ] Repo: [Fronend performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [ ] Repo: [Frondend design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
@@ -619,6 +620,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [scrimba](https://scrimba.com/)
 - [ ] [render](https://render.com/)
 - [ ] [toptal](https://toptal.com/)
+
+- [ ] [pku](https://www.pku.edu.cn/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
@@ -866,6 +869,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [go best practices](https://github.com/smallnest/go-best-practices)
 - [ ] Repo: [golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] Repo: [uber go style guide](https://github.com/uber-go/guide)
+- [ ] Repo: [learngo](https://github.com/inancgumus/learngo)
 - [x] Article: [effective go](https://golang.org/doc/effective_go.html)
 - [ ] Article: [Simple techniques to optimize Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [ ] Article: [A visual guide to go memory allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
