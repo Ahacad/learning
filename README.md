@@ -622,6 +622,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [toptal](https://toptal.com/)
 
 - [ ] [pku](https://www.pku.edu.cn/)
+- [ ] [UCEAP](https://uceap.universityofcalifornia.edu/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
