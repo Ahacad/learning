@@ -111,7 +111,8 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Tools](#tools-1)
     * [Programming languages](#programming-languages)
     * [Master nodejs](#master-nodejs)
-    * [Master c++](#master-c)
+    * [Master c](#master-c)
+    * [Master c++](#master-c-1)
         * [Play with projects in c++](#play-with-projects-in-c)
     * [Master golang](#master-golang)
         * [Play with projects in golang](#play-with-projects-in-golang)
@@ -245,6 +246,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Really know how to program
 
+- [ ] website: [overapi](https://overapi.com/): collections of cheatsheets
+- [ ] website: [cheatography](https://cheatography.com/): collections of cheatsheets
 
 
 ### Master the art of working
@@ -493,6 +496,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Know deeply about Linux & Unix
 
+- [ ] Website: [YoLinux](http://www.yolinux.com/): a great many collections of Linux info
 - [ ] Bilibili uper: [TheCW](https://space.bilibili.com/13081489)
 - [ ] Book: [Advanced programming in the unix environment](https://book.douban.com/subject/11626789/)
 - [ ] Book: [The Linux programming interface](https://book.douban.com/subject/4292217/)
@@ -501,7 +505,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Information flow: [LWN.net](https://lwn.net/)
 - [ ] Website: [BashFAQ](http://mywiki.wooledge.org/BashFAQ)
 - [ ] Website: [Bash Hackers Wiki](https://wiki.bash-hackers.org/start)
-- [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/)
+- [ ] Website: [Linux from scratch](http://www.linuxfromscratch.org/): build your own LFS 
 - [ ] Blog: [SysTutorials](https://www.systutorials.com/): a series of articles on Linux
 - [ ] Mesh as repo: [awesome linux softwares](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [ ] Repo: [*The Book of Secret Knowledge*](https://github.com/trimstray/the-book-of-secret-knowledge)
@@ -620,6 +624,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [scrimba](https://scrimba.com/)
 - [ ] [render](https://render.com/)
 - [ ] [toptal](https://toptal.com/)
+- [ ] [morganstanley](https://www.morganstanley.com/)
 
 - [ ] [pku](https://www.pku.edu.cn/)
 - [ ] [UCEAP](https://uceap.universityofcalifornia.edu/)
@@ -832,6 +837,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [official guide](https://nodejs.dev/learn)
 - [ ] Repo: [node bestpractices](https://github.com/goldbergyoni/nodebestpractices)
 
+### Master c
+
+- [ ] website: [POSIX thread library](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html): great long article on p_thread
 
 ### Master c++ 
 
@@ -845,7 +853,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
 - [ ] Website: [cppreference.com](https://en.cppreference.com/w/)
 - [ ] Website: [Tutorials on Selected C/C++/Linux/UNIX Topics](http://www.augustcouncil.com/~tgibson/tutorial/index.html)
+- [ ] Website: [Bjarne Stroustrup homepage](https://www.stroustrup.com/index.html)
 - [ ] Repo: [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
+- [ ] Repo: [cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 - [ ] Question: [What's the difference between NULL and nullptr in c++](https://www.quora.com/Whats-the-difference-between-NULL-and-nullptr-in-C++)
 - [x] Question: [stl priority_queue of C++ with struct](https://stackoverflow.com/questions/15601973/stl-priority-queue-of-c-with-struct)
  [x] Question: [How do I return multiple values from a function in C](https://stackoverflow.com/questions/2620146/how-do-i-return-multiple-values-from-a-function-in-c)
@@ -892,6 +902,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [PEP 8 Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [ ] Repo: [30 days of python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [ ] Question: [What exactly do “u” and “r” string flags do, and what are raw string literals?](https://stackoverflow.com/questions/2081640/what-exactly-do-u-and-r-string-flags-do-and-what-are-raw-string-literals)
+- [ ] Website: [Python institute PCAP exam syllabus](https://pythoninstitute.org/certification/pcap-certification-associate/pcap-exam-syllabus/)
 
 ### Rust
 
@@ -1120,7 +1131,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Master macroeconomics
 
-- [ ] Book: [*Macroeconomics*] by Mankiew
+- [x] Book: [*Macroeconomics*] by Mankiew
 - [ ] Book online: [*Macroeconomics*: theory through applications](https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/index.html)
 
 ### Know the economists
