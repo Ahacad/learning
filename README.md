@@ -92,6 +92,7 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
         * [Master JavaScript](#master-javascript)
             * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
+            * [Play with the projects](#play-with-the-projects)
         * [Master TypeScript](#master-typescript)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
@@ -625,6 +626,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [render](https://render.com/)
 - [ ] [toptal](https://toptal.com/)
 - [ ] [morganstanley](https://www.morganstanley.com/)
+- [ ] [daily.dev](https://daily.dev/)
 
 - [ ] [pku](https://www.pku.edu.cn/)
 - [ ] [UCEAP](https://uceap.universityofcalifornia.edu/)
@@ -633,6 +635,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] [vimawesome](https://vimawesome.com)
 
+- [ ] [Nick blog](https://imnick.dev/)
 
 ##### Use the website templates
 
@@ -722,6 +725,10 @@ We HOPE that what we are writing today will still be there after some decades or
 ##### Be able to write chrome extensions
 
 - [ ] [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): official samples
+
+##### Play with the projects
+
+- [ ] [gazer](https://github.com/anvaka/gazer/): search similar repos by similarity between stars
 
 #### Master TypeScript
 
