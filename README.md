@@ -627,6 +627,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [toptal](https://toptal.com/)
 - [ ] [morganstanley](https://www.morganstanley.com/)
 - [ ] [daily.dev](https://daily.dev/)
+- [ ] [wealthfront](https://www.wealthfront.com/)
+- [ ] [feeling peaky](https://www.feelingpeaky.com/)
+- [ ] [unipack](https://unipack.app/?ref=producthunt)
 
 - [ ] [pku](https://www.pku.edu.cn/)
 - [ ] [UCEAP](https://uceap.universityofcalifornia.edu/)
@@ -799,6 +802,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Mesh as repo: [architect awesome](https://github.com/xingshaocheng/architect-awesome)
 - [ ] Repo: [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [ ] Repo: [miaosha](https://github.com/qiurunze123/miaosha): 教你如果做秒杀系统!
 - [ ] Repo: [archecture awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 - [x] Article: [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [ ] Wiki: [Relational algebra](https://www.wikiwand.com/en/Relational_algebra#:~:text=In%20database%20theory%2C%20relational%20algebra,Codd.)
