@@ -241,8 +241,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [Brad Traversy](https://github.com/bradtraversy)       : tutor
 - [ ] [Robert Xiao](https://github.com/bradtraversy): assisstant professor at UBC, HCI, CTF
 - [ ] [manikandanraji](https://github.com/manikandanraji): he made clones of popular websites like twitter and youtube
+- [ ] [halfrost](https://github.com/halfrost): almost anything
 - [ ]
 - [ ] [Alex Chi](https://github.com/skyzh)
+- [ ] [Trinkle238](https://github.com/Trinkle23897)
 
 
 ## Really know how to program
@@ -1135,6 +1137,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
 - [ ] Website: [EH.net, Economic History Association](https://eh.net/)
+- [ ] Website: [VOXEU](https://voxeu.org/): research-based policy analysis and commentary from leading economists
 - [ ] Website: [BEA, Bureau of Economic Analysis](https://www.bea.gov/)
 - [ ] Blog: [Marginal Revolution](https://marginalrevolution.com/)
 
