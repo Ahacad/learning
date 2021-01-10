@@ -589,6 +589,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [tailblocks](https://mertjf.github.io/tailblocks/)
 - [ ] Website: [tailwind ui](https://tailwindui.com/)
 - [ ] Website: [caniuse](https://caniuse.com/)
+- [ ] Website: [CSS](https://cssbattle.dev/): Use css skills to battle
 - [x] Question: [What does !important mean in CSS](https://stackoverflow.com/questions/9245353/what-does-important-mean-in-css)
 - [x] Question: [How to overried !important](https://stackoverflow.com/questions/11178673/how-to-override-important)
 
@@ -1138,6 +1139,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
 - [ ] Website: [EH.net, Economic History Association](https://eh.net/)
 - [ ] Website: [VOXEU](https://voxeu.org/): research-based policy analysis and commentary from leading economists
+- [ ] Website: [royan economic society](https://www.res.org.uk/): 
 - [ ] Website: [BEA, Bureau of Economic Analysis](https://www.bea.gov/)
 - [ ] Blog: [Marginal Revolution](https://marginalrevolution.com/)
 
