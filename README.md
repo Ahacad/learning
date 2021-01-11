@@ -1131,6 +1131,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Youtuber: [uncomfortable](https://www.youtube.com/uncomfortable)
 
 ## Master mathematics
+- [ ] website: [Encyclopedia of mathematics](https://encyclopediaofmath.org/wiki/Main_Page)
+- [ ] website: [Wolfram Mathworld](https://mathworld.wolfram.com/)
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 ## Know a lot about network science
 - [ ] Wiki: [information market](https://www.wikiwand.com/en/Information_market#:~:text=For%20Linde%20and%20Stock%20(2011,commerce%20with%20(digital)%20information.)
@@ -1168,6 +1170,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [tomatom.net](http://tomatom.net/index.html)
 - [ ] Website: [keizai-nihongo](http://keizai-nihongo.com/chi/): Japanese words for economics
 - [ ] Website: [青空文库](https://www.aozora.gr.jp/)
+- [ ] Website: [ReversoContext](https://context.reverso.net/%E7%BF%BB%E8%AF%91/): awesome website for sentence examples, pronounciations, translations, etc.
 - [ ] Book: [新日本語能力考試 N1-N5 文法詳解](https://book.douban.com/subject/26588441/)
 - [x] Question: [最全日语能力考备考书测评｜红蓝宝书vs新完全掌握vs考前对策vs真题模拟｜帝京日语](https://zhuanlan.zhihu.com/p/28299933)
 - [ ] Article: [超实用日语学习网站大全，一定要收藏！！](https://zhuanlan.zhihu.com/p/42682366)
