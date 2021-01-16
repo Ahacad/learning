@@ -5,7 +5,7 @@
 
 **Ideal effect of this repo**: when I want to dive into a subject I can easily find high-quality information here. 
 
-**Philosophy of this repo**: *you are what you read*. This is at least half true (same people same reading very different results), I hope to leave a record of my learning path, and provide some guidances (hopefully) to yet another hacker out there.
+**Philosophy of this repo**: *you are what you read*. This is at least half true (same people same reading but with very different results). I hope to leave a record of my learning path (which can then remind myself of what I might know and what I do not), and provide some guidances (hopefully) to yet another hacker out there.
 
 ### Design of the repo structure (WIP)
 
@@ -45,17 +45,20 @@ We HOPE that what we are writing today will still be there after some decades or
 * [Read and learn from the amazing blogs](#read-and-learn-from-the-amazing-blogs)
     * [Learn from the awesome programmers](#learn-from-the-awesome-programmers)
 * [Really know how to program](#really-know-how-to-program)
+    * [Contribute to open source projects](#contribute-to-open-source-projects)
     * [Master the art of working](#master-the-art-of-working)
     * [Master software engineering](#master-software-engineering)
     * [Master the bases](#master-the-bases)
     * [Play around the awesome forums](#play-around-the-awesome-forums)
     * [Play with wicked cool things](#play-with-wicked-cool-things)
     * [Get hired](#get-hired)
+    * [Have a good understanding of computer architecture](#have-a-good-understanding-of-computer-architecture)
     * [Have a good understanding of computer networks](#have-a-good-understanding-of-computer-networks)
         * [Master RESTful](#master-restful)
     * [Have a good understanding of database](#have-a-good-understanding-of-database)
             * [RAFT](#raft)
     * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
+    * [Have a good understanding of distributed system](#have-a-good-understanding-of-distributed-system)
     * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
         * [Master string related algorithms](#master-string-related-algorithms)
     * [Play with competitive programming](#play-with-competitive-programming)
@@ -119,13 +122,14 @@ We HOPE that what we are writing today will still be there after some decades or
         * [Play with projects in golang](#play-with-projects-in-golang)
         * [Packages](#packages)
     * [Mastre python](#mastre-python)
-    * [Rust](#rust)
+    * [master rust](#master-rust)
     * [Build your home!](#build-your-home)
     * [Master LaTeX](#master-latex)
         * [Master Tikz](#master-tikz)
     * [Master Haskell](#master-haskell)
     * [Master Machine Learning](#master-machine-learning)
     * [Master network security](#master-network-security)
+* [Master electronics](#master-electronics)
 * [Learn how to design](#learn-how-to-design)
     * [Design learning meshes](#design-learning-meshes)
     * [UIUX](#uiux)
@@ -252,6 +256,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] website: [overapi](https://overapi.com/): collections of cheatsheets
 - [ ] website: [cheatography](https://cheatography.com/): collections of cheatsheets
 
+### Contribute to open source projects
+
+- [x] article: [如何快速成为 Ant Degisn 的 contributor](https://rustin.cn/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E6%88%90%E4%B8%BA-Ant-Design-%E7%9A%84-contributor/)
 
 ### Master the art of working
 
@@ -280,6 +287,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Get hired
 
+
+- [ ] website: [NLPjob](http://nlpjob.com/): jobs for NLP
 - [ ] Repo: [awesome CV](https://github.com/posquit0/Awesome-CV)
 - [ ] Repo: [best resume ever](https://github.com/salomonelli/best-resume-ever)
 - [ ] Repo: [resume.github.com](https://github.com/resume/resume.github.com)
@@ -287,6 +296,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [resume](https://github.com/sb2nov/resume)
 - [ ] [Bytedance](https://job.bytedance.com/referral/pc/position?keywords=&category=6704215862603155720&location=CT_125&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNTg5OTgwODkyODE1OzY3MDc5ODc2NTE2NzAwOTk0NjM7MA)
 - [ ] website: [toptal](https://www.toptal.com/): top talented free lancers, it also has an awesome blog
+
+### Have a good understanding of computer architecture
+- [ ] website: [have a good understanding of computer system](https://www.h-schmidt.net/FloatConverter/IEEE754.html): interactively show you IEEE 754 floating number encoding
+- [ ] book online: [Introduction to Computer Organization: ARM assembly language using the raspberry Pi](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
+- [ ] book online: [Introduction to Computer Organization with x86-64 assembly language & GNU/Linux](https://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 
 ### Have a good understanding of computer networks
 
@@ -326,6 +340,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book online: [Bison 3.7.1](https://www.gnu.org/software/bison/manual/html_node/index.html)
 - [ ] 
 - [ ] Wiki: [Execution (computing)](https://en.wikipedia.org/wiki/Execution_(computing))
+
+### Have a good understanding of distributed system
+
+- [ ] book online: [分布式系统实战](https://ng-tech.icu/DistributedSystem-Series/#/): github 1k star
+- [ ] question: [如何的才能更好地学习 MIT6.824 分布式系统课程？](https://www.zhihu.com/question/29597104/answer/128443409)
 
 ### Have a good understanding of algorithms and datastructures
 
@@ -460,7 +479,8 @@ We HOPE that what we are writing today will still be there after some decades or
 
 #### Master shell scripts
 
-- [ ] [introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+- [ ] website: [BashPitFalls](http://mywiki.wooledge.org/BashPitfalls): curated list of bash pitfalls
+- [ ] repo: [introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
 #### Master vim
 
@@ -483,6 +503,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [如何有效地进行代码 Review？](https://zhuanlan.zhihu.com/p/268749337)
 - [x] Article: [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 - [x] Article: [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
+- [ ] article: [Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
 - [ ] Question: [How to make Git “forget” about a file that was tracked but is now in .gitignore?](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
 
 #### Master encoding 
@@ -557,6 +578,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Become a powerful frontend developer
 
 - [ ] website: [frontend mentor](https://www.frontendmentor.io/solutions): real-world frontend projects, built together with the community
+- [ ] website: [free frontend](https://freefrontend.com/)
 
 #### Exhaust the learning meshes
 
@@ -633,9 +655,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [wealthfront](https://www.wealthfront.com/)
 - [ ] [feeling peaky](https://www.feelingpeaky.com/)
 - [ ] [unipack](https://unipack.app/?ref=producthunt)
+- [ ] [strapi](https://strapi.io/)
 
 - [ ] [pku](https://www.pku.edu.cn/)
 - [ ] [UCEAP](https://uceap.universityofcalifornia.edu/)
+- [ ] [UCSD](https://www.ucsd.edu/)
 
 - [ ] [hear.com](https://www.hear.com/)
 
@@ -759,6 +783,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ##### Master react
 - [ ] Repo: [*Awesome React*](https://github.com/enaqx/awesome-react)
+- [ ] Repo: [30-days-of-react](https://github.com/Asabeneh/30-Days-Of-React)
 - [x] Article: [Everything you need to know about react-scripts](https://blog.logrocket.com/everything-you-need-to-know-about-react-scripts/)
 - [x] Article: [What does create recat app do?](https://codaisseur.com/blog/what-does-create-react-app-do/#:~:text=The%20create%20react%20app%20package,Dom%20with%20many%20other%20dependencies.)
 - [ ] Article: [Modern JavaScript explained for dinosaur](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
@@ -918,8 +943,9 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Question: [What exactly do “u” and “r” string flags do, and what are raw string literals?](https://stackoverflow.com/questions/2081640/what-exactly-do-u-and-r-string-flags-do-and-what-are-raw-string-literals)
 - [ ] Website: [Python institute PCAP exam syllabus](https://pythoninstitute.org/certification/pcap-certification-associate/pcap-exam-syllabus/)
 
-### Rust
+### master rust
 
+- [ ] Repo: [magic in ten mintues rs](https://github.com/PhotonQuantum/magic-in-ten-mins-rs): 十分钟学习魔法
 - [ ] Repo: [rustlings](https://github.com/rust-lang/rustlings)
 
 ### Build your home!
@@ -965,6 +991,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [Metasploit framework](https://github.com/rapid7/metasploit-framework)
 - [ ] Repo: [Neurax](https://github.com/redcode-labs/Neurax)
 - [ ] 
+
+## Master electronics
+
+- [ ] website: [sparkfun](https://www.sparkfun.com/?_ga=2.227578653.1697432691.1610423839-434328212.1610423839): open source technology, resources, DIY electronics and more
 
 
 ## Learn how to design
@@ -1231,6 +1261,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ### Houses
 - [ ] Article: [第一次租房，你可能需要考虑的那些事](https://sspai.com/post/62370)
+- [ ] repo: [shanghai house knowledge](https://github.com/ayuer/shanghai_house_knowledge): buy houses at Shanghai
 
 ## Master photography
 
