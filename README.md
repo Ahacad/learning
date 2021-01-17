@@ -17,14 +17,15 @@ As this repo grows bigger and bigger (I can already foresee it being more than 1
 **Naming of sections**: Use verb `be`, `have`, etc. as the starting word to remind yourself that they are all to be mastered.
 
 **Information on the Internet**: Some forms of information are:
+  - GitHub repo: typically in two forms: 1. a project, 2. a collection of resources
+  - website: often contain lots of information
   - Book: the most persistent way of conveying knowledge
-  - GitHub repo: this enables real time interaction with the author, relatively persistent
   - personal Blogs: held by individuals, persistency typically not guaranteed 
   - Youtube: great video learning resources, relatively persistent but not guaranteed
   - great Article: very insightful articles
   - Article: workds written on websites, often focused on solving some particular problem
 
-**Being an Internet citivzen**: articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
+**Being an Internet citizen**: articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
 
 We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. **Don't be a tenant on the Internet.**
 
@@ -87,6 +88,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Become a powerful frontend developer](#become-a-powerful-frontend-developer)
         * [Exhaust the learning meshes](#exhaust-the-learning-meshes)
         * [Master CSS](#master-css)
+            * [Master the CSS frameworks](#master-the-css-frameworks)
             * [Be able to make beautiful effects and animations](#be-able-to-make-beautiful-effects-and-animations)
                 * [Box Shadow](#box-shadow)
                 * [Master fonts](#master-fonts)
@@ -255,6 +257,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] website: [overapi](https://overapi.com/): collections of cheatsheets
 - [ ] website: [cheatography](https://cheatography.com/): collections of cheatsheets
+- [ ] repo: [cs-video-courses](https://cheatography.com/): lists of CS courses with videos
 
 ### Contribute to open source projects
 
@@ -614,6 +617,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [CSS](https://cssbattle.dev/): Use css skills to battle
 - [x] Question: [What does !important mean in CSS](https://stackoverflow.com/questions/9245353/what-does-important-mean-in-css)
 - [x] Question: [How to overried !important](https://stackoverflow.com/questions/11178673/how-to-override-important)
+
+##### Master the CSS frameworks
+
+- [ ] repo: [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit): Bootsrtap 5 & Material design 2.0 UI kit
+
 
 ##### Be able to make beautiful effects and animations
 
@@ -1147,6 +1155,9 @@ We HOPE that what we are writing today will still be there after some decades or
 
 ## Master writing and reading
 
+- [ ] website: [Paraphrasing](https://paraphrasing-tool.com/): rewrite a passage, using different words and phraases
+- [ ] website: [freedictionary](https://www.thefreedictionary.com/): 
+- [ ] website: [Test your vocab](http://testyourvocab.com/): test your vocabulary
 - [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
 - [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
 - [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
