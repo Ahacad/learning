@@ -59,6 +59,7 @@ We HOPE that what we are writing today will still be there after some decades or
     * [Have a good understanding of database](#have-a-good-understanding-of-database)
             * [RAFT](#raft)
     * [Have a good understanding of compiler](#have-a-good-understanding-of-compiler)
+    * [Have a good understanding of computer graphics](#have-a-good-understanding-of-computer-graphics)
     * [Have a good understanding of distributed system](#have-a-good-understanding-of-distributed-system)
     * [Have a good understanding of algorithms and datastructures](#have-a-good-understanding-of-algorithms-and-datastructures)
         * [Master string related algorithms](#master-string-related-algorithms)
@@ -258,6 +259,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] website: [overapi](https://overapi.com/): collections of cheatsheets
 - [ ] website: [cheatography](https://cheatography.com/): collections of cheatsheets
 - [ ] repo: [cs-video-courses](https://cheatography.com/): lists of CS courses with videos
+- [ ] repo: [sherlock](http://sherlock.phodal.com/): skill tree
 
 ### Contribute to open source projects
 
@@ -314,6 +316,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [Internet Backbone](https://newgendeveloper.hashnode.dev/internet-backbone)
 - [ ] website: [httpstatuscode](https://httpstatuses.com/): all the http status codes
 
+
 #### Master RESTful
 - [ ] Article: [理解 RESTful 架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 - [ ] Question: [What exactly is RESTful programmign](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming  )
@@ -343,6 +346,11 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book online: [Bison 3.7.1](https://www.gnu.org/software/bison/manual/html_node/index.html)
 - [ ] 
 - [ ] Wiki: [Execution (computing)](https://en.wikipedia.org/wiki/Execution_(computing))
+
+### Have a good understanding of computer graphics
+
+- [ ] book online: [abrash-black-book](https://github.com/jagregory/abrash-black-book)
+
 
 ### Have a good understanding of distributed system
 
