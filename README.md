@@ -28,6 +28,9 @@ As this repo grows bigger and bigger (I can already foresee it being more than 1
 **Being an Internet citizen**: articles and videos in China (where I live in for now) are often not so persistent, it is recommended that you download useful information before they are wiped out. 
 
 We HOPE that what we are writing today will still be there after some decades or even centuries, so host your own articles and treat them well. **Don't be a tenant on the Internet.**
+### TODO
+- [ ] add shield.io star spanner to all the repos
+- [ ] learn from this project (which is very similar to mine): [web-dev resources](https://G.github.io/web-dev/)
 
 
 ## Table of Contents
@@ -96,15 +99,16 @@ We HOPE that what we are writing today will still be there after some decades or
             * [Learn from the beautiful, production ready websites](#learn-from-the-beautiful-production-ready-websites)
             * [Use the website templates](#use-the-website-templates)
             * [Master BEM, OOCSS and SMACSS](#master-bem-oocss-and-smacss)
-        * [Master JavaScript](#master-javascript)
-            * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
-            * [Play with the projects](#play-with-the-projects)
-        * [Master TypeScript](#master-typescript)
         * [Be able to make beautiful web effects](#be-able-to-make-beautiful-web-effects)
         * [Be comfortable with using frameworks](#be-comfortable-with-using-frameworks)
             * [Master react](#master-react)
         * [Enjoy the even newer platforms](#enjoy-the-even-newer-platforms)
+            * [Master flutter](#master-flutter)
                 * [Master document site generators](#master-document-site-generators)
+        * [Master JavaScript](#master-javascript)
+            * [Be able to write chrome extensions](#be-able-to-write-chrome-extensions)
+            * [Play with the projects](#play-with-the-projects)
+        * [Master TypeScript](#master-typescript)
         * [Master the tools](#master-the-tools)
             * [Webpack](#webpack)
         * [Know how to optimize and secure websites](#know-how-to-optimize-and-secure-websites)
@@ -193,12 +197,10 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [Ted's list of interesting places](https://thunk.org/tytso/interesting-places.html)
 
 ## Know a lot about Business
+- [ ] repo: [market-toolkit](https://github.com/ckz8780/market-toolkit): a collection of stock market resources and tools
 
 ### Play in the forums
-
 - [ ] Website: [巨潮网](http://www.cninfo.com.cn/new/index)
-
-
 ### Know how to startups
 
 - [ ] Book: [*The lean startup*](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F7056139%2F&query=the+lean+startup&cat_id=1001&type=search&pos=0)
@@ -264,6 +266,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Contribute to open source projects
 
 - [x] article: [如何快速成为 Ant Degisn 的 contributor](https://rustin.cn/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E6%88%90%E4%B8%BA-Ant-Design-%E7%9A%84-contributor/)
+- [ ] books online: [The architecture of open source applications](http://www.aosabook.org/en/index.html): a series of awesome books on open source project architectures and performances
 
 ### Master the art of working
 
@@ -371,6 +374,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [Haskell](https://github.com/TheAlgorithms/Haskell)
 - [ ] Repo: [Dart](https://github.com/TheAlgorithms/Dart)
 - [ ] Repo: [javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [ ] Repo: [algorithms](https://github.com/williamfiset/Algorithms)
 - [ ] 
 - [ ] Repo: [LeetCode Go](https://github.com/halfrost/LeetCode-Go)
 - [ ] Repo: [Javascript questions](https://github.com/lydiahallie/javascript-questions)
@@ -401,6 +405,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Master design patterns
 
 - [ ] Repo: [Python-patterns](https://github.com/faif/python-patterns)
+- [ ] Repo: [wtf-python](https://github.com/satwikkansal/wtfpython): what the f*** python
 - [ ] Website: [refactoring.guru](https://refactoring.guru/)
 
 
@@ -467,6 +472,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [github profile trophy](https://github.com/ryo-ma/github-profile-trophy): github trophy from your publi info
 - [ ] Repo: [docs]((https://github.com/github/docs): github official docs
 - [ ] Repo: [star history](https://github.com/ryo-ma/github-profile-trophy): see repo star history
+- [ ] Repo: [awesome pinned gists](https://github.com/matchai/awesome-pinned-gists): pinned gists for your profile
 - [ ] Website: [GitStar Ranking](https://gitstar-ranking.com/): 
 
 ### Be a fullstack programmer
@@ -496,6 +502,7 @@ We HOPE that what we are writing today will still be there after some decades or
 #### Master vim
 
 - [ ] Website: [vim the docs](http://vimdoc.sourceforge.net/)
+- [ ] Website: [vimcolors](https://vimcolors.com/): vim themes
 - [ ] Website: [vimhelp.org](https://vimhelp.org/)
 - [ ] Website: [Fandom vim tips wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 - [ ] Website: [VimAwesome](https://vimawesome.com/): many awesome vim plugins
@@ -629,12 +636,15 @@ We HOPE that what we are writing today will still be there after some decades or
 ##### Master the CSS frameworks
 
 - [ ] repo: [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit): Bootsrtap 5 & Material design 2.0 UI kit
+- [ ] repo: [flux-comparison](https://github.com/voronianski/flux-comparison): practical comparisons of different Flux solutions
+- [ ] repo: [css-in-js](https://github.com/MicheleBertoli/css-in-js): React CSS in JS techniques comparisons
 
 
 ##### Be able to make beautiful effects and animations
 
 - [ ] website: [animista](https://animista.net/): build animations online
 - [ ] repo: [awesome web annimation](https://github.com/sergey-pimenov/awesome-web-animation)
+- [ ] framework: [greensock](https://greensock.com/): greensock JS animation framework
 
 ###### Box Shadow
 - [ ] Website: [deerbucks, neomorphism](https://deerbucks.tokyo/)
@@ -678,10 +688,13 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] [UCSD](https://www.ucsd.edu/)
 
 - [ ] [hear.com](https://www.hear.com/)
+- [ ] [OpenWeb](https://www.openweb.com/)
 
 - [ ] [vimawesome](https://vimawesome.com)
 
+blogs:
 - [ ] [Nick blog](https://imnick.dev/)
+- [ ] [dunebook](https://www.dunebook.com/)
 
 ##### Use the website templates
 
@@ -733,53 +746,6 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Article: [9 important CSS properties you must know](https://zellwk.com/blog/9-important-css-properties-you-must-know/)
 - [x] Article: [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
 
-#### Master JavaScript
-
-- [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
-- [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
-- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
-- [ ] Repo: [javascript questions](https://github.com/lydiahallie/javascript-questions)
-- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [ ] Article: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- [ ] Article: [12 common JavaScript questions I used to ask in interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview?guid=5c7a13d6-20c5-438f-8e59-bed8940d25ea&deviceId=45ca29bf-036e-4ff0-9e01-89954e1abfd1)
-- [ ] Article: [Understanding JavaScript bind](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)
-- [ ] Website: [Javascript info](https://javascript.info/polyfills)
-- [ ] Website: [Mastering Javascript](https://masteringjs.io/)
-- [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
-- [ ] Website: [bundle phobia](https://bundlephobia.com/): find packages, easily
-- [ ] Website: [1loc](https://1loc.dev/): JavaScript utilities in one line of code!
-- [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
-- [ ] Article: [Understanding JavaScript function invocation and 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
-- [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
-- [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-- [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
-- [x] Article: [Create HTML5 Desktop Notifications with React](https://www.pluralsight.com/guides/html5-desktop-notifications-with-react)
-- [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
-- [ ] Question: [HTML5 local storage vs. session storage](https://stackoverflow.com/questions/5523140/html5-local-storage-vs-session-storage)
-- [ ] Question: [What is the difference between localStorage, sessionStoraage, session and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
-- [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
-- [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
-- [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
-- [ ] Question: [Can I use loops to minimize ES6 import statements?](https://stackoverflow.com/questions/47117756/can-i-use-loops-to-minimize-es6-import-statements/47117907)
-- [ ] Video: [Peter Hunt: React: Rethinking best practices - JSConf EU](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-- [ ] 
-- [ ] Book online: [How to graphql](https://www.howtographql.com/)
-- [ ] 
-
-##### Be able to write chrome extensions
-
-- [ ] [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): official samples
-
-##### Play with the projects
-
-- [ ] [gazer](https://github.com/anvaka/gazer/): search similar repos by similarity between stars
-
-#### Master TypeScript
-
-- [ ] Article: [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/): long, insightful article
-
 #### Be able to make beautiful web effects
 - [ ] Mesh as repo: [awesome web effects](https://github.com/lindelof/awesome-web-effect)
 
@@ -792,6 +758,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Website: [Vueexamples.com](https://vuejsexamples.com/)
 - [ ] Book online: [Learn Storybook](https://www.learnstorybook.com/)
 - [ ] Question: [Importing multiple files in react](https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react)
+- [ ] Article: [Theming and theme switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/)
 - [ ] Article: [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [x] Article: [How to set an event handler in a react sub-component](https://www.pluralsight.com/guides/how-to-set-an-event-handler-in-a-react-sub-component)
 - [ ] Article: [Top JavaScript frameworks and web development trends in 2021](https://codeburst.io/top-javascript-frameworks-and-web-development-trends-in-2021-313194c0cd92  )
@@ -810,14 +777,68 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Document: [Recipes: Styling with CSS](https://www.gatsbyjs.com/docs/recipes/styling-css/#using-css-modules)
 - [ ] Article: [Creating category pages for gatsby markdown blogs](https://www.samdawson.dev/article/gatsby-categories)
 
- - [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
+- [ ] Repo: [tailwindcss](https://tailwindcss.com/docs): UI components
+
+##### Master flutter
+
+- [ ] repo: [flutter-do](https://github.com/LaoMengFlutter/flutter-do): 开源 flutter 书
 
 ###### Master document site generators
- - [ ] Repo: [docusaurus](https://github.com/facebook/docusaurus): Quickly build documents
- - [ ] Repo: [docz](https://github.com/doczjs/docz/): Quickly build documents
- - [ ] Repo: [docsify](https://github.com/docsifyjs/docsify/): Quickly build documents
- - [ ] Repo: [docute](https://github.com/egoist/docute): Quickly build documents
- - [ ] Repo: [sphinx](https://github.com/sphinx-doc/sphinx): Quickly build documents
+- [ ] Repo: [docusaurus](https://github.com/facebook/docusaurus): Quickly build documents
+- [ ] Repo: [docz](https://github.com/doczjs/docz/): Quickly build documents
+- [ ] Repo: [docsify](https://github.com/docsifyjs/docsify/): Quickly build documents
+- [ ] Repo: [docute](https://github.com/egoist/docute): Quickly build documents
+- [ ] Repo: [sphinx](https://github.com/sphinx-doc/sphinx): Quickly build documents
+
+#### Master JavaScript
+- [ ] Book online: [Eloquent javascript](https://eloquentjavascript.net/)
+- [ ] Book online: [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] Book online: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [ ] Book online: [Exploring ES6](https://exploringjs.com/es6/index.html#toc_ch_typed-arrays)
+- [ ] Book online as repo: [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) ![star](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-Lodash-Underscore?style=social)
+- [ ] Repo: [creeperyang blog](https://github.com/creeperyang/blog)
+- [ ] Repo: [frontend basics](https://github.com/su37josephxia/frontend-basic)
+- [ ] Repo: [FrankKai.github.io](https://github.com/FrankKai/FrankKai.github.io)
+- [ ] Repo: [Front End Interview](https://github.com/lf2021/Front-End-Interview)
+- [ ] Repo: [Airbnb javascript style guide](https://github.com/airbnb/javascript)
+- [ ] Repo: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS): ![star](https://img.shields.io/github/stars/getify/You-Dont-Know-JS?style=social)
+- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [ ] Repo: [awesome js books](https://github.com/jonathandion/awesome-js-books)
+- [ ] Repo: [javascript questions](https://github.com/lydiahallie/javascript-questions)
+- [ ] Repo: [clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [ ] Article: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [ ] Article: [12 common JavaScript questions I used to ask in interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview?guid=5c7a13d6-20c5-438f-8e59-bed8940d25ea&deviceId=45ca29bf-036e-4ff0-9e01-89954e1abfd1)
+- [ ] Article: [Understanding JavaScript bind](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)
+- [ ] website: [awesomejs](https://awesomejs.dev): awesome JavaScript packages
+- [ ] Website: [javascript equality table](https://dorey.github.io/JavaScript-Equality-Table/): JavaScript equality table
+- [ ] Website: [Javascript info](https://javascript.info/polyfills)
+- [ ] Website: [Mastering Javascript](https://masteringjs.io/)
+- [ ] Website: [ECMA 21](https://tc39.es/ecma262/)
+- [ ] Website: [bundle phobia](https://bundlephobia.com/): find packages, easily
+- [ ] Website: [1loc](https://1loc.dev/): JavaScript utilities in one line of code!
+- [ ] Article: [*A tour of V8: Garbage Collection*](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+- [ ] Article: [Understanding JavaScript function invocation and 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+- [ ] Repo: [30-days-of-javascript](https://github.com/Asabeneh/30-Days-Of-JavaScript) 
+- [x] Article: [*A Quick Guide to Javascript Promises*](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html#:~:text=A%20Promise%20is%20an%20object,of%20the%20call%20was%20successful.)
+- [x] Article: [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [x] Article: [JAVASCRIPT 装载和执行](https://coolshell.cn/articles/9749.html)
+- [x] Article: [Create HTML5 Desktop Notifications with React](https://www.pluralsight.com/guides/html5-desktop-notifications-with-react)
+- [ ] Question: [Stop setInterval call in JavaScript](https://stackoverflow.com/questions/109086/stop-setinterval-call-in-javascript)
+- [ ] Question: [What is the difference between localStorage, sessionStoraage, session and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
+- [x] Question: [Load local JSON file into variable](https://stackoverflow.com/questions/14484613/load-local-json-file-into-variable)
+- [x] Question: [How do I iterate ovre a JSON structure](https://stackoverflow.com/questions/1078118/how-do-i-iterate-over-a-json-structure)
+- [x] Question: [ESLint doesn't allow for in](https://stackoverflow.com/questions/43807515/eslint-doesnt-allow-for-in)
+- [ ] Question: [Can I use loops to minimize ES6 import statements?](https://stackoverflow.com/questions/47117756/can-i-use-loops-to-minimize-es6-import-statements/47117907)
+- [ ] Video: [Peter Hunt: React: Rethinking best practices - JSConf EU](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+- [ ] Book online: [How to graphql](https://www.howtographql.com/)
+##### Be able to write chrome extensions
+- [ ] [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): official samples
+##### Play with the projects
+- [ ] [gazer](https://github.com/anvaka/gazer/): search similar repos by similarity between stars
+- [ ] [revogrid](https://github.com/revolist/revogrid): virtual data grid like excel
+#### Master TypeScript
+- [ ] Article: [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/): long, insightful article
+
 
 #### Master the tools
 
@@ -878,6 +899,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [a red teamer diaries](https://vx-underground.org/)
 - [ ] Repo: [SecListsw](https://github.com/danielmiessler/SecLists)
 - [ ] Repo: [Resources for beginner bug bounty hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [ ] Repo: [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): beginner pen-testing start guide
 - [ ] Question: [有哪些值得关注的黑客会议？参加体验如何？](https://www.zhihu.com/question/31425599/answer/143302109)
 #### Tools
 - [ ] Repo: [ImHex](https://github.com/WerWolv/ImHex): hex editor
@@ -891,6 +913,7 @@ We HOPE that what we are writing today will still be there after some decades or
 
 - [ ] Website: [official guide](https://nodejs.dev/learn)
 - [ ] Repo: [node bestpractices](https://github.com/goldbergyoni/nodebestpractices)
+- [ ] article: [Node.js == C++](https://medium.com/swlh/node-js-c-da454904811f)
 
 ### Master c
 
@@ -903,6 +926,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Book as repo: [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++ 从入门到进阶
 
 - [ ] Website: [hacking cpp](https://hackingcpp.com/)
+- [ ] Website: [c programming.cm](https://www.cprogramming.com/)
 - [ ] Website: [c++ faq](http://www.cs.technion.ac.il/users/yechiel/c++-faq/thank-you.htm)
 - [ ] Website: [cgdb](http://cgdb.github.io/docs/cgdb.html)
 - [ ] Website: [cplusplus.com](http://cplusplus.com/)
@@ -994,6 +1018,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Repo: [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)
 - [ ] Repo: [Deeplearning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [ ] Repo: [ABigSurvey](https://github.com/NiuTrans/ABigSurvey)
+- [ ] website: [Inverview query blog](https://www.interviewquery.com/blog-machine-learning-interview-questions/): interview for data science
 - [ ] 
 - [ ] Repo: [Bringing old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 - [ ] Repo: [datasets](https://github.com/huggingface/datasets)
@@ -1132,6 +1157,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ### Logo
 
 - [ ] website: [namcheap](https://www.namecheap.com/logo-maker/)
+- [ ] repo: [vecotrlogozone](https://github.com/VectorLogoZone/vectorlogozone): many vectors
 
 ### Tools 
 
@@ -1166,6 +1192,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] website: [Paraphrasing](https://paraphrasing-tool.com/): rewrite a passage, using different words and phraases
 - [ ] website: [freedictionary](https://www.thefreedictionary.com/): 
 - [ ] website: [Test your vocab](http://testyourvocab.com/): test your vocabulary
+- [ ] website: [Bookauthority](https://bookauthority.org/press): read what thought readers read
 - [ ] Book: [*The Sense of Styles* by Steven Pinker](https://book.douban.com/subject/25846315/)
 - [ ] Book: [*On Writing Well* by William Zinsser](https://book.douban.com/subject/4740002/)
 - [ ] Book: [*The Elements of Style* by William Stunk Jr. & E. B. White](https://book.douban.com/subject/2210350/)
@@ -1173,6 +1200,7 @@ We HOPE that what we are writing today will still be there after some decades or
 ## Master music
 
 - [ ] website: [free piano method](https://www.freepianomethod.com/)
+- [ ] website: [Harptabs](https://www.harptabs.com/index.php): find Harmonica tabs
 
 ## Master Drawing
 
@@ -1185,6 +1213,7 @@ We HOPE that what we are writing today will still be there after some decades or
 - [x] Question: [What is the expectation of X2 where X is distributed normally?](https://math.stackexchange.com/questions/99025/what-is-the-expectation-of-x2-where-x-is-distributed-normally)
 ## Know a lot about network science
 - [ ] Wiki: [information market](https://www.wikiwand.com/en/Information_market#:~:text=For%20Linde%20and%20Stock%20(2011,commerce%20with%20(digital)%20information.)
+- [ ] Book: [Social capital by Nan Lin](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F1941527%2F&query=social+capital&cat_id=1001&type=search&pos=1)
 ## Know a lot about Economics
 
 - [ ] Website: [NBER: National Bureau of Economic Research](https://www.nber.org/)
@@ -1243,7 +1272,8 @@ We HOPE that what we are writing today will still be there after some decades or
 - [ ] Wiki: [Golden rule](https://www.wikiwand.com/en/Golden_Rule)
 
 - [ ] [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
- 
+- [ ] website: [aspasiaphilosophy](https://www.aspasiaphilosophy.com/): Aspasia 社群致力于为中文母语的哲学学生提供友好、互助的交流平台。各学校/专业、各学习阶段、各性别/性向/民族/国家的朋友都一样欢迎~
+
 ## Know a lot about politics
 
 - [ ] wiki: [Totalitarianism](https://www.wikiwand.com/en/Totalitarianism)
